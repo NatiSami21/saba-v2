@@ -12,6 +12,30 @@ const proficiencyLabel = (n) => {
   return "familiar";
 };
 
+// Topic change detection function
+function detectTopicChange(newQuery, lastTopic) {
+  if (!lastTopic) return true;
+  
+  const newQueryLower = newQuery.toLowerCase();
+  const lastTopicText = lastTopic._type === "project" ? lastTopic.title.toLowerCase() :
+                       lastTopic._type === "skill" ? lastTopic.name.toLowerCase() :
+                       lastTopic._type === "experience" ? `${lastTopic.role} ${lastTopic.company}`.toLowerCase() :
+                       "";
+  
+  if (!lastTopicText) return true;
+  
+  // Check if the new query contains words from the last topic
+  const topicWords = lastTopicText.split(/\s+/).filter(word => word.length > 3);
+  const hasTopicWords = topicWords.some(word => newQueryLower.includes(word));
+  
+  // Also check for common continuation words that indicate same topic
+  const continuationWords = ['it', 'that', 'this', 'the', 'project', 'skill', 'experience', 'he', 'his'];
+  const hasContinuationWords = continuationWords.some(word => newQueryLower.includes(word));
+  
+  // If it has topic words OR continuation words without a clear new topic, assume same topic
+  return !(hasTopicWords || (hasContinuationWords && newQuery.split(' ').length < 5));
+}
+
 // Enhanced keyword extraction with comprehensive tech and experience mapping
 function extractKeywords(query) {
   const stopWords = new Set([
@@ -266,7 +290,6 @@ export default function PromptSection({ jobData = null }) {
   const [suggestions, setSuggestions] = useState([]);
   const [listening, setListening] = useState(false);
   const [lastTopic, setLastTopic] = useState(null);
-  const [conversationContext, setConversationContext] = useState({});
 
   const recognitionRef = useRef(null);
   const fuseRef = useRef(null);
@@ -401,30 +424,36 @@ export default function PromptSection({ jobData = null }) {
       }, speed);
     });
 
-  // Enhanced main send handler with context tracking
+  // Enhanced main send handler with topic change detection
   const handleSend = async (raw) => {
     const q = (raw || input || "").trim();
     if (!q) return;
 
-    // Push user message and clear input
+    // Check if this is a topic change
+    const isTopicChange = detectTopicChange(q, lastTopic);
+    if (isTopicChange) {
+      setLastTopic(null); // Reset context for new topics
+    }
+
+    // push user message and clear input
     pushMessage("user", q);
     setInput("");
 
-    // Run search
+    // run search
     if (!fuseRef.current) {
       await typeOut("Saba is indexing data. Please try again in a moment.");
       return;
     }
 
-    // Show typing placeholder quickly
+    // show typing placeholder quickly
     pushMessage("saba", "");
     setIsTyping(true);
 
     // Enhanced query processing with context awareness
     let processedQuery = extractKeywords(q);
     
-    // If we have context from previous messages, use it to enhance the query
-    if (lastTopic) {
+    // If we have context from previous messages and it's not a topic change, use it
+    if (lastTopic && !isTopicChange) {
       if (lastTopic._type === "project") {
         processedQuery += ` ${lastTopic.title}`;
       } else if (lastTopic._type === "skill") {
@@ -451,16 +480,16 @@ export default function PromptSection({ jobData = null }) {
     // Craft narrative with context awareness
     const narrative = craftNarrativeFromResults(finalResults, q, lastTopic);
     
-    // Update last topic for context
-    if (finalResults.length > 0) {
+    // Update last topic for context (unless it's a clear topic change)
+    if (finalResults.length > 0 && !isTopicChange) {
       setLastTopic(finalResults[0].item);
     }
 
-    // Push with typewriter animation
+    // push with typewriter animation
     setMessages((m) => m.filter((mm) => !(mm.role === "saba" && mm.text === "")));
     await typeOut(narrative, 14);
 
-    // Prepare follow-ups (based on top item and query context)
+    // prepare follow-ups (based on top item and query context)
     const top = finalResults[0] ? finalResults[0].item : null;
     const followUps = makeFollowUps(top, q);
     setSuggestions(followUps);
