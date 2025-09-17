@@ -224,18 +224,12 @@
         "matchScore": 70,
         "evidence": "Explored 3D visualization features in frontend projects."
       },
-      {
-        "skillName": "Redux",
-        "myProficiency": 80,
-        "jobRequirementLevel": "Strong",
-        "matchScore": 80,
-        "evidence": "Managed complex state in React applications."
-      },
+      
       {
         "skillName": "React Native",
-        "myProficiency": 70,
+        "myProficiency": 50,
         "jobRequirementLevel": "Intermediate",
-        "matchScore": 70,
+        "matchScore": 50,
         "evidence": "Familiar with mobile app development using React Native."
       }, 
       {
