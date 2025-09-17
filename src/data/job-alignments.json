@@ -166,6 +166,113 @@
         "evidence": "Bachelor's degree in Software Engineering aligns with the requirement."
       }
     }
+  },
+
+"frontend-developer-addis-ababa102": {
+  "meta": {
+    "jobId": "frontend-developer-addis-ababa",
+    "company": "Not Specified",
+    "role": "Frontend Developer (Internship)",
+    "source": "Job Posting (September 15, 2025)",
+    "dateAdded": "2025-09-17",
+    "jobDescription": "Frontend Developer role focusing on React.js, TypeScript, React Native, Next.js, and related technologies. Involves building responsive web and mobile applications, UI/UX design, state management, API integration, performance optimization, and collaboration with teams."
+  },
+  "keyRequirements": [
+    "Proficiency in React.js, TypeScript, Next.js, React Native",
+    "Experience with UI/UX design and state management (Redux)",
+    "Knowledge of Node.js, Express.js, MongoDB, PostgreSQL",
+    "Frontend frameworks: React, Vue.js, Angular (React required)",
+    "API integration (RESTful, GraphQL)",
+    "Performance optimization, unit testing, CI/CD, containerization",
+    "Familiarity with Linux/Windows OS, security measures, data protection"
+  ],
+  "narrative": "Natinael Samuel is a versatile frontend and full-stack developer with strong expertise in React.js, TypeScript, Next.js, and Tailwind CSS. He has delivered production-ready web and mobile applications, focusing on responsive design, performance optimization, and seamless API integration. His projects such as MedHub Ethiopia and WZSIT WebApp demonstrate his ability to design scalable UIs, integrate backend services, and apply modern state management with Redux. With proven skills in debugging, testing, and cross-functional collaboration, Natinael is an excellent fit for this Frontend Developer internship.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "React",
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Used extensively in MedHub Ethiopia and WZSIT WebApp frontend."
+      },
+      {
+        "skillName": "TypeScript",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 85,
+        "evidence": "Applied in Next.js and React projects for type safety and maintainability."
+      },
+      {
+        "skillName": "Next.js",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 85,
+        "evidence": "Built MedHub Ethiopia with server-side rendering and API routes."
+      },
+      {
+        "skillName": "Tailwind CSS",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 85,
+        "evidence": "Implemented responsive design in multiple production projects."
+      },
+      {
+        "skillName": "Three.js",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 70,
+        "evidence": "Explored 3D visualization features in frontend projects."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-2",
+        "relevance": "MedHub Ethiopia demonstrates frontend expertise in Next.js, Tailwind CSS, MongoDB, and UI/UX design.",
+        "matchScore": 95
+      },
+      {
+        "projectId": "project-3",
+        "relevance": "WZSIT WebApp shows strong React.js and real-time frontend integration with WebRTC.",
+        "matchScore": 90
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-2",
+        "relevance": "Led frontend development for WZSIT WebApp with strong React.js and UI/UX design.",
+        "matchScore": 90
+      },
+      {
+        "experienceId": "exp-5",
+        "relevance": "Led MedHub Ethiopia frontend, integrating secure UI, state management, and APIs.",
+        "matchScore": 95
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Attention to Detail",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
+    }
   }
 }
 
+
+
+
+}
