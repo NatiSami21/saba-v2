@@ -1,0 +1,92 @@
+{
+  "job-unique-id": {
+    "meta": {
+      "jobId": "job-unique-id",
+      "company": "Company Name",
+      "role": "Job Title",
+      "source": "Job board or source URL",
+      "dateAdded": "YYYY-MM-DD",
+      "jobDescription": "Full job description text pasted here for reference"
+    },
+    "keyRequirements": [
+      "Key requirement 1 from job description",
+      "Key requirement 2 from job description",
+      "..."
+    ],
+    "narrative": "A third-person narrative summarizing why Natinael is a strong fit for this role, highlighting key alignments from skills, projects, and experience.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Skill name from knowledge-base",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert", // e.g., Expert, Strong, Nice-to-have
+          "matchScore": 95, // Subjective score (0-100) based on match
+          "evidence": "Brief evidence from experience or projects"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-id from knowledge-base",
+          "relevance": "How this project directly addresses a job requirement",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-id from knowledge-base",
+          "relevance": "How this experience relates to the job role",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Teamwork",
+            "myStrength": "High", // e.g., High, Medium, Low
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Leadership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true, // or false
+        "evidence": "Brief explanation if relevant"
+      }
+    }
+  }
+}
+
+Explanation of Sections:
+meta: Contains basic job details and the full job description for reference.
+
+keyRequirements: A list of extracted key requirements from the job description to facilitate matching.
+
+narrative: A crafted summary in the third person, similar to a cover letter highlight.
+
+alignment: Detailed matching of skills, projects, experience, cultural fit, and education.
+
+skills: Each skill includes your proficiency, the job's requirement level, a match score, and evidence.
+
+projectHighlights and experienceHighlights: Reference items from your knowledge-base with relevance and match scores.
+
+culturalFit: For soft skills and cultural aspects often mentioned in job descriptions.
+
+educationFit: If education is a key requirement, this section can highlight its relevance.
+
+For each job application, generate a unique ID (e.g., company-role in lowercase with hyphens).
+
+Fill in the meta section with job details.
+
+Extract and list the keyRequirements from the job description.
+
+Write a compelling narrative based on the job's needs and your strengths.
+
+Populate the alignment sections by referencing your knowledge-base.json (using IDs for projects and experience).
+
+Set fields to null if not applicable (e.g., culturalFit might be null for highly technical roles).
