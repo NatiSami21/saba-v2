@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Fuse from "fuse.js";
 import knowledgeBase from "../data/knowledge-base.json";
 
-// --- helpers (ENHANCED) ----------------------------------------------------
+// --- Enhanced Helpers ------------------------------------------------------
 const proficiencyLabel = (n) => {
   if (n >= 90) return "expert-level";
   if (n >= 75) return "advanced";
@@ -12,16 +12,18 @@ const proficiencyLabel = (n) => {
   return "familiar";
 };
 
-// Enhanced keyword extraction with tech-specific terms
+// Enhanced keyword extraction with comprehensive tech and experience mapping
 function extractKeywords(query) {
   const stopWords = new Set([
     'tell', 'me', 'about', 'his', 'the', 'a', 'an', 'is', 'are', 'what', 
     'which', 'how', 'can', 'you', 'show', 'demonstrate', 'projects', 'skills',
-    'experience', 'tell me', 'show me', 'what are', 'which projects'
+    'experience', 'tell me', 'show me', 'what are', 'which projects', 'describe',
+    'tell me about', 'what is', 'what was', 'how about', 'give me'
   ]);
   
-  // Tech-specific term mapping
-  const techMapping = {
+  // Comprehensive tech and experience term mapping
+  const termMapping = {
+    // Technical skills
     'ml': 'machine learning',
     'ai': 'artificial intelligence',
     'ci/cd': 'continuous integration',
@@ -44,13 +46,44 @@ function extractKeywords(query) {
     'webrtc': 'WebRTC',
     'websockets': 'WebSockets',
     'jwt': 'JWT',
-    'oauth': 'OAuth'
+    'oauth': 'OAuth',
+    'tailwind': 'Tailwind CSS',
+    'redux': 'Redux',
+    'three.js': 'Three.js',
+    'git': 'Git',
+    'agile': 'Agile Methodology',
+    
+    // Experience and roles
+    'ai experience': 'artificial intelligence machine learning',
+    'machine learning experience': 'artificial intelligence machine learning',
+    'backend experience': 'backend development',
+    'frontend experience': 'frontend development',
+    'fullstack experience': 'full-stack development',
+    'devops experience': 'DevOps',
+    'project management experience': 'project management',
+    'startup experience': 'startup founder',
+    'entrepreneurship experience': 'entrepreneurship',
+    'lead developer experience': 'lead developer',
+    'educational background': 'education degree university',
+    'education': 'education degree university',
+    'strongest skills': 'proficiency expert advanced',
+    'strongest technical skills': 'proficiency expert advanced',
+    
+    // Projects
+    'myfayda': 'MyFayda eKYC',
+    'medhub': 'MedHub Ethiopia',
+    'wolayita': 'Wolayita Zone',
+    'st mary': 'St. Mary Finance',
+    'wa-leba': 'Wa-Leba & Wa-Leba+',
+    'bible trivia': 'Bible Trivia Game',
+    'book store': 'Offline Book Store',
+    'vehicle management': 'Vehicle Management System'
   };
   
   let processedQuery = query.toLowerCase();
   
-  // Replace tech abbreviations with full terms
-  Object.entries(techMapping).forEach(([short, full]) => {
+  // Replace terms with mapped equivalents
+  Object.entries(termMapping).forEach(([short, full]) => {
     const regex = new RegExp(`\\b${short}\\b`, 'gi');
     processedQuery = processedQuery.replace(regex, full);
   });
@@ -63,6 +96,33 @@ function extractKeywords(query) {
 
 // Enhanced context-aware narrative crafting
 function craftNarrativeFromResults(results, query, lastTopic = null) {
+  // Handle specific common queries directly
+  if (query.toLowerCase().includes('strongest skill') || 
+      query.toLowerCase().includes('strongest technical skill')) {
+    const topSkills = knowledgeBase.skills
+      .sort((a, b) => b.proficiency - a.proficiency)
+      .slice(0, 5);
+    return `Natinael's strongest technical skills are: ${topSkills.map(s => `${s.name} (${proficiencyLabel(s.proficiency)})`).join(', ')}. He has applied these skills across various projects like ${knowledgeBase.projects.slice(0, 3).map(p => p.title).join(', ')}.`;
+  }
+  
+  if (query.toLowerCase().includes('education') || 
+      query.toLowerCase().includes('educational background') ||
+      query.toLowerCase().includes('degree')) {
+    const { education } = knowledgeBase.bio;
+    return `Natinael holds a ${education.degree} from ${education.institution} (${education.period}).`;
+  }
+  
+  if (query.toLowerCase().includes('ai experience') || 
+      query.toLowerCase().includes('machine learning experience')) {
+    const aiSkills = knowledgeBase.skills.filter(s => 
+      s.category === "AI/ML" || s.name.includes("TensorFlow") || s.name.includes("PyTorch")
+    );
+    const aiProjects = knowledgeBase.projects.filter(p => 
+      p.technologies.some(t => t.includes("TensorFlow") || t.includes("PyTorch") || t.includes("AI"))
+    );
+    return `Natinael has ${aiSkills.length > 0 ? proficiencyLabel(aiSkills[0].proficiency) : 'advanced'} experience in AI and machine learning. He has worked with technologies like ${aiSkills.slice(0, 3).map(s => s.name).join(', ')} on projects such as ${aiProjects.slice(0, 2).map(p => p.title).join(' and ')}.`;
+  }
+  
   if (!results || results.length === 0) {
     // Try to provide more specific default responses based on query
     if (query.toLowerCase().includes('project') || query.toLowerCase().includes('app')) {
@@ -137,6 +197,12 @@ function craftNarrativeFromResults(results, query, lastTopic = null) {
     return `"${top.quote}" - ${top.author}, ${top.position} at ${top.company}`;
   }
 
+  // For bio/education
+  if (top._type === "bio") {
+    const { education } = top;
+    return `Natinael holds a ${education.degree} from ${education.institution} (${education.period}).`;
+  }
+
   // Fallback - combine information from multiple results
   const snippets = [];
   for (let i = 0; i < Math.min(results.length, 3); i++) {
@@ -145,6 +211,7 @@ function craftNarrativeFromResults(results, query, lastTopic = null) {
     else if (it._type === "skill") snippets.push(`Skill: ${it.name} (${proficiencyLabel(it.proficiency)})`);
     else if (it._type === "experience") snippets.push(`Role: ${it.role} at ${it.company}`);
     else if (it._type === "testimonial") snippets.push(`Testimonial from ${it.author}`);
+    else if (it._type === "bio") snippets.push(`Education: ${it.education.degree}`);
   }
   return `Based on your query, I found: ${snippets.join("; ")}. Ask a follow-up for details on any of these.`;
 }
@@ -190,7 +257,7 @@ function makeFollowUps(topItem, query = "") {
   ];
 }
 
-// --- component -------------------------------------------------------------
+// --- Enhanced Component ----------------------------------------------------
 export default function PromptSection({ jobData = null }) {
   const [fuse, setFuse] = useState(null);
   const [messages, setMessages] = useState([]);
@@ -199,16 +266,24 @@ export default function PromptSection({ jobData = null }) {
   const [suggestions, setSuggestions] = useState([]);
   const [listening, setListening] = useState(false);
   const [lastTopic, setLastTopic] = useState(null);
+  const [conversationContext, setConversationContext] = useState({});
 
   const recognitionRef = useRef(null);
   const fuseRef = useRef(null);
   const containerRef = useRef(null);
 
-  // Build flattened index from knowledgeBase (ENHANCED)
+  // Build comprehensive index from knowledgeBase
   useEffect(() => {
     const items = [];
 
-    // Enhanced project indexing with more fields
+    // Bio and education
+    items.push({ 
+      ...knowledgeBase.bio, 
+      _type: "bio",
+      _searchText: `${knowledgeBase.bio.fullName} ${knowledgeBase.bio.title} ${knowledgeBase.bio.summary} ${knowledgeBase.bio.education.degree} ${knowledgeBase.bio.education.institution} ${knowledgeBase.bio.education.period}`.toLowerCase()
+    });
+
+    // Enhanced project indexing
     (knowledgeBase.projects || []).forEach((p) => {
       items.push({ 
         ...p, 
@@ -226,7 +301,7 @@ export default function PromptSection({ jobData = null }) {
       });
     });
 
-    // Enhanced experience indexing
+    // Enhanced experience indexing with skillsUsed
     (knowledgeBase.experience || []).forEach((e) => {
       items.push({ 
         ...e, 
@@ -245,20 +320,22 @@ export default function PromptSection({ jobData = null }) {
       });
     });
 
-    // Enhanced Fuse.js configuration
+    // Enhanced Fuse.js configuration with weighted fields
     const options = {
       includeMatches: true,
-      threshold: 0.35, // Balanced threshold
+      threshold: 0.35,
       ignoreLocation: true,
       minMatchCharLength: 2,
       keys: [
-        { name: "name", weight: 0.5 },
-        { name: "title", weight: 0.5 },
-        { name: "synonyms", weight: 0.4 },
-        { name: "technologies", weight: 0.4 },
-        { name: "description", weight: 0.3 },
-        { name: "role", weight: 0.4 },
-        { name: "company", weight: 0.3 },
+        { name: "name", weight: 0.6 },
+        { name: "title", weight: 0.6 },
+        { name: "synonyms", weight: 0.5 },
+        { name: "technologies", weight: 0.5 },
+        { name: "role", weight: 0.5 },
+        { name: "company", weight: 0.4 },
+        { name: "description", weight: 0.4 },
+        { name: "accomplishments", weight: 0.4 },
+        { name: "skillsUsed", weight: 0.4 },
         { name: "quote", weight: 0.3 },
         { name: "_searchText", weight: 0.4 }
       ],
@@ -269,7 +346,7 @@ export default function PromptSection({ jobData = null }) {
     setFuse(f);
   }, []);
 
-  // voice recognition setup (optional)
+  // Voice recognition setup
   useEffect(() => {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechRecognition) return;
@@ -291,7 +368,7 @@ export default function PromptSection({ jobData = null }) {
     };
   }, []);
 
-  // helper: push message
+  // Helper: push message
   const pushMessage = (role, text) => {
     setMessages((m) => [...m, { id: Date.now() + Math.random(), role, text }]);
     setTimeout(() => {
@@ -299,7 +376,7 @@ export default function PromptSection({ jobData = null }) {
     }, 50);
   };
 
-  // typewriter for Saba's text
+  // Typewriter effect for Saba's text
   const typeOut = (text, speed = 18) =>
     new Promise((resolve) => {
       setIsTyping(true);
@@ -329,22 +406,34 @@ export default function PromptSection({ jobData = null }) {
     const q = (raw || input || "").trim();
     if (!q) return;
 
-    // push user message and clear input
+    // Push user message and clear input
     pushMessage("user", q);
     setInput("");
 
-    // run search
+    // Run search
     if (!fuseRef.current) {
       await typeOut("Saba is indexing data. Please try again in a moment.");
       return;
     }
 
-    // show typing placeholder quickly
+    // Show typing placeholder quickly
     pushMessage("saba", "");
     setIsTyping(true);
 
-    // Enhanced query processing
-    const processedQuery = extractKeywords(q);
+    // Enhanced query processing with context awareness
+    let processedQuery = extractKeywords(q);
+    
+    // If we have context from previous messages, use it to enhance the query
+    if (lastTopic) {
+      if (lastTopic._type === "project") {
+        processedQuery += ` ${lastTopic.title}`;
+      } else if (lastTopic._type === "skill") {
+        processedQuery += ` ${lastTopic.name}`;
+      } else if (lastTopic._type === "experience") {
+        processedQuery += ` ${lastTopic.role} ${lastTopic.company}`;
+      }
+    }
+    
     const searchQuery = processedQuery || q;
     
     // Perform search with multiple strategies
@@ -354,7 +443,7 @@ export default function PromptSection({ jobData = null }) {
     if (finalResults.length === 0) {
       const broaderSearch = fuseRef.current.search(searchQuery, { 
         limit: 5, 
-        threshold: 0.5 // Broader threshold for fallback
+        threshold: 0.5
       });
       finalResults = broaderSearch;
     }
@@ -367,23 +456,23 @@ export default function PromptSection({ jobData = null }) {
       setLastTopic(finalResults[0].item);
     }
 
-    // push with typewriter animation
+    // Push with typewriter animation
     setMessages((m) => m.filter((mm) => !(mm.role === "saba" && mm.text === "")));
     await typeOut(narrative, 14);
 
-    // prepare follow-ups (based on top item and query context)
+    // Prepare follow-ups (based on top item and query context)
     const top = finalResults[0] ? finalResults[0].item : null;
     const followUps = makeFollowUps(top, q);
     setSuggestions(followUps);
   };
 
-  // suggestion click
+  // Suggestion click
   const handleSuggestionClick = (s) => {
     handleSend(s);
     setSuggestions([]);
   };
 
-  // voice toggle
+  // Voice toggle
   const toggleListen = () => {
     if (!recognitionRef.current) return;
     if (listening) {
@@ -404,7 +493,7 @@ export default function PromptSection({ jobData = null }) {
       <div className="bg-black/40 backdrop-blur-md rounded-2xl shadow-lg border border-white/10 p-4 sm:p-6">
         <h3 className="text-xl sm:text-2xl font-semibold text-white/90 mb-3">Ask Saba</h3>
 
-        {/* messages list */}
+        {/* Messages list */}
         <div
           ref={containerRef}
           className="h-64 sm:h-72 overflow-y-auto space-y-3 py-2 px-2 rounded-md bg-black/20"
@@ -428,7 +517,7 @@ export default function PromptSection({ jobData = null }) {
           )}
         </div>
 
-        {/* suggestions */}
+        {/* Suggestions */}
         {suggestions.length > 0 && (
           <div className="mt-3 flex flex-wrap gap-2">
             {suggestions.slice(0, 4).map((s, i) => (
@@ -443,7 +532,7 @@ export default function PromptSection({ jobData = null }) {
           </div>
         )}
 
-        {/* input row */}
+        {/* Input row */}
         <div className="mt-4 flex gap-2 items-center">
           <input
             value={input}
@@ -453,7 +542,7 @@ export default function PromptSection({ jobData = null }) {
             className="flex-1 bg-white/5 placeholder-gray-400 text-white rounded-lg px-3 py-2 outline-none"
           />
 
-          {/* mic */}
+          {/* Microphone button */}
           {(window.SpeechRecognition || window.webkitSpeechRecognition) ? (
             <button
               onClick={toggleListen}
