@@ -198,28 +198,28 @@
       },
       {
         "skillName": "TypeScript",
-        "myProficiency": 85,
+        "myProficiency": 75,
         "jobRequirementLevel": "Strong",
-        "matchScore": 85,
+        "matchScore": 70,
         "evidence": "Applied in Next.js and React projects for type safety and maintainability."
       },
       {
         "skillName": "Next.js",
-        "myProficiency": 85,
-        "jobRequirementLevel": "Strong",
-        "matchScore": 85,
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
         "evidence": "Built MedHub Ethiopia with server-side rendering and API routes."
       },
       {
         "skillName": "Tailwind CSS",
-        "myProficiency": 85,
+        "myProficiency": 75,
         "jobRequirementLevel": "Strong",
         "matchScore": 85,
         "evidence": "Implemented responsive design in multiple production projects."
       },
       {
         "skillName": "Three.js",
-        "myProficiency": 70,
+        "myProficiency": 60,
         "jobRequirementLevel": "Intermediate",
         "matchScore": 70,
         "evidence": "Explored 3D visualization features in frontend projects."
@@ -227,23 +227,23 @@
       
       {
         "skillName": "React Native",
-        "myProficiency": 50,
+        "myProficiency": 30,
         "jobRequirementLevel": "Intermediate",
         "matchScore": 50,
         "evidence": "Familiar with mobile app development using React Native."
       }, 
       {
         "skillName": "Node.js",
-        "myProficiency": 85,
-        "jobRequirementLevel": "Strong",
-        "matchScore": 85,
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
         "evidence": "Built MedHub Ethiopia with server-side rendering and API routes."
       },
       {
         "skillName": "Mongo dB",
-        "myProficiency": 85,
-        "jobRequirementLevel": "Strong",
-        "matchScore": 85,
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
         "evidence": "Built MedHub Ethiopia with server-side rendering and API routes."
       }
     ],
