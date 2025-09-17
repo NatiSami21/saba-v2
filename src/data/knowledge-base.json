@@ -1,0 +1,426 @@
+{
+  "bio": {
+    "fullName": "Natinael Samuel",
+    "title": "Full-Stack Developer & AI Enthusiast",
+    "summary": "Natinael is a versatile full-stack developer with 4+ years of experience building scalable web applications and AI-powered solutions. He specializes in the MERN stack and has successfully led multiple projects from concept to deployment. His unique blend of technical expertise, entrepreneurial mindset, and business acumen allows him to create solutions that address real-world problems effectively.",
+    "contact": {
+      "email": "your-email@example.com",
+      "linkedin": "https://linkedin.com/in/yourprofile",
+      "github": "https://github.com/yourusername",
+      "portfolio": "https://yourportfolio.com"
+    },
+    "education": {
+      "degree": "BSc in Software Engineering",
+      "institution": "Wachemo University",
+      "period": "2020 - 2024"
+    }
+  },
+  "skills": [
+    {
+      "name": "React",
+      "category": "Frontend",
+      "proficiency": 95,
+      "synonyms": ["ReactJS", "React.js", "Frontend Framework", "UI Library"]
+    },
+    {
+      "name": "TypeScript",
+      "category": "Frontend",
+      "proficiency": 85,
+      "synonyms": ["TS", "Typed JavaScript"]
+    },
+    {
+      "name": "JavaScript",
+      "category": "Frontend",
+      "proficiency": 90,
+      "synonyms": ["JS", "ES6", "ES2015"]
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "proficiency": 85,
+      "synonyms": ["Node", "Server-side JavaScript"]
+    },
+    {
+      "name": "Express.js",
+      "category": "Backend",
+      "proficiency": 80,
+      "synonyms": ["Express", "Web Framework"]
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database",
+      "proficiency": 80,
+      "synonyms": ["NoSQL", "Document Database"]
+    },
+    {
+      "name": "SQL",
+      "category": "Database",
+      "proficiency": 75,
+      "synonyms": ["MySQL", "Relational Database"]
+    },
+    {
+      "name": "Python",
+      "category": "Backend",
+      "proficiency": 80,
+      "synonyms": ["Py", "Data Science", "AI Programming"]
+    },
+    {
+      "name": "PHP",
+      "category": "Backend",
+      "proficiency": 75,
+      "synonyms": ["Web Development"]
+    },
+    {
+      "name": "Java",
+      "category": "Backend",
+      "proficiency": 70,
+      "synonyms": ["Android Development"]
+    },
+    {
+      "name": "HTML5",
+      "category": "Frontend",
+      "proficiency": 95,
+      "synonyms": ["HTML", "Markup"]
+    },
+    {
+      "name": "CSS3",
+      "category": "Frontend",
+      "proficiency": 90,
+      "synonyms": ["Styling", "Tailwind CSS", "Responsive Design"]
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "proficiency": 85,
+      "synonyms": ["CSS Framework", "Utility-first CSS"]
+    },
+    {
+      "name": "Redux",
+      "category": "Frontend",
+      "proficiency": 80,
+      "synonyms": ["State Management"]
+    },
+    {
+      "name": "Three.js",
+      "category": "Frontend",
+      "proficiency": 70,
+      "synonyms": ["3D Graphics", "WebGL"]
+    },
+    {
+      "name": "Git",
+      "category": "Tools",
+      "proficiency": 85,
+      "synonyms": ["Version Control"]
+    },
+    {
+      "name": "Docker",
+      "category": "DevOps",
+      "proficiency": 70,
+      "synonyms": ["Containerization"]
+    },
+    {
+      "name": "TensorFlow",
+      "category": "AI/ML",
+      "proficiency": 70,
+      "synonyms": ["Machine Learning", "Deep Learning"]
+    },
+    {
+      "name": "PyTorch",
+      "category": "AI/ML",
+      "proficiency": 65,
+      "synonyms": ["Machine Learning Framework"]
+    },
+    {
+      "name": "Computer Vision",
+      "category": "AI/ML",
+      "proficiency": 75,
+      "synonyms": ["CV", "Image Processing"]
+    },
+    {
+      "name": "RESTful APIs",
+      "category": "Backend",
+      "proficiency": 85,
+      "synonyms": ["API Development", "Web Services"]
+    },
+    {
+      "name": "WebRTC",
+      "category": "Frontend",
+      "proficiency": 75,
+      "synonyms": ["Real-time Communication", "Video Chat"]
+    },
+    {
+      "name": "WebSockets",
+      "category": "Backend",
+      "proficiency": 70,
+      "synonyms": ["Real-time Data", "Socket.io"]
+    },
+    {
+      "name": "JWT",
+      "category": "Backend",
+      "proficiency": 80,
+      "synonyms": ["Authentication", "JSON Web Tokens"]
+    },
+    {
+      "name": "OAuth",
+      "category": "Backend",
+      "proficiency": 75,
+      "synonyms": ["Authorization", "Social Login"]
+    },
+    {
+      "name": "Agile Methodology",
+      "category": "Project Management",
+      "proficiency": 80,
+      "synonyms": ["Scrum", "Iterative Development"]
+    },
+    {
+      "name": "Requirements Engineering",
+      "category": "Project Management",
+      "proficiency": 85,
+      "synonyms": ["SRS", "Stakeholder Engagement"]
+    },
+    {
+      "name": "System Design",
+      "category": "Architecture",
+      "proficiency": 75,
+      "synonyms": ["Software Architecture", "Scalability"]
+    },
+    {
+      "name": "UI/UX Design",
+      "category": "Frontend",
+      "proficiency": 75,
+      "synonyms": ["User Experience", "User Interface"]
+    },
+    {
+      "name": "Entrepreneurship",
+      "category": "Business",
+      "proficiency": 80,
+      "synonyms": ["Startup", "Business Development"]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "title": "MyFayda eKYC",
+      "description": "MyFayda eKYC is a digital identity solution that integrates with the Fayda National ID system, empowering users to verify their identities securely. It aims to enhance trust in digital services and support the growth of a digital economy in Ethiopia.",
+      "technologies": ["MERN Stack", "Tailwind CSS", "OAuth", "RESTful APIs"],
+      "liveUrl": "https://myfayda.org",
+      "githubUrl": "",
+      "accomplishments": [
+        "Integrated with national ID system for secure identity verification",
+        "Built scalable authentication system serving thousands of users",
+        "Implemented responsive UI with Tailwind CSS"
+      ],
+      "synonyms": ["eKYC", "Digital Identity", "Authentication System", "National ID Integration"]
+    },
+    {
+      "id": "project-2",
+      "title": "MedHub Ethiopia",
+      "description": "MedHub Ethiopia is the first Electronic Medical Record (EMR) system in Ethiopia, designed to streamline patient management for healthcare providers. It integrates with the national ID system, enhancing the efficiency and reliability of healthcare services.",
+      "technologies": ["MERN Stack", "WebRTC", "Tailwind CSS", "MongoDB"],
+      "liveUrl": "https://medhub-ethiopia.up.railway.app",
+      "githubUrl": "",
+      "accomplishments": [
+        "Developed Ethiopia's first EMR system with national ID integration",
+        "Implemented secure patient data management compliant with healthcare regulations",
+        "Built telemedicine capabilities using WebRTC"
+      ],
+      "synonyms": ["EMR", "Electronic Medical Records", "Healthcare System", "Patient Management"]
+    },
+    {
+      "id": "project-3",
+      "title": "Wolayita Zone Science and Information Technology Web-App",
+      "description": "A comprehensive digital platform built to facilitate access to tech support and maintenance for users across regions. By integrating online appointments, real-time video consultations, and technical resources, the app provides on-demand assistance.",
+      "technologies": ["MERN Stack", "WebRTC", "Tailwind CSS", "Express.js"],
+      "liveUrl": "https://wolaita-sit.up.railway.app",
+      "githubUrl": "",
+      "accomplishments": [
+        "Integrated real-time video consultations using WebRTC",
+        "Designed intuitive user interface for technical support services",
+        "Built appointment scheduling system with calendar integration"
+      ],
+      "synonyms": ["Tech Support Platform", "Video Consultation", "Appointment System"]
+    },
+    {
+      "id": "project-4",
+      "title": "St. Mary Finance Management System",
+      "description": "A cloud-based finance management platform for parish operations. This system automates accounting processes, enhances audit efficiency with real-time data, and provides transparency for financial decision-making.",
+      "technologies": ["PHP", "SQL", "JavaScript", "CSS", "Chart.js"],
+      "liveUrl": "https://st-marry-finance-system.great-site.net",
+      "githubUrl": "",
+      "accomplishments": [
+        "Automated financial reporting reducing manual work by 80%",
+        "Implemented data visualization with Chart.js for financial analytics",
+        "Designed secure multi-user access controls for financial data"
+      ],
+      "synonyms": ["Finance System", "Accounting Software", "Financial Management"]
+    },
+    {
+      "id": "project-5",
+      "title": "Wa-Leba & Wa-Leba+",
+      "description": "An AI-driven SaaS platform for business surveillance. Integrating IP cameras with AI, it provides features like intruder detection, trespassing alerts, and customer counting for traffic insights.",
+      "technologies": ["Python", "Node.js", "React.js", "TensorFlow", "Docker", "Computer Vision"],
+      "liveUrl": "",
+      "githubUrl": "",
+      "accomplishments": [
+        "Developed AI-powered intruder detection system with 95% accuracy",
+        "Built scalable video processing pipeline handling multiple camera feeds",
+        "Implemented real-time alert system with mobile notifications"
+      ],
+      "synonyms": ["AI Surveillance", "Security System", "Computer Vision", "SaaS Platform"]
+    },
+    {
+      "id": "project-6",
+      "title": "Bible Trivia Game",
+      "description": "A Bible trivia desktop game designed for Sunday school library users. Built to engage students in an educational setting, it offers an interactive experience with a structured question and answer format.",
+      "technologies": ["Python", "PyQt5", "JSON"],
+      "liveUrl": "",
+      "githubUrl": "https://drive.google.com/file/d/1YisrB_JshbSS2R2PXCVDmIZnjU7jn16_/view?usp=sharing",
+      "accomplishments": [
+        "Created engaging educational game with 500+ questions",
+        "Designed intuitive UI for children using PyQt5",
+        "Implemented scoring system to track player progress"
+      ],
+      "synonyms": ["Educational Game", "PyQt Application", "Trivia Game"]
+    },
+    {
+      "id": "project-7",
+      "title": "Offline Book Store App",
+      "description": "A mobile app designed for software engineering students. This offline resource compiles essential textbooks, practice tests, and study materials in a single accessible interface.",
+      "technologies": ["Java", "Kotlin", "Android SDK"],
+      "liveUrl": "",
+      "githubUrl": "https://drive.google.com/file/d/16J_LNM1ko-UKzlqQFYln2vV1IKH04W5r/view?usp=sharing",
+      "accomplishments": [
+        "Developed offline-first mobile application for educational resources",
+        "Curated collection of 100+ software engineering resources",
+        "Implemented efficient local storage for large files"
+      ],
+      "synonyms": ["Mobile App", "Android Development", "Educational Resources"]
+    },
+    {
+      "id": "project-8",
+      "title": "Vehicle Management System",
+      "description": "A segment of Fleet Management System prototype with vehicle tracking, maintenance scheduling, and driver management capabilities.",
+      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
+      "liveUrl": "https://vm.up.railway.app/",
+      "githubUrl": "",
+      "accomplishments": [
+        "Built real-time vehicle tracking system",
+        "Implemented maintenance scheduling with automated notifications",
+        "Designed secure authentication system with JWT"
+      ],
+      "synonyms": ["Fleet Management", "Vehicle Tracking", "Logistics System"]
+    }
+  ],
+  "experience": [
+    {
+      "id": "exp-1",
+      "role": "StartUp Founder",
+      "company": "Diguwa-Soft",
+      "period": "November 2023 - Present",
+      "description": "Leading a software development startup focused on AI solutions and custom software development. Managing client projects, team coordination, and business development.",
+      "skillsUsed": ["Project Management", "Business Development", "AI/ML", "Full-Stack Development"],
+      "accomplishments": [
+        "Secured 10+ clients across various industries",
+        "Built and managed a team of 5 developers",
+        "Developed expertise in AI and computer vision solutions"
+      ]
+    },
+    {
+      "id": "exp-2",
+      "role": "Project Manager and MERN Stack Developer",
+      "company": "Wolayita Zone Science and Information Technology",
+      "period": "April 2024",
+      "description": "Led development of WZSIT-WebApp, a comprehensive platform for tech support and maintenance services with real-time video consultations.",
+      "skillsUsed": ["React", "Node.js", "MongoDB", "WebRTC", "Project Management"],
+      "accomplishments": [
+        "Successfully delivered the project on time and within budget",
+        "Integrated WebRTC for real-time video consultations",
+        "Managed stakeholder expectations throughout development"
+      ]
+    },
+    {
+      "id": "exp-3",
+      "role": "SaaS Security System Lead Developer",
+      "company": "Diguwa-Soft",
+      "period": "July 2024 - February 2025",
+      "description": "Led AI-powered security SaaS system development. Oversaw system design, requirement analysis, and full-stack implementation.",
+      "skillsUsed": ["Python", "React.js", "TensorFlow", "Docker", "System Design"],
+      "accomplishments": [
+        "Developed AI surveillance system with 95% detection accuracy",
+        "Built scalable architecture supporting multiple concurrent camera feeds",
+        "Implemented real-time alert system with mobile notifications"
+      ]
+    },
+    {
+      "id": "exp-4",
+      "role": "Open Source OAuth and eKYC System Developer",
+      "company": "MyFayda eKYC",
+      "period": "March 2025 - Present",
+      "description": "Developing Ethiopia's national digital identity solution integrated with Fayda NationalID system.",
+      "skillsUsed": ["MERN Stack", "OAuth", "Security", "API Development"],
+      "accomplishments": [
+        "Implemented secure authentication system integrated with national ID",
+        "Built scalable backend handling thousands of authentication requests",
+        "Developed responsive frontend with focus on accessibility"
+      ]
+    },
+    {
+      "id": "exp-5",
+      "role": "MedHub Ethiopia Lead Developer",
+      "company": "Diguwa-Soft",
+      "period": "January 2025 - Present",
+      "description": "Leading development of Ethiopia's first Electronic Medical Record (EMR) system with national ID integration.",
+      "skillsUsed": ["MERN Stack", "Healthcare IT", "Security", "System Architecture"],
+      "accomplishments": [
+        "Developed Ethiopia's first comprehensive EMR system",
+        "Implemented secure patient data management compliant with regulations",
+        "Built telemedicine capabilities using WebRTC technology"
+      ]
+    },
+    {
+      "id": "exp-6",
+      "role": "StartUp Founder",
+      "company": "Diguwa-Store",
+      "period": "February 2022",
+      "description": "Founded a dorm service platform connecting university students to local businesses. Developed the platform and managed operations.",
+      "skillsUsed": ["HTML", "CSS", "JavaScript", "Business Management", "UX Design"],
+      "accomplishments": [
+        "Scaled to 80+ daily visitors within first two months",
+        "Generated revenue of 5,500 ETB in first two months of operation",
+        "Gained experience in platform management and financial operations"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "The Wolayita Zone Science and Information Technology Web-App has greatly improved our tech maintenance processes. The system is user-friendly and has simplified our work significantly. A fantastic job by an incredibly talented developer!",
+      "author": "Mr. Netsanet",
+      "position": "Director",
+      "company": "Wolayita Zone Science and IT Office"
+    },
+    {
+      "quote": "The St. Mary Finance Management System has transformed how we handle our finances. It's efficient, reliable, and has streamlined everything from accounting to reports. We couldn't be happier with the results!",
+      "author": "Dn. Zenebe",
+      "position": "Finance Head",
+      "company": "St. Mary Church Parish Council"
+    },
+    {
+      "quote": "Wa-Leba+ has provided us with the peace of mind that our organization is secure. The real-time monitoring is exceptional, and it's easy to use. Truly impressive work!",
+      "author": "Mr. Samuel",
+      "position": "Owner",
+      "company": "Sami Computer Center"
+    },
+    {
+      "quote": "The Bible Trivia Game has been a wonderful addition to our Sunday school library. The students enjoy it immensely, and it's an interactive way to teach them. It's exactly what we needed!",
+      "author": "Dn. Tigistu",
+      "position": "Sunday School Coordinator",
+      "company": "Otona Debre Tsion Church"
+    },
+    {
+      "quote": "The Offline Book Store App has been invaluable for students here, especially with limited internet access. It's efficient, and having all the materials offline has been a huge help. Excellent work!",
+      "author": "Mr. Alemayehu",
+      "position": "Software Engineering Department Head",
+      "company": "Wachemo University"
+    }
+  ]
+}

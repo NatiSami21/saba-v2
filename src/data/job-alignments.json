@@ -1,0 +1,63 @@
+{
+  "job-unique-id": {
+    "meta": {
+      "jobId": "job-unique-id",
+      "company": "Company Name",
+      "role": "Job Title",
+      "source": "Job board or source URL",
+      "dateAdded": "YYYY-MM-DD",
+      "jobDescription": "Full job description text pasted here for reference"
+    },
+    "keyRequirements": [
+      "Key requirement 1 from job description",
+      "Key requirement 2 from job description",
+      "..."
+    ],
+    "narrative": "A third-person narrative summarizing why Natinael is a strong fit for this role, highlighting key alignments from skills, projects, and experience.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Skill name from knowledge-base",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",  
+          "matchScore": 95,  
+          "evidence": "Brief evidence from experience or projects"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-id from knowledge-base",
+          "relevance": "How this project directly addresses a job requirement",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-id from knowledge-base",
+          "relevance": "How this experience relates to the job role",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Teamwork",
+            "myStrength": "High", 
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Leadership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,  
+        "evidence": "Brief explanation if relevant"
+      }
+    }
+  }
+}
