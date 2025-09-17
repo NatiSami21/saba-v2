@@ -29,7 +29,7 @@ const Stars = (props) => {
 
 const StarsCanvas = ({ transparent = false }) => {
   return (
-    <div className="w-full h-full absolute inset-0 z-0">
+    <div className="fixed inset-0 w-screen h-screen z-0 overflow-hidden">
       <Canvas
         camera={{ position: [0, 0, 1] }}
         gl={{ alpha: transparent }} // 👈 toggle transparency

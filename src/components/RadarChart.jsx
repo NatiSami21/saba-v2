@@ -19,12 +19,13 @@ const levelMap = {
 
 const RadarChartComponent = ({ skills = [] }) => {
   const [expanded, setExpanded] = useState(false);
-  const [visible, setVisible] = useState(false); // trigger chart rendering
+  const [visible, setVisible] = useState(false);
   const chartRef = useRef(null);
   const controls = useAnimation();
 
   const sortedSkills = [...skills].sort((a, b) => b.matchScore - a.matchScore);
   const visibleSkills = expanded ? sortedSkills : sortedSkills.slice(0, 5);
+
   const chartData = visibleSkills.map((s) => ({
     skill: s.skillName,
     "My Proficiency": s.myProficiency,
@@ -33,42 +34,55 @@ const RadarChartComponent = ({ skills = [] }) => {
 
   // Observer to trigger rendering when chart enters viewport
   useEffect(() => {
+    if (!chartRef.current) return;
+
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
           setVisible(true);
-          controls.start({ opacity: 1, y: 0 });
+          controls.start({
+            opacity: 1,
+            y: 0,
+            transition: { duration: 0.8, ease: "easeOut" },
+          });
           observer.disconnect();
         }
       },
       { threshold: 0.3 }
     );
-    if (chartRef.current) observer.observe(chartRef.current);
+
+    observer.observe(chartRef.current);
+
     return () => observer.disconnect();
   }, [controls]);
 
   return (
     <motion.div
       ref={chartRef}
-      initial={{ opacity: 0, y: 30 }}
+      initial={{ opacity: 0, y: 50 }}
       animate={controls}
-      className="w-full max-w-3xl bg-black/30 backdrop-blur-md p-6 rounded-2xl shadow-lg border border-white/10"
+      className="w-full max-w-4xl bg-black/40 backdrop-blur-lg p-6 sm:p-8 rounded-2xl shadow-lg border border-white/10"
     >
-      <h2 className="text-2xl font-bold text-center mb-4 text-white/90">
+      <h2 className="text-2xl sm:text-3xl font-bold text-center mb-6 text-white">
         Skills Alignment
       </h2>
 
-      <div className="w-full h-80">
+      <div className="w-full h-80 sm:h-96">
         {visible && (
           <ResponsiveContainer>
             <RadarChart cx="50%" cy="50%" outerRadius="70%" data={chartData}>
-              <PolarGrid stroke="rgba(255,255,255,0.2)" />
+              <PolarGrid stroke="rgba(255,255,255,0.15)" />
               <PolarAngleAxis
                 dataKey="skill"
                 stroke="rgba(245,245,255,0.9)"
-                tick={{ fill: "rgba(245,245,255,0.9)" }}
+                tick={{ fill: "rgba(245,245,255,0.9)", fontSize: 12 }}
               />
-              <PolarRadiusAxis angle={30} domain={[0, 100]} stroke="rgba(200,200,255,0.3)" />
+              <PolarRadiusAxis
+                angle={30}
+                domain={[0, 100]}
+                stroke="rgba(200,200,255,0.3)"
+                tick={{ fill: "rgba(200,200,255,0.7)", fontSize: 11 }}
+              />
               <Radar
                 name="My Proficiency"
                 dataKey="My Proficiency"
@@ -83,34 +97,37 @@ const RadarChartComponent = ({ skills = [] }) => {
                 fill="#a5b4fc"
                 fillOpacity={0.3}
               />
-              <Legend wrapperStyle={{ color: "rgba(245,245,255,0.9)" }} />
+              <Legend wrapperStyle={{ color: "rgba(245,245,255,0.9)", fontSize: 12 }} />
             </RadarChart>
           </ResponsiveContainer>
         )}
       </div>
 
-      <ul className="mt-6 space-y-3">
+      {/* Skills List */}
+      <ul className="mt-8 space-y-3">
         {visibleSkills.map((s, idx) => (
-          <motion.li
+            <motion.li
             key={idx}
             initial={{ opacity: 0, x: -20 }}
             animate={{ opacity: 1, x: 0 }}
             transition={{ delay: idx * 0.1 }}
-            className="flex justify-between items-center p-3 bg-white/5 rounded-lg"
-          >
-            <span className="font-medium text-white/90">{s.skillName}</span>
-            <span className="text-sm text-gray-400/80">
-              Me: {s.myProficiency} | Req: {s.jobRequirementLevel} | Match: {s.matchScore}%
+            className="flex justify-between items-center p-3 sm:p-4 bg-white/5 rounded-lg"
+            >
+            <span className="font-medium text-white">{s.skillName}</span>
+            <span className="text-xs sm:text-sm text-gray-300">
+                Req: {s.jobRequirementLevel} | Match: {s.matchScore}%
             </span>
-          </motion.li>
+            </motion.li>
         ))}
-      </ul>
+        </ul>
 
+      {/* Expand Button */}
       {sortedSkills.length > 5 && (
         <motion.button
           onClick={() => setExpanded(!expanded)}
-          whileHover={{ scale: 1.05, opacity: 0.9 }}
-          className="mt-4 px-4 py-2 text-sm font-medium text-white/90 bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg transition"
+          whileHover={{ scale: 1.05 }}
+          whileTap={{ scale: 0.95 }}
+          className="mt-6 px-5 py-2 text-sm sm:text-base font-medium text-white bg-gradient-to-r from-purple-500 to-pink-500 rounded-lg shadow-md"
         >
           {expanded ? "Show Less" : "Show More"}
         </motion.button>

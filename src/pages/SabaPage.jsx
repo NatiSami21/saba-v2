@@ -12,7 +12,7 @@ const SabaPage = () => {
 
   if (!jobData) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-screen text-center px-6">
+      <div className="flex flex-col items-center justify-center min-h-screen text-center px-4 sm:px-6">
         <Navbar />
         <p className="text-lg text-gray-300 mt-10">
           ❌ No alignment data found for <span className="font-bold">{jobId}</span>.
@@ -22,7 +22,7 @@ const SabaPage = () => {
   }
 
   return (
-    <div className="flex flex-col items-center justify-start min-h-screen px-6 py-10">
+    <div className="flex flex-col items-center justify-start min-h-screen px-4 sm:px-6 lg:px-8 py-10 overflow-x-hidden">
       {/* Navbar */}
       <Navbar />
 
@@ -34,15 +34,15 @@ const SabaPage = () => {
       {/* Job Alignment Section */}
       <div id="job-alignment" className="flex flex-col items-center w-full">
         <h1 className="text-3xl sm:text-4xl font-bold mt-10 mb-6 text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400"> 
-            {jobData.meta?.role} Alignment
+          {jobData.meta?.role} Alignment
         </h1>
 
         <Narrative text={jobData.narrative} jobData={jobData} />
 
         <div className="mt-10 w-full flex justify-center">
-            <RadarChartComponent skills={jobData.alignment.skills} />
+          <RadarChartComponent skills={jobData.alignment.skills} />
         </div>
-        </div>
+      </div>
     </div>
   );
 };

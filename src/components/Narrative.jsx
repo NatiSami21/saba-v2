@@ -5,33 +5,44 @@ const Narrative = ({ text, jobData }) => {
   const [displayText, setDisplayText] = useState("");
   const ref = useRef(null);
   const controls = useAnimation();
+
   const companyName = jobData?.meta?.company;
   const greeting = companyName
     ? `Hello hiring team of ${companyName}, I'm Saba: `
     : `Hello hiring team, I'm Saba: `;
 
   useEffect(() => {
+    if (!ref.current) return;
+
     const observer = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
-          // start typing when in view
-          let i = 0;
           const fullText = `${greeting}${text || ""}`;
-          const interval = setInterval(() => {
-            setDisplayText(fullText.slice(0, i + 1));
-            i++;
-            if (i === fullText.length) clearInterval(interval);
-          }, 20);
+          let i = 0;
 
-          controls.start({ opacity: 1, y: 0 });
+          const interval = setInterval(() => {
+            setDisplayText((prev) => {
+              if (i < fullText.length) {
+                return fullText.slice(0, i + 1);
+              }
+              clearInterval(interval);
+              return prev;
+            });
+            i++;
+          }, 30);
+
+          // trigger fade-in animation
+          controls.start({ opacity: 1, y: 0, transition: { duration: 0.8 } });
+
           observer.disconnect();
-          return () => clearInterval(interval);
         }
       },
       { threshold: 0.3 }
     );
 
-    if (ref.current) observer.observe(ref.current);
+    observer.observe(ref.current);
+
+    return () => observer.disconnect(); // cleanup observer on unmount
   }, [text, jobData, controls, greeting]);
 
   return (
@@ -39,7 +50,7 @@ const Narrative = ({ text, jobData }) => {
       ref={ref}
       initial={{ opacity: 0, y: 20 }}
       animate={controls}
-      className="max-w-3xl text-lg sm:text-xl leading-relaxed"
+      className="max-w-3xl text-lg sm:text-xl leading-relaxed px-4 text-left"
     >
       {displayText.startsWith(greeting) ? (
         <>
