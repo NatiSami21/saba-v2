@@ -223,6 +223,34 @@
         "jobRequirementLevel": "Intermediate",
         "matchScore": 70,
         "evidence": "Explored 3D visualization features in frontend projects."
+      },
+      {
+        "skillName": "Redux",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 80,
+        "evidence": "Managed complex state in React applications."
+      },
+      {
+        "skillName": "React Native",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 70,
+        "evidence": "Familiar with mobile app development using React Native."
+      }, 
+      {
+        "skillName": "Node.js",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 85,
+        "evidence": "Built MedHub Ethiopia with server-side rendering and API routes."
+      },
+      {
+        "skillName": "Mongo dB",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 85,
+        "evidence": "Built MedHub Ethiopia with server-side rendering and API routes."
       }
     ],
     "projectHighlights": [
