@@ -1,9 +1,21 @@
-// components/Greeting.jsx
 import { motion } from "framer-motion";
+import { useEffect } from "react";
 
 const Greeting = () => {
+  useEffect(() => {
+    // Auto-scroll to job alignment after 3 seconds
+    const timer = setTimeout(() => {
+      const jobSection = document.getElementById("job-alignment");
+      if (jobSection) {
+        jobSection.scrollIntoView({ behavior: "smooth" });
+      }
+    }, 3000);
+
+    return () => clearTimeout(timer);
+  }, []);
+
   return (
-    <section className="w-full h-screen flex flex-col justify-center items-center text-center px-4">
+    <section className="w-full h-screen flex flex-col justify-center items-center text-center px-4 relative">
       {/* Headline */}
       <motion.h1
         initial={{ opacity: 0, y: -20 }}
@@ -19,23 +31,24 @@ const Greeting = () => {
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.5 }}
-        className="mt-6 max-w-3xl text-lg sm:text-xl text-gray-300"
+        className="mt-6 max-w-3xl text-lg sm:text-xl text-white/90"
       >
-        I am <span className="text-purple-400 font-semibold">Saba</span>, Natinael Samuel’s AI portfolio. 
+        I am <span className="bg-clip-text text-transparent bg-gradient-to-r from-purple-500 to-pink-500 font-medium">Saba</span>, Natinael Samuel’s AI portfolio. 
         Explore how his skills, projects, and experience align with your job description in real time.
       </motion.p>
 
-      {/* Call-to-action */}
-      <motion.div
-        initial={{ opacity: 0 }}
-        animate={{ opacity: 1 }}
-        transition={{ duration: 1, delay: 1 }}
-        className="mt-8"
-      >
-        <button className="px-6 py-3 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:scale-105 transition-transform">
-          Interact with Saba
-        </button>
-      </motion.div>
+      {/* Mouse scroll animation */}
+      <div className="absolute xs:bottom-5 bottom-32 w-full flex justify-center items-center">
+        <a href="#job-alignment">
+          <div className="w-[35px] h-[64px] rounded-3xl border-4 border-gradient-to-r from-purple-500 to-pink-500 flex justify-center items-start p-2 cursor-pointer shadow-lg hover:scale-105 transition-transform">
+            <motion.div
+              animate={{ y: [0, 24, 0] }}
+              transition={{ duration: 1.5, repeat: Infinity, repeatType: "loop" }}
+              className="w-3 h-3 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 mb-1"
+            />
+          </div>
+        </a>
+      </div>
     </section>
   );
 };

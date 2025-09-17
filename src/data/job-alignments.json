@@ -59,5 +59,113 @@
         "evidence": "Brief explanation if relevant"
       }
     }
+  },
+
+  "software-developer-addis-ababa": {
+    "meta": {
+      "jobId": "software-developer-addis-ababa",
+      "company": "12233", 
+      "role": "Software Developer",
+      "source": "https://docs.google.com/forms/d/e/1FAIpQLSd4twd6khSc9WPprat03bnuVmzvsbLinMTr2frJCzt076-aWA/viewform?usp=dialog",
+      "dateAdded": "2025-09-15",
+      "jobDescription": "Software developer role, full-stack (MERN + PHP) and AI/ML tasks. Remote, full-time. Includes backend services, API design, responsive frontend, AI/ML model integration, optimization, debugging, collaboration."
+    },
+    "keyRequirements": [
+      "3+ years of full-stack development (MERN + PHP)",
+      "Strong proficiency in JavaScript (ES6+), HTML5, CSS3",
+      "Experience with REST APIs and databases",
+      "Familiar with Git-based workflows and CI/CD tools",
+      "Problem-solving and communication skills",
+      "3+ years of AI/ML development",
+      "Strong understanding of machine learning algorithms, neural networks, and data science",
+      "Experience building and deploying ML models in production",
+      "Proficient with data handling libraries (e.g., NumPy, Pandas)",
+      "Familiarity with cloud platforms (AWS, GCP, Azure) is a plus"
+    ],
+    "narrative": "Natinael Samuel is an experienced software developer and AI/ML practitioner with strong full-stack expertise in MERN + PHP technologies. He has built and maintained dynamic web applications, APIs, and backend services, ensuring performance, scalability, and security. With solid proficiency in JavaScript, HTML5, CSS3, and database management, he can seamlessly integrate AI/ML models into web platforms. Natinael is adept at collaboration with UI/UX teams, debugging complex systems, and optimizing applications. His experience with REST APIs, CI/CD workflows, and cloud platforms ensures smooth deployment and production readiness. Hiring Natinael guarantees a high-alignment match with your technical requirements and project goals.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Full-Stack Development (MERN + PHP)",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Built multiple MERN stack web applications and integrated PHP backend modules."
+        },
+        {
+          "skillName": "JavaScript (ES6+)",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used extensively in frontend and full-stack projects."
+        },
+        {
+          "skillName": "HTML5 & CSS3",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Designed responsive UI/UX in multiple web applications."
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Developed backend APIs for web apps and integrated third-party services."
+        },
+        {
+          "skillName": "AI/ML Development",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 85,
+          "evidence": "Built AI/ML modules for video surveillance and other SaaS applications."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "wa-leba-ai-surveillance",
+          "relevance": "Integrated real-time AI/ML video monitoring into a scalable SaaS platform.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Developed full-stack healthcare web application with real-time analytics and backend services.",
+          "matchScore": 95
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "frontend-backend-development",
+          "relevance": "Led development of multiple web applications, managing frontend and backend integration.",
+          "matchScore": 90
+        },
+        {
+          "experienceId": "ai-ml-projects",
+          "relevance": "Designed and deployed AI/ML models for real-time monitoring and prediction tasks.",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Teamwork",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Leadership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "Bachelor's degree in Software Engineering aligns with the requirement."
+      }
+    }
   }
 }
+
