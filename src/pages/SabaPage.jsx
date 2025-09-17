@@ -5,6 +5,7 @@ import Navbar from "../components/Navbar";
 import Greeting from "../components/Greeting";
 import Narrative from "../components/Narrative";
 import RadarChartComponent from "../components/RadarChart";
+import PromptSection from "../components/PromptSection";
 
 const SabaPage = () => {
   const { jobId } = useParams();
@@ -42,6 +43,10 @@ const SabaPage = () => {
         <div className="mt-10 w-full flex justify-center">
           <RadarChartComponent skills={jobData.alignment.skills} />
         </div>
+
+        {/* Prompt/chat section */}
+        <PromptSection jobData={jobData} />
+
       </div>
     </div>
   );
