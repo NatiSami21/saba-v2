@@ -97,3 +97,47 @@ Set fields to null if not applicable (e.g., culturalFit might be null for highly
 <button className="px-6 py-3 rounded-full bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:scale-105 transition-transform">
           Interact with Saba
         </button>
+
+
+20 Questions to Test Saba's Capabilities
+Here are 20 questions that will help you thoroughly test Saba's knowledge and response capabilities:
+
+What are Natinael's strongest technical skills?
+
+Tell me about the MyFayda eKYC project
+
+What experience does Natinael have with AI and machine learning?
+
+Describe Natinael's role at Diguwa-Soft
+
+Which projects showcase Natinael's backend development skills?
+
+What technologies were used in the MedHub Ethiopia project?
+
+Tell me about Natinael's experience with computer vision
+
+What accomplishments did Natinael achieve with the Wolayita Zone SIT Web-App?
+
+How proficient is Natinael with React and Node.js?
+
+What projects demonstrate Natinael's full-stack capabilities?
+
+Tell me about Natinael's experience with database technologies
+
+What is Natinael's experience with DevOps tools like Docker?
+
+Describe the Wa-Leba & Wa-Leba+ AI surveillance system
+
+What are some testimonials from Natinael's clients?
+
+How does Natinael approach project management?
+
+What experience does Natinael have with real-time technologies like WebRTC?
+
+Tell me about Natinael's educational background
+
+What security technologies has Natinael worked with?
+
+Which projects involved integrating with national ID systems?
+
+What makes Natinael's approach to development unique?
