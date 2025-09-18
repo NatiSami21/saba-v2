@@ -170,7 +170,7 @@
 
 "frontend-developer-addis-ababa102": {
   "meta": {
-    "jobId": "frontend-developer-addis-ababa",
+    "jobId": "frontend-developer-addis-ababa102",
     "company": "",
     "role": "Frontend Developer (Internship)",
     "source": "Job Posting (September 15, 2025)",
@@ -296,7 +296,7 @@
 
 "versatile-application-developer-remote103": {
   "meta": {
-    "jobId": "versatile-application-developer-remote",
+    "jobId": "versatile-application-developer-remote103",
     "company": "",
     "role": "Versatile Application Developer",
     "source": "Job Posting (September 10, 2025)",
@@ -504,8 +504,8 @@
 
 "fullstack-intern-remote104": {
   "meta": {
-    "jobId": "fullstack-intern-remote",
-    "company": "Not Specified",
+    "jobId": "fullstack-intern-remote104",
+    "company": "",
     "role": "Fullstack Developer Intern",
     "source": "Job Posting (September 13, 2025)",
     "dateAdded": "2025-09-17",
@@ -625,7 +625,94 @@
       "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
     }
   }
+},
+
+"fullstack-developer-addis105": {
+  "meta": {
+    "jobId": "fullstack-developer-addis105",
+    "company": "",
+    "role": "Full-Stack Developer",
+    "source": "Job Posting (September 15, 2025)",
+    "dateAdded": "2025-09-17",
+    "jobDescription": "Intermediate-level on-site role requiring full-stack development with AI-assisted coding, deployment, and DevOps knowledge. Responsibilities include frontend (React, HTML, CSS, JS), backend (Node.js, Python), API/database integration, testing, CI/CD, cloud deployment, and leveraging AI tools for productivity."
+  },
+  "keyRequirements": [
+    "BSc degree or 2-5 years development experience",
+    "HTML5, CSS3, JavaScript (vanilla)",
+    "Modern JS framework (React, Angular, or Vue) with state management",
+    "Node.js or Python backend",
+    "Git version control and workflows",
+    "RESTful or GraphQL API development",
+    "Database integration, PostgreSQL preferred",
+    "Testing (unit, integration, e2e)",
+    "Responsive design, accessibility, cross-browser compatibility",
+    "CI/CD pipelines (GitHub Actions, GitLab CI)",
+    "Generative AI for code and workflow optimization",
+    "AI agent frameworks and SDK integration",
+    "Docker and Kubernetes",
+    "Infrastructure as Code (Terraform, CloudFormation)",
+    "Cloud platforms (AWS, Azure, GCP)",
+    "Web security (OAuth, OWASP)",
+    "Performance tuning and monitoring",
+    "Agile methodology",
+    "Strong English communication"
+  ],
+  "narrative": "Natinael Samuel is a full-stack developer with strong expertise in React, Node.js, Python, and MongoDB. He has delivered production-ready solutions like MedHub Ethiopia and Wa-Leba+, showcasing proficiency in frontend design, backend APIs, and database integration. With proven use of Git, REST APIs, JWT/OAuth, CI/CD, and AI-assisted coding tools, Natinael can accelerate workflows and improve code quality. While he has exposure to PostgreSQL, GraphQL, Docker, AWS, and DevOps concepts, he is eager to strengthen these areas. Combined with Agile teamwork experience and a Software Engineering degree, Natinael aligns well with the core role requirements.",
+  "alignment": {
+    "skills": [
+      { "skillName": "HTML5", "myProficiency": 95, "jobRequirementLevel": "Expert", "matchScore": 95, "evidence": "Used extensively in frontend projects including MedHub Ethiopia." },
+      { "skillName": "CSS3", "myProficiency": 90, "jobRequirementLevel": "Expert", "matchScore": 90, "evidence": "Designed responsive UI with Tailwind and CSS3 in multiple apps." },
+      { "skillName": "JavaScript", "myProficiency": 90, "jobRequirementLevel": "Expert", "matchScore": 90, "evidence": "Core language across all full-stack projects." },
+      { "skillName": "React", "myProficiency": 95, "jobRequirementLevel": "Expert", "matchScore": 95, "evidence": "Main frontend framework in MedHub Ethiopia and WZSIT WebApp." },
+      { "skillName": "Angular", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "No direct experience; exposure only." },
+      { "skillName": "Vue.js", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "No direct experience; exposure only." },
+      { "skillName": "Redux", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Applied for state management in React projects." },
+      { "skillName": "Node.js", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "Built backend APIs for MedHub Ethiopia and MyFayda eKYC." },
+      { "skillName": "Python", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Used in Wa-Leba AI Surveillance with ML frameworks." },
+      { "skillName": "Git", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "Daily use for version control, branching, collaboration." },
+      { "skillName": "REST APIs", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "Developed and consumed APIs across projects." },
+      { "skillName": "GraphQL", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "No direct proficiency; exposure only." },
+      { "skillName": "PostgreSQL", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "Familiar with relational databases but not direct PostgreSQL use." },
+      { "skillName": "MongoDB", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Database for MedHub Ethiopia and WZSIT WebApp." },
+      { "skillName": "Testing", "myProficiency": 30, "jobRequirementLevel": "Intermediate", "matchScore": 30, "evidence": "Exposure to unit testing during internship tasks." },
+      { "skillName": "Responsive/Accessibility", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Implemented in MedHub Ethiopia and portfolio site." },
+      { "skillName": "CI/CD (GitHub Actions)", "myProficiency": 50, "jobRequirementLevel": "Intermediate", "matchScore": 50, "evidence": "Exposure during internship projects." },
+      { "skillName": "Generative AI Tools", "myProficiency": 70, "jobRequirementLevel": "Strong", "matchScore": 70, "evidence": "Used ChatGPT, Cursor, and Copilot alternatives in projects." },
+      { "skillName": "AI Agent Frameworks", "myProficiency": 0, "jobRequirementLevel": "Intermediate", "matchScore": 0, "evidence": "No experience yet; eager to learn." },
+      { "skillName": "Docker", "myProficiency": 70, "jobRequirementLevel": "Intermediate", "matchScore": 70, "evidence": "Used in Wa-Leba+ for containerization." },
+      { "skillName": "Kubernetes", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "Exposure only; no production use." },
+      { "skillName": "Terraform", "myProficiency": 0, "jobRequirementLevel": "Intermediate", "matchScore": 0, "evidence": "Not used yet; willing to learn." },
+      { "skillName": "CloudFormation", "myProficiency": 0, "jobRequirementLevel": "Intermediate", "matchScore": 0, "evidence": "Not used yet; willing to learn." },
+      { "skillName": "AWS", "myProficiency": 40, "jobRequirementLevel": "Intermediate", "matchScore": 40, "evidence": "Exposure during deployment trials." },
+      { "skillName": "Azure", "myProficiency": 0, "jobRequirementLevel": "Intermediate", "matchScore": 0, "evidence": "Not used; willing to learn." },
+      { "skillName": "GCP", "myProficiency": 0, "jobRequirementLevel": "Intermediate", "matchScore": 0, "evidence": "Not used; willing to learn." },
+      { "skillName": "OAuth", "myProficiency": 75, "jobRequirementLevel": "Strong", "matchScore": 75, "evidence": "Implemented in MyFayda eKYC." },
+      { "skillName": "OWASP", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "General exposure to secure coding; not formal training." },
+      { "skillName": "Performance Tuning", "myProficiency": 40, "jobRequirementLevel": "Intermediate", "matchScore": 40, "evidence": "Basic optimization tasks during internships." },
+      { "skillName": "Agile Methodology", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Applied Scrum and iterative dev practices in internships." }
+    ],
+    "projectHighlights": [
+      { "projectId": "project-2", "relevance": "MedHub Ethiopia shows frontend, backend, API integration, and secure design.", "matchScore": 95 },
+      { "projectId": "project-5", "relevance": "Wa-Leba+ demonstrates AI/ML integration, Python backend, Docker.", "matchScore": 90 },
+      { "projectId": "project-4", "relevance": "St. Mary Finance System highlights SQL and backend workflows.", "matchScore": 85 }
+    ],
+    "experienceHighlights": [
+      { "experienceId": "exp-5", "relevance": "MedHub Ethiopia lead developer, covering full-stack development and secure data handling.", "matchScore": 95 },
+      { "experienceId": "exp-3", "relevance": "SaaS Security System developer, with AI integration and Docker exposure.", "matchScore": 85 }
+    ],
+    "culturalFit": {
+      "aspects": [
+        { "aspect": "Problem Solving", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 },
+        { "aspect": "Collaboration", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
+    }
+  }
 }
+
 
 
 
