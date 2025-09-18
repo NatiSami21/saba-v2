@@ -500,7 +500,133 @@
       "evidence": "Bachelor’s in Software Engineering plus ongoing degree in Marketing Management."
     }
   }
+},
+
+"fullstack-intern-remote104": {
+  "meta": {
+    "jobId": "fullstack-intern-remote",
+    "company": "Not Specified",
+    "role": "Fullstack Developer Intern",
+    "source": "Job Posting (September 13, 2025)",
+    "dateAdded": "2025-09-17",
+    "jobDescription": "Entry-level internship role assisting in building and maintaining web applications. Requires knowledge of JavaScript/Python, Node.js/Django, React, REST APIs, and databases. Focused on learning, collaboration, and professional growth."
+  },
+  "keyRequirements": [
+    "Basic knowledge of JavaScript or Python",
+    "Backend experience with Node.js or Django",
+    "Frontend experience with React",
+    "Understanding of REST APIs",
+    "Databases (SQL or NoSQL)",
+    "Problem-solving and teamwork",
+    "Eagerness to learn new technologies"
+  ],
+  "narrative": "Natinael Samuel is a full-stack developer with strong skills in JavaScript, Python, React, Node.js, and REST APIs. He has built multiple production-level applications, such as MedHub Ethiopia and MyFayda eKYC, demonstrating frontend, backend, and database integration. Though overqualified for an entry-level role, Natinael’s eagerness to contribute and mentor, combined with his proven teamwork and problem-solving skills, makes him an excellent fit for this internship.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "JavaScript",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 100,
+        "evidence": "Core language across multiple full-stack projects."
+      },
+      {
+        "skillName": "Python",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 100,
+        "evidence": "Used for AI/ML development in Wa-Leba+ and desktop applications."
+      },
+      {
+        "skillName": "Node.js",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 100,
+        "evidence": "Backend APIs and services in MedHub Ethiopia, MyFayda eKYC."
+      },
+      {
+        "skillName": "Django",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 0,
+        "evidence": "No direct experience with Django; open to learning."
+      },
+      {
+        "skillName": "React",
+        "myProficiency": 95,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 100,
+        "evidence": "Extensive use in MedHub Ethiopia, WZSIT WebApp, Wa-Leba+."
+      },
+      {
+        "skillName": "REST APIs",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 100,
+        "evidence": "Built and integrated APIs in MedHub and MyFayda."
+      },
+      {
+        "skillName": "SQL",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 90,
+        "evidence": "Implemented in St. Mary Finance System."
+      },
+      {
+        "skillName": "MongoDB",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 90,
+        "evidence": "Core database in MedHub Ethiopia and WZSIT WebApp."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-2",
+        "relevance": "MedHub Ethiopia demonstrates full-stack skills and API/database integration.",
+        "matchScore": 95
+      },
+      {
+        "projectId": "project-1",
+        "relevance": "MyFayda eKYC showcases authentication systems and scalable backend.",
+        "matchScore": 90
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-4",
+        "relevance": "Open Source OAuth and eKYC System Developer with MERN stack focus.",
+        "matchScore": 90
+      },
+      {
+        "experienceId": "exp-5",
+        "relevance": "Led MedHub Ethiopia development with frontend, backend, and security.",
+        "matchScore": 95
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Eagerness to Learn",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
+    }
+  }
 }
+
 
 
 

@@ -147,6 +147,8 @@ What makes Natinael's approach to development unique?
 You can also ask Saba, my AI job-match assistant, how much I align with this role: 
 https://ai-jobmatch.netlify.app/saba/frontend-developer-addis-ababa102
 
+@Afritio_Albert
+
 Sincerely,
 Natinael Samuel
 BSc, Software Engineering
