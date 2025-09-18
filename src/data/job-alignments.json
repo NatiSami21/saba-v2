@@ -711,8 +711,65 @@
       "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
     }
   }
-}
+},
 
+"backend-developer-addis106": {
+  "meta": {
+    "jobId": "backend-developer-addis106",
+    "company": "Not Specified",
+    "role": "Backend Developer",
+    "source": "Job Posting (September 16, 2025)",
+    "dateAdded": "2025-09-17",
+    "jobDescription": "Backend Developer role building MEAN stack microservices. Focus on Node.js, Express.js, MongoDB, Redis, authentication, APIs, real-time features, and integrations with third-party services."
+  },
+  "keyRequirements": [
+    "Node.js and Express.js backend development",
+    "MongoDB with Mongoose ODM",
+    "Redis for caching and queues",
+    "RESTful API design and development",
+    "Authentication and authorization (JWT, hashing)",
+    "Third-party API integrations (Stripe, Zoom)",
+    "Real-time communication with Socket.io",
+    "Microservices architecture",
+    "Version control with Git and GitHub"
+  ],
+  "narrative": "Natinael Samuel is a full-stack developer with strong backend expertise in Node.js, Express.js, and MongoDB. He has built scalable APIs, implemented secure authentication with JWT, and delivered production-ready applications like MedHub Ethiopia and MyFayda eKYC. While he has direct proficiency in REST APIs, Socket.io, and Git workflows, he has exposure-level familiarity with Redis, Stripe, and Zoom integrations, making him eager to strengthen these areas. His experience leading backend development and applying secure coding practices positions him as a strong candidate for this Backend Developer role.",
+  "alignment": {
+    "skills": [
+      { "skillName": "Node.js", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "Used extensively for backend services in MedHub Ethiopia and MyFayda eKYC." },
+      { "skillName": "Express.js", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Core backend framework in MERN projects including MedHub Ethiopia." },
+      { "skillName": "MongoDB", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Primary database in MedHub Ethiopia and WZSIT WebApp." },
+      { "skillName": "Mongoose ODM", "myProficiency": 70, "jobRequirementLevel": "Strong", "matchScore": 70, "evidence": "Used in modeling data for MongoDB in MedHub Ethiopia." },
+      { "skillName": "Redis", "myProficiency": 20, "jobRequirementLevel": "Intermediate", "matchScore": 20, "evidence": "No production experience; exposure only." },
+      { "skillName": "RESTful APIs", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "Developed APIs across MedHub Ethiopia, MyFayda eKYC, and WZSIT WebApp." },
+      { "skillName": "JWT", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Implemented secure authentication flows in MyFayda eKYC and MedHub Ethiopia." },
+      { "skillName": "Hashing Algorithms", "myProficiency": 40, "jobRequirementLevel": "Strong", "matchScore": 40, "evidence": "Exposure through secure authentication work, not specialized." },
+      { "skillName": "Stripe API", "myProficiency": 10, "jobRequirementLevel": "Intermediate", "matchScore": 10, "evidence": "No direct experience; exposure only." },
+      { "skillName": "Zoom API", "myProficiency": 10, "jobRequirementLevel": "Intermediate", "matchScore": 10, "evidence": "No direct experience; exposure only." },
+      { "skillName": "Socket.io", "myProficiency": 70, "jobRequirementLevel": "Intermediate", "matchScore": 70, "evidence": "Used for real-time communication in web projects." },
+      { "skillName": "Microservices", "myProficiency": 40, "jobRequirementLevel": "Intermediate", "matchScore": 40, "evidence": "General exposure; not lead in production microservice projects." },
+      { "skillName": "Git/GitHub", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "Daily version control across all projects with branching and PRs." }
+    ],
+    "projectHighlights": [
+      { "projectId": "project-2", "relevance": "MedHub Ethiopia demonstrates backend development with Node.js, MongoDB, JWT authentication.", "matchScore": 90 },
+      { "projectId": "project-1", "relevance": "MyFayda eKYC highlights secure backend with authentication and API design.", "matchScore": 85 }
+    ],
+    "experienceHighlights": [
+      { "experienceId": "exp-4", "relevance": "Developed secure authentication and APIs in MyFayda eKYC using Node.js and MongoDB.", "matchScore": 90 },
+      { "experienceId": "exp-5", "relevance": "Led backend of MedHub Ethiopia with Node.js, Express.js, and MongoDB.", "matchScore": 90 }
+    ],
+    "culturalFit": {
+      "aspects": [
+        { "aspect": "Security Focus", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 },
+        { "aspect": "Collaboration", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
+    }
+  }
+}
 
 
 
