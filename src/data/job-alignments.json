@@ -797,7 +797,7 @@
   "alignment": {
     "skills": [
       { "skillName": "Laravel", "myProficiency": 20, "jobRequirementLevel": "Expert", "matchScore": 20, "evidence": "Exposure-level familiarity; not a core backend framework in past projects." },
-      { "skillName": "PHP", "myProficiency": 25, "jobRequirementLevel": "Strong", "matchScore": 25, "evidence": "Basic exposure; not used in main production projects." },
+      { "skillName": "PHP", "myProficiency": 75, "jobRequirementLevel": "Strong", "matchScore": 100, "evidence": "used in main production projects." },
       { "skillName": "MySQL", "myProficiency": 40, "jobRequirementLevel": "Strong", "matchScore": 40, "evidence": "Implemented in St. Mary Finance System." },
       { "skillName": "Inertia.js", "myProficiency": 0, "jobRequirementLevel": "Optional", "matchScore": 0, "evidence": "No exposure yet." },
       { "skillName": "Livewire", "myProficiency": 0, "jobRequirementLevel": "Optional", "matchScore": 0, "evidence": "No exposure yet." },
@@ -831,7 +831,166 @@
       "evidence": "Bachelor’s degree in Software Engineering exceeds requirement (degree not required)."
     }
   }
+},
+
+"junior-backend-qa-santimpay": {
+  "meta": {
+    "jobId": "junior-backend-qa-santimpay",
+    "company": "SantimPay Financial Solution",
+    "role": "Junior Backend Developer + QA Tester",
+    "source": "Job Posting (September 18, 2025)",
+    "dateAdded": "2025-09-18",
+    "jobDescription": "Dual role requiring backend development (Go/PHP/Node.js/Java, PostgreSQL/MySQL) and QA testing (manual and automated). Focus on backend development with QA as a supporting function."
+  },
+  "keyRequirements": [
+    "Proficiency in backend languages: Go, PHP, Node.js, Java",
+    "Database systems: PostgreSQL, MySQL",
+    "Version control (Git)",
+    "Manual and automated testing",
+    "QA methodologies and tools",
+    "Understanding of APIs",
+    "SQL queries for validation"
+  ],
+  "narrative": "Natinael Samuel is a backend-focused developer with strong skills in Node.js, PHP, MySQL, and MongoDB. He led the St. Mary Finance Management System (organization-level) built with PHP and MySQL, demonstrating production-grade backend development and data handling. He has also built API-driven platforms like MedHub Ethiopia and MyFayda eKYC, showcasing API design, authentication, and database integration. With solid manual QA and API-testing experience from internships, Natinael is well-positioned to contribute as a Junior Backend Developer while supporting QA processes and growing into automated testing frameworks.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Node.js",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 90,
+        "evidence": "Core backend in MedHub Ethiopia and MyFayda eKYC."
+      },
+      {
+        "skillName": "Go",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 0,
+        "evidence": "No experience yet."
+      },
+      {
+        "skillName": "PHP",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 75,
+        "evidence": "Led St. Mary Finance Management System (organization-level) built with PHP and MySQL."
+      },
+      {
+        "skillName": "Java",
+        "myProficiency": 35,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 35,
+        "evidence": "Exposure in academic projects."
+      },
+      {
+        "skillName": "PostgreSQL",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 40,
+        "evidence": "Exposure during academic and small projects."
+      },
+      {
+        "skillName": "MySQL",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 75,
+        "evidence": "Implemented in St. Mary Finance System and other backend work."
+      },
+      {
+        "skillName": "Git",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 90,
+        "evidence": "Daily use across projects and internships."
+      },
+      {
+        "skillName": "Manual Testing",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 70,
+        "evidence": "QA exposure from Dev-Elex internship bug-finding tasks."
+      },
+      {
+        "skillName": "Automated Testing (Selenium, Cypress)",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 0,
+        "evidence": "No experience yet."
+      },
+      {
+        "skillName": "QA Methodologies & Processes",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 40,
+        "evidence": "Exposure through software testing in academic and internship contexts."
+      },
+      {
+        "skillName": "API Testing",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 85,
+        "evidence": "Tested and debugged APIs in MedHub and MyFayda projects."
+      },
+      {
+        "skillName": "SQL Queries",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 75,
+        "evidence": "Database queries in MySQL and MongoDB contexts."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-4",
+        "relevance": "St. Mary Finance Management System demonstrates organization-level PHP and MySQL backend development with reporting and secure multi-user access.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "project-2",
+        "relevance": "MedHub Ethiopia shows backend API design and QA through debugging workflows.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "project-1",
+        "relevance": "MyFayda eKYC demonstrates backend authentication and API testing.",
+        "matchScore": 85
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-5",
+        "relevance": "Led backend integration in MedHub Ethiopia with Node.js and MongoDB.",
+        "matchScore": 90
+      },
+      {
+        "experienceId": "exp-4",
+        "relevance": "Worked on secure authentication and API development in MyFayda eKYC.",
+        "matchScore": 85
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Problem Solving",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
+    }
+  }
 }
+
 
 
 

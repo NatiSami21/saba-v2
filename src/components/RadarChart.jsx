@@ -85,8 +85,8 @@ const RadarChartComponent = ({ skills = [] }) => {
                 tick={{ fill: "rgba(200,200,255,0.7)", fontSize: 11 }}
               />
               <Radar
-                name="My Proficiency"
-                dataKey="My Proficiency"
+                name="His Proficiency"
+                dataKey="His Proficiency"
                 stroke="#d8b4fe"
                 fill="#d8b4fe"
                 fillOpacity={0.5}
