@@ -61,112 +61,112 @@
     }
   },
 
-  "software-developer-addis-ababa": {
-    "meta": {
-      "jobId": "software-developer-addis-ababa",
-      "company": "12233", 
-      "role": "Software Developer",
-      "source": "https://docs.google.com/forms/d/e/1FAIpQLSd4twd6khSc9WPprat03bnuVmzvsbLinMTr2frJCzt076-aWA/viewform?usp=dialog",
-      "dateAdded": "2025-09-15",
-      "jobDescription": "Software developer role, full-stack (MERN + PHP) and AI/ML tasks. Remote, full-time. Includes backend services, API design, responsive frontend, AI/ML model integration, optimization, debugging, collaboration."
-    },
-    "keyRequirements": [
-      "3+ years of full-stack development (MERN + PHP)",
-      "Strong proficiency in JavaScript (ES6+), HTML5, CSS3",
-      "Experience with REST APIs and databases",
-      "Familiar with Git-based workflows and CI/CD tools",
-      "Problem-solving and communication skills",
-      "3+ years of AI/ML development",
-      "Strong understanding of machine learning algorithms, neural networks, and data science",
-      "Experience building and deploying ML models in production",
-      "Proficient with data handling libraries (e.g., NumPy, Pandas)",
-      "Familiarity with cloud platforms (AWS, GCP, Azure) is a plus"
-    ],
-    "narrative": "Natinael Samuel is an experienced software developer and AI/ML practitioner with strong full-stack expertise in MERN + PHP technologies. He has built and maintained dynamic web applications, APIs, and backend services, ensuring performance, scalability, and security. With solid proficiency in JavaScript, HTML5, CSS3, and database management, he can seamlessly integrate AI/ML models into web platforms. Natinael is adept at collaboration with UI/UX teams, debugging complex systems, and optimizing applications. His experience with REST APIs, CI/CD workflows, and cloud platforms ensures smooth deployment and production readiness. Hiring Natinael guarantees a high-alignment match with your technical requirements and project goals.",
-    "alignment": {
-      "skills": [
-        {
-          "skillName": "Full-Stack Development (MERN + PHP)",
-          "myProficiency": 95,
-          "jobRequirementLevel": "Expert",
-          "matchScore": 95,
-          "evidence": "Built multiple MERN stack web applications and integrated PHP backend modules."
-        },
-        {
-          "skillName": "JavaScript (ES6+)",
-          "myProficiency": 95,
-          "jobRequirementLevel": "Expert",
-          "matchScore": 95,
-          "evidence": "Used extensively in frontend and full-stack projects."
-        },
-        {
-          "skillName": "HTML5 & CSS3",
-          "myProficiency": 90,
-          "jobRequirementLevel": "Expert",
-          "matchScore": 90,
-          "evidence": "Designed responsive UI/UX in multiple web applications."
-        },
-        {
-          "skillName": "REST APIs",
-          "myProficiency": 90,
-          "jobRequirementLevel": "Strong",
-          "matchScore": 90,
-          "evidence": "Developed backend APIs for web apps and integrated third-party services."
-        },
-        {
-          "skillName": "AI/ML Development",
-          "myProficiency": 85,
-          "jobRequirementLevel": "Strong",
-          "matchScore": 85,
-          "evidence": "Built AI/ML modules for video surveillance and other SaaS applications."
-        }
-      ],
-      "projectHighlights": [
-        {
-          "projectId": "wa-leba-ai-surveillance",
-          "relevance": "Integrated real-time AI/ML video monitoring into a scalable SaaS platform.",
-          "matchScore": 90
-        },
-        {
-          "projectId": "medhub-ethiopia",
-          "relevance": "Developed full-stack healthcare web application with real-time analytics and backend services.",
-          "matchScore": 95
-        }
-      ],
-      "experienceHighlights": [
-        {
-          "experienceId": "frontend-backend-development",
-          "relevance": "Led development of multiple web applications, managing frontend and backend integration.",
-          "matchScore": 90
-        },
-        {
-          "experienceId": "ai-ml-projects",
-          "relevance": "Designed and deployed AI/ML models for real-time monitoring and prediction tasks.",
-          "matchScore": 85
-        }
-      ],
-      "culturalFit": {
-        "aspects": [
-          {
-            "aspect": "Teamwork",
-            "myStrength": "High",
-            "jobRequirement": "High",
-            "matchScore": 100
-          },
-          {
-            "aspect": "Leadership",
-            "myStrength": "High",
-            "jobRequirement": "High",
-            "matchScore": 100
-          }
-        ]
-      },
-      "educationFit": {
-        "relevant": true,
-        "evidence": "Bachelor's degree in Software Engineering aligns with the requirement."
-      }
-    }
+"software-developer-addis-ababa": {
+  "meta": {
+    "jobId": "software-developer-addis-ababa",
+    "company": "12233", 
+    "role": "Software Developer",
+    "source": "https://docs.google.com/forms/d/e/1FAIpQLSd4twd6khSc9WPprat03bnuVmzvsbLinMTr2frJCzt076-aWA/viewform?usp=dialog",
+    "dateAdded": "2025-09-15",
+    "jobDescription": "Software developer role, full-stack (MERN + PHP) and AI/ML tasks. Remote, full-time. Includes backend services, API design, responsive frontend, AI/ML model integration, optimization, debugging, collaboration."
   },
+  "keyRequirements": [
+    "3+ years of full-stack development (MERN + PHP)",
+    "Strong proficiency in JavaScript (ES6+), HTML5, CSS3",
+    "Experience with REST APIs and databases",
+    "Familiar with Git-based workflows and CI/CD tools",
+    "Problem-solving and communication skills",
+    "3+ years of AI/ML development",
+    "Strong understanding of machine learning algorithms, neural networks, and data science",
+    "Experience building and deploying ML models in production",
+    "Proficient with data handling libraries (e.g., NumPy, Pandas)",
+    "Familiarity with cloud platforms (AWS, GCP, Azure) is a plus"
+  ],
+  "narrative": "Natinael Samuel is an experienced software developer and AI/ML practitioner with strong full-stack expertise in MERN + PHP technologies. He has built and maintained dynamic web applications, APIs, and backend services, ensuring performance, scalability, and security. With solid proficiency in JavaScript, HTML5, CSS3, and database management, he can seamlessly integrate AI/ML models into web platforms. Natinael is adept at collaboration with UI/UX teams, debugging complex systems, and optimizing applications. His experience with REST APIs, CI/CD workflows, and cloud platforms ensures smooth deployment and production readiness. Hiring Natinael guarantees a high-alignment match with your technical requirements and project goals.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Full-Stack Development (MERN + PHP)",
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Built multiple MERN stack web applications and integrated PHP backend modules."
+      },
+      {
+        "skillName": "JavaScript (ES6+)",
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Used extensively in frontend and full-stack projects."
+      },
+      {
+        "skillName": "HTML5 & CSS3",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 90,
+        "evidence": "Designed responsive UI/UX in multiple web applications."
+      },
+      {
+        "skillName": "REST APIs",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 90,
+        "evidence": "Developed backend APIs for web apps and integrated third-party services."
+      },
+      {
+        "skillName": "AI/ML Development",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Strong",
+        "matchScore": 85,
+        "evidence": "Built AI/ML modules for video surveillance and other SaaS applications."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "wa-leba-ai-surveillance",
+        "relevance": "Integrated real-time AI/ML video monitoring into a scalable SaaS platform.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Developed full-stack healthcare web application with real-time analytics and backend services.",
+        "matchScore": 95
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "frontend-backend-development",
+        "relevance": "Led development of multiple web applications, managing frontend and backend integration.",
+        "matchScore": 90
+      },
+      {
+        "experienceId": "ai-ml-projects",
+        "relevance": "Designed and deployed AI/ML models for real-time monitoring and prediction tasks.",
+        "matchScore": 85
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Leadership",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor's degree in Software Engineering aligns with the requirement."
+    }
+  }
+},
 
 "frontend-developer-addis-ababa102": {
   "meta": {
@@ -989,7 +989,94 @@
       "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
     }
   }
+},
+
+"fullstack-heavy-backend-armada": {
+  "meta": {
+    "jobId": "fullstack-heavy-backend-armada",
+    "company": "Hire Armada",
+    "role": "Full-Stack Software Engineer (Heavy Backend)",
+    "source": "Job Posting (September 18, 2025)",
+    "dateAdded": "2025-09-18",
+    "jobDescription": "Full-stack engineer role with focus on backend, AI integration, WebRTC and Socket io video/audio streaming, and DevOps. Requires Next.js, TypeScript, Node.js, and cloud experience, with nice-to-haves like LiveKit and VOIP."
+  },
+  "keyRequirements": [
+    "Next.js and TypeScript with state management",
+    "Backend development with Node.js, databases, and APIs",
+    "Integrating AI/ML services or models",
+    "Video/audio streaming technologies",
+    "CI/CD pipelines and DevOps processes",
+    "Cloud infrastructure (Azure preferred, AWS a plus)",
+    "Collaboration in distributed teams"
+  ],
+  "narrative": "Natinael Samuel is a full-stack developer with strong expertise in Next.js, React, Node.js, and API integration. His projects MedHub Ethiopia and MyFayda eKYC demonstrate scalable backend services and frontend design, while Wa-Leba+ AI Surveillance SaaS highlights his ability to integrate AI/ML models and handle real-time video pipelines. He has exposure to TypeScript, CI/CD, and cloud deployments (Netlify, Vercel, AWS), and is eager to deepen his skills in Azure DevOps, video/audio streaming, and real-time frameworks such as LiveKit.",
+  "alignment": {
+    "skills": [
+      { "skillName": "Next.js", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 90, "evidence": "Used in portfolio projects and MedHub Ethiopia frontend." },
+      { "skillName": "TypeScript", "myProficiency": 60, "jobRequirementLevel": "Strong", "matchScore": 65, "evidence": "Exposure from frontend work; not primary language." },
+      { "skillName": "State Management (Redux, Zustand)", "myProficiency": 75, "jobRequirementLevel": "Strong", "matchScore": 75, "evidence": "Implemented Redux in MedHub Ethiopia for records handling." },
+      { "skillName": "Node.js", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 90, "evidence": "Backend APIs in MedHub Ethiopia and MyFayda eKYC." },
+      { "skillName": "Databases (SQL/NoSQL)", "myProficiency": 80, "jobRequirementLevel": "Strong", "matchScore": 85, "evidence": "MySQL in St. Mary Finance System, MongoDB in MedHub Ethiopia." },
+      { "skillName": "API Development", "myProficiency": 85, "jobRequirementLevel": "Strong", "matchScore": 90, "evidence": "Designed REST APIs across MedHub and MyFayda projects." },
+      { "skillName": "AI/ML Integration", "myProficiency": 75, "jobRequirementLevel": "Strong", "matchScore": 80, "evidence": "Built Wa-Leba+ AI Surveillance SaaS with TensorFlow and PyTorch." },
+      { "skillName": "Video/Audio Streaming", "myProficiency": 50, "jobRequirementLevel": "Strong", "matchScore": 50, "evidence": "Exposure through Wa-Leba+ handling real-time video feeds." },
+      { "skillName": "LiveKit", "myProficiency": 0, "jobRequirementLevel": "Nice-to-Have", "matchScore": 0, "evidence": "No experience yet." },
+      { "skillName": "SIP/VOIP", "myProficiency": 0, "jobRequirementLevel": "Nice-to-Have", "matchScore": 0, "evidence": "No experience yet." },
+      { "skillName": "CI/CD", "myProficiency": 40, "jobRequirementLevel": "Intermediate", "matchScore": 40, "evidence": "Exposure-level familiarity; integrated basic pipelines in internships." },
+      { "skillName": "Azure DevOps", "myProficiency": 20, "jobRequirementLevel": "Preferred", "matchScore": 20, "evidence": "No production experience; willing to learn." },
+      { "skillName": "AWS", "myProficiency": 30, "jobRequirementLevel": "Preferred", "matchScore": 30, "evidence": "Exposure through deployments and storage familiarity." },
+      { "skillName": "Cloud Infrastructure", "myProficiency": 50, "jobRequirementLevel": "Intermediate", "matchScore": 50, "evidence": "General familiarity from deploying projects to Vercel, Netlify, AWS." }
+    ],
+    "projectHighlights": [
+      { "projectId": "project-2", "relevance": "MedHub Ethiopia demonstrates full-stack integration with React/Next.js and Node.js.", "matchScore": 90 },
+      { "projectId": "project-1", "relevance": "MyFayda eKYC showcases backend APIs and authentication workflows.", "matchScore": 85 },
+      { "projectId": "project-3", "relevance": "Wa-Leba+ demonstrates AI/ML integration and exposure to real-time video processing.", "matchScore": 85 }
+    ],
+    "experienceHighlights": [
+      { "experienceId": "exp-5", "relevance": "Led MedHub Ethiopia implementation with React/Next.js and backend services.", "matchScore": 90 },
+      { "experienceId": "exp-3", "relevance": "Machine Learning internship involving ML model training and deployment.", "matchScore": 80 }
+    ],
+    "culturalFit": {
+      "aspects": [
+        { "aspect": "Problem Solving", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 },
+        { "aspect": "Teamwork", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering aligns with requirement."
+    }
+  }
+},
+
+"python-dev-senior-110": {
+  "jobId": "python-dev-senior-110",
+  "title": "Python Developer",
+  "company": "Confidential",
+  "location": "Addis Ababa, Ethiopia",
+  "employmentType": "On-site - Permanent (Full-time)",
+  "experienceLevel": "Senior",
+  "skillsRequired": [
+    { "name": "Python (OOP)", "category": "Programming", "proficiency": 70, "matchScore": 75 },
+    { "name": "SQL", "category": "Database", "proficiency": 50, "matchScore": 55, "note": "Intermediate-level experience" },
+    { "name": "Snowflake", "category": "Cloud / Data Warehouse", "proficiency": 0, "matchScore": 10, "note": "No direct experience" },
+    { "name": "Jinja", "category": "Templating", "proficiency": 20, "matchScore": 25, "note": "Only exposure to similar templating concepts" },
+    { "name": "Docker", "category": "DevOps / Containers", "proficiency": 25, "matchScore": 30, "note": "Basic exposure, not production-level" },
+    { "name": "Kubernetes", "category": "DevOps / Containers", "proficiency": 0, "matchScore": 10, "note": "No practical experience" },
+    { "name": "CI/CD", "category": "DevOps", "proficiency": 40, "matchScore": 45, "note": "Exposure from internship projects" },
+    { "name": "Git", "category": "Version Control", "proficiency": 70, "matchScore": 75 },
+    { "name": "AWS", "category": "Cloud Services", "proficiency": 20, "matchScore": 25, "note": "Exposure only" },
+    { "name": "Data Integration & Pipelines", "category": "Concepts", "proficiency": 35, "matchScore": 40, "note": "Basic exposure through backend systems" }
+  ],
+  "bestProjects": [
+    { "name": "Wa-Leba+ AI Surveillance", "reason": "Applied OOP in Python algorithms for real-time processing" },
+    { "name": "Bible Trivia Game", "reason": "Used OOP in Python to design scalable and maintainable logic" },
+    { "name": "Dev-Elex Internship Tasks", "reason": "Hands-on practice with CI/CD pipelines, Git workflows" }
+  ],
+  "overallMatchScore": 38
 }
+
+
 
 
 

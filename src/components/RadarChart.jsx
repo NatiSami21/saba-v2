@@ -13,7 +13,7 @@ import {
 const levelMap = {
   Beginner: 40,
   Intermediate: 60,
-  Strong: 70,
+  Strong: 80,
   Advanced: 80,
   Expert: 100,
 };
