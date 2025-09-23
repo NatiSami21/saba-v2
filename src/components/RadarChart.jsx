@@ -28,7 +28,7 @@ const RadarChartComponent = ({ skills = [] }) => {
 
   const chartData = visibleSkills.map((s) => ({
     skill: s.skillName,
-    "My Proficiency": s.myProficiency,
+    "His Proficiency": s.myProficiency,
     "Job Requirement": levelMap[s.jobRequirementLevel] || 50,
   }));
 
