@@ -16,6 +16,7 @@ const levelMap = {
   Strong: 80,
   Advanced: 80,
   Expert: 100,
+  Must: 100,
 };
 
 const RadarChartComponent = ({ skills = [] }) => {
