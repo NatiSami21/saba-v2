@@ -12,11 +12,16 @@ import {
 
 const levelMap = {
   Beginner: 40,
+  Exposure: 40,
+  Basic: 40,
+  Junior: 40,
   Intermediate: 60,
   Strong: 80,
   Advanced: 80,
+  Proficient: 80, 
   Expert: 100,
-  Must: 100,
+  Must: 100, 
+  Optional: 40, 
 };
 
 const RadarChartComponent = ({ skills = [] }) => {

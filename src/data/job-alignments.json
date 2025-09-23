@@ -1049,7 +1049,6 @@
   }
 },
 
-
 "python-dev-senior-110": {
   "meta": {
     "jobId": "python-dev-senior-20250910",
@@ -1195,8 +1194,126 @@
       "evidence": "Bachelor’s degree in Software Engineering aligns with the role's educational expectation."
     }
   }
-}
+},
 
+"junior-backend-akilo-111": {
+  "meta": {
+    "jobId": "junior-backend-akilo-111",
+    "company": "Akilo Technology Company",
+    "role": "Junior Backend Developer (Node.js)",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-22",
+    "jobDescription": "We are hiring a Junior Backend Developer to contribute to backend system development and integration. You’ll assist in API design, data handling, and backend features, working closely with senior developers. This role is perfect for someone looking to grow into a senior backend role while learning best practices in production-scale development. Responsibilities: Implement backend services in Node.js, following established architecture. Assist in API development for mobile and web applications. Work on database modeling, queries, and optimizations. Write clean, maintainable, and testable code. Collaborate with frontend engineers and QA during integrations. Actively participate in team meetings and technical discussions. Requirements: 2+ years of professional backend development experience. Proficiency in Node.js (Express/NestJS). Familiarity with REST APIs and JSON data structures. Knowledge of SQL/NoSQL databases. Understanding of authentication and role-based systems. Strong communication and collaboration skills. Bonus: exposure to Go or chat/messaging features."
+  },
+  "keyRequirements": [
+    "2+ years of backend development experience",
+    "Proficiency in Node.js (Express/NestJS)",
+    "Familiarity with REST APIs and JSON",
+    "Knowledge of SQL/NoSQL databases",
+    "Understanding of authentication and role-based systems",
+    "Strong collaboration and communication skills",
+    "Bonus: Exposure to Go",
+    "Bonus: Exposure to chat/messaging features"
+  ],
+  "narrative": "Natinael Samuel is a strong fit for this Junior Backend Developer role, with proven hands on experience in Node.js, REST APIs, and database systems. Through projects like MedHub Ethiopia, MyFayda eKYC and WZSIT WebApp, he built backend services with authentication, role based systems, and secure integrations. He also gained experience in SQL with St. Mary Finance System and in MongoDB with MedHub Ethiopia. While his exposure to Go and chat/messaging features is limited, his foundation in backend systems, API design, and collaborative development makes him well suited to grow into this role at Akilo.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Node.js",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 95,
+        "evidence": "Developed scalable backends in MedHub Ethiopia and WZSIT WebApp using Node.js and Express."
+      },
+      {
+        "skillName": "REST APIs",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 95,
+        "evidence": "Designed and consumed REST APIs for MedHub Ethiopia, St. Mary Finance System, and Dev-Elex internship projects."
+      },
+      {
+        "skillName": "SQL",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Implemented SQL schemas and optimized queries in St. Mary Finance System."
+      },
+      {
+        "skillName": "NoSQL (MongoDB)",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Built MongoDB schemas and integrations in MedHub Ethiopia and WZSIT WebApp."
+      },
+      {
+        "skillName": "Authentication & Role-Based Access",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Implemented JWT-based authentication and role-based systems in MedHub Ethiopia with Fayda eKYC integration."
+      },
+      {
+        "skillName": "Go",
+        "myProficiency": 20,
+        "jobRequirementLevel": "Exposure",
+        "matchScore": 25,
+        "evidence": "Basic familiarity with Go syntax and backend workflows, but no production-level projects yet."
+      },
+      {
+        "skillName": "Chat/Messaging Features",
+        "myProficiency": 30,
+        "jobRequirementLevel": "Exposure",
+        "matchScore": 35,
+        "evidence": "Experimented with Socket.io for real-time communication but no production deployment yet."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Backend built with Node.js and MongoDB, including JWT authentication and REST APIs.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "wzsit-webapp",
+        "relevance": "MERN stack project with Node.js backend and MongoDB database integration.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "st-mary-finance-system",
+        "relevance": "SQL-based finance automation system demonstrating strong database design skills.",
+        "matchScore": 85
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Contributed to backend debugging, REST API testing, and performance optimization in a production environment.",
+        "matchScore": 80
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Leadership",
+          "myStrength": "High",
+          "jobRequirement": "Medium",
+          "matchScore": 90
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Holds a BSc in Software Engineering, directly aligned with backend development requirements."
+    }
+  }
+}
 
 
 
