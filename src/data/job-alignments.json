@@ -1603,7 +1603,115 @@
       "evidence": "BSc in Software Engineering with embedded systems coursework and practical project experience."
     }
   }
-} 
+}, 
+
+"software-implementation-114": {
+  "meta": {
+    "jobId": "software-implementation-114",
+    "company": "Blue Pixel Trading PLC",
+    "role": "Software Implementation Officer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-25",
+    "jobDescription": "Blue Pixel Trading PLC seeks a graduate-level Software Implementation Officer to support ERP deployment, configuration, training, and first-level support for clients. Responsibilities include module integration, collaboration with developers, and documenting client requirements. Requires basic full-stack familiarity, database knowledge, strong communication, and willingness to learn quickly."
+  },
+  "keyRequirements": [
+    "ERP systems deployment and configuration",
+    "Software module integration (finance, stock, sales, HR)",
+    "User training and support",
+    "Collaboration with development team",
+    "Documentation of processes and requirements",
+    "Full-stack familiarity (frontend + backend basics)",
+    "Database knowledge",
+    "Problem-solving and communication skills",
+    "Willingness to learn quickly"
+  ],
+  "narrative": "Natinael Samuel is a promising candidate for the Software Implementation Officer role, with a BSc in Software Engineering and experience implementing business systems. His work on the St. Mary Finance System demonstrates exposure to ERP-like financial modules, while projects like MedHub Ethiopia and WZSIT WebApp provided hands-on experience in full-stack development and database management. He has documented and presented complex systems during his studies and internships, showing strong communication and problem-solving skills. While he is not yet an ERP expert, his proven adaptability and eagerness to learn make him a strong fit for an implementation-focused graduate role.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "ERP Systems",
+        "myProficiency": 60,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 70,
+        "evidence": "Exposure through building St. Mary Finance System, an ERP-like financial automation project."
+      },
+      {
+        "skillName": "Full-Stack Development",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Basic Familiarity",
+        "matchScore": 95,
+        "evidence": "Experience with React, Node.js, PHP, and databases in MedHub Ethiopia, WZSIT WebApp, and internships."
+      },
+      {
+        "skillName": "Databases",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Hands-on with SQL (St. Mary Finance System), MongoDB (MedHub Ethiopia), and Supabase (internship)."
+      },
+      {
+        "skillName": "User Training & Support",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Presented and documented academic and startup projects for end users and evaluators."
+      },
+      {
+        "skillName": "Documentation",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 95,
+        "evidence": "Produced detailed documentation for MedHub Ethiopia and internship deliverables."
+      },
+      {
+        "skillName": "Problem-Solving & Communication",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 95,
+        "evidence": "Proven in internships, startups, and team-based university projects."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "st-mary-finance-system",
+        "relevance": "Built a financial system with ERP-like features, directly relevant to client-facing business modules.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Full-stack healthcare system showing database and deployment familiarity.",
+        "matchScore": 80
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Collaborated with developers to debug, document, and optimize web systems.",
+        "matchScore": 75
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Adaptability",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Holds a BSc in Software Engineering, directly aligned with implementation and full-stack exposure."
+    }
+  }
+}
 
 
 }
