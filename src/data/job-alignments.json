@@ -1711,7 +1711,126 @@
       "evidence": "Holds a BSc in Software Engineering, directly aligned with implementation and full-stack exposure."
     }
   }
+},
+
+"software-engineer-fg-115": {
+  "meta": {
+    "jobId": "software-engineer-fg-115",
+    "company": "FG Business Group",
+    "role": "Senior Software Engineer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-25",
+    "jobDescription": "FG Business Group seeks a Senior Software Developer with 4+ years of experience. Responsibilities include writing clean, scalable code, developing and deploying applications, troubleshooting and debugging, collaborating with teams, and ensuring software security and optimization. Requires proficiency in Python, Java, JavaScript, and C#."
+  },
+  "keyRequirements": [
+    "4+ years of software development experience",
+    "Proficiency in Python, Java, JavaScript, and C#",
+    "Experience designing, developing, testing, and deploying applications",
+    "Troubleshooting, debugging, and upgrading software",
+    "Collaboration with developers, designers, and stakeholders",
+    "Software security and performance optimization",
+    "Staying updated with emerging technologies"
+  ],
+  "narrative": "Natinael Samuel is an early-career software engineer with approximately 2 years of real-world project experience. He has strong expertise in Python and JavaScript, demonstrated in projects such as Wa-Leba AI CCTV and MedHub Ethiopia. He has worked on backend systems, frontend development, and deployment workflows in both academic and internship contexts. While his exposure to Java is limited and he has not yet worked extensively with C#, he compensates with proven adaptability, debugging experience, and performance optimization from his Dev-Elex internship. Natinael is eager to contribute his skills in scalable software development while continuing to grow towards senior-level expertise.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Python",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 80,
+        "evidence": "Used in Wa-Leba AI CCTV system and multiple ML/automation projects."
+      },
+      {
+        "skillName": "Java",
+        "myProficiency": 35,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 40,
+        "evidence": "Exposure through academic coursework and small-scale projects."
+      },
+      {
+        "skillName": "JavaScript",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 80,
+        "evidence": "Proficient in React and Node.js, applied in MedHub Ethiopia, WZSIT WebApp, and internship work."
+      },
+      {
+        "skillName": "C#",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 10,
+        "evidence": "No hands-on experience yet."
+      },
+      {
+        "skillName": "Algorithm Development",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Implemented ML models and algorithms in Wa-Leba AI CCTV and Bible Trivia Game."
+      },
+      {
+        "skillName": "Debugging & Maintenance",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Internship at Dev-Elex included identifying bugs and optimizing backend systems."
+      },
+      {
+        "skillName": "Software Deployment",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Worked on deployment processes in MedHub Ethiopia and Dev-Elex internship."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "wa-leba-ai-cctv",
+        "relevance": "Applied Python for AI models, algorithms, and deployment in a real-world security system.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Full-stack development with Node.js, React, and MongoDB; experience in scalability and deployment.",
+        "matchScore": 80
+      },
+      {
+        "projectId": "wzsit-webapp",
+        "relevance": "MERN stack support system showcasing JavaScript proficiency and debugging.",
+        "matchScore": 80
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Hands-on debugging, REST API testing, and backend performance optimization.",
+        "matchScore": 85
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Adaptability",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering, directly aligned with software development role."
+    }
+  }
 }
+
 
 
 }
