@@ -1469,8 +1469,141 @@
       "evidence": "Holds a BSc in Software Engineering, directly relevant to full-stack web development."
     }
   }
-}
+},
 
+"embedded-firmware-113": {
+  "meta": {
+    "jobId": "embedded-firmware-113",
+    "company": "",
+    "role": "Embedded Firmware/Hardware Engineer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-24",
+    "jobDescription": "Beginner/Intermediate Embedded Hardware & Firmware Engineer. Responsibilities include developing and testing firmware for microcontrollers and SBCs, integrating sensors and modules, and writing efficient code in C, C++, and Python. Requirements include familiarity with Arduino, ESP32, NRF, STM32, SBCs like Raspberry Pi, and programming in C, C++, Python. Preferred: prototyping, debugging tools, and communication protocols (UART, SPI, I2C, CAN, Modbus)."
+  },
+  "keyRequirements": [
+    "Familiarity with microcontrollers (Arduino, ESP32, NRF, STM32)",
+    "Hands-on experience with SBCs (Raspberry Pi, Banana Pi)",
+    "Proficiency in C, C++, Python",
+    "Sensor and peripheral integration",
+    "Firmware development and debugging",
+    "Hardware prototyping and debugging tools (preferred)",
+    "Knowledge of communication protocols (UART, SPI, I2C, CAN, Modbus)"
+  ],
+  "narrative": "Natinael Samuel is a strong fit for this role as an intermediate embedded systems engineer. He has hands on Arduino experience, demonstrated through his published Arduino Smartwatch project on Instructables, which integrated heartbeat and temperature sensors. He also worked with Raspberry Pi and Device Programming more on In-System Programming (ISP)  when leading development of the Wa-Leba AI-CCTV system. While his exposure to advanced microcontrollers like ESP32, NRF, and STM32, as well as communication protocols such as CAN and Modbus, is limited, he brings solid practical experience in Python, C, and C++ for embedded programming. His proven ability to prototype hardware, document processes, and solve problems independently makes him a motivated candidate ready to grow further in embedded firmware and hardware development.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Arduino",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Published Arduino smartwatch project integrating heartbeat and temperature sensors on Instructables."
+      },
+      {
+        "skillName": "ESP32",
+        "myProficiency": 50,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 60,
+        "evidence": "Exposure only to microcontroller family, no production project yet."
+      },
+      {
+        "skillName": "Raspberry Pi",
+        "myProficiency": 60,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 75,
+        "evidence": "Used Raspberry Pi in Wa-Leba AI-CCTV system for device programming and integration."
+      },
+      {
+        "skillName": "C",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 50,
+        "evidence": "Basic use of C in Arduino sketches, exposure level."
+      },
+      {
+        "skillName": "C++",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Applied C++ OOP concepts in Arduino firmware development."
+      },
+      {
+        "skillName": "Python",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Extensively used Python in Wa-Leba AI-CCTV system and ML projects."
+      },
+      {
+        "skillName": "Sensor Integration",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Integrated multiple sensors (heartbeat, temperature, display) in Arduino smartwatch project."
+      },
+      {
+        "skillName": "Hardware Prototyping & Debugging",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Exposure to prototyping/debugging tools during Arduino and Raspberry Pi projects."
+      },
+      {
+        "skillName": "Communication Protocols (UART, SPI, I2C)",
+        "myProficiency": 30,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 40,
+        "evidence": "Basic exposure when interfacing Arduino and Raspberry Pi devices."
+      },
+      {
+        "skillName": "CAN/Modbus",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 10,
+        "evidence": "No hands-on experience yet."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "arduino-smartwatch",
+        "relevance": "Demonstrates embedded firmware development, sensor integration, and Arduino expertise.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "wa-leba-ai-cctv",
+        "relevance": "Raspberry Pi device programming and real-world embedded system deployment.",
+        "matchScore": 85
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "embedded-prototyping",
+        "relevance": "Hands-on Arduino and Raspberry Pi prototyping, plus publishing open-source projects.",
+        "matchScore": 80
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Problem Solving",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering with embedded systems coursework and practical project experience."
+    }
+  }
+} 
 
 
 }
