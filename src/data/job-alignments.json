@@ -1313,8 +1313,163 @@
       "evidence": "Holds a BSc in Software Engineering, directly aligned with backend development requirements."
     }
   }
-}
+},
 
+"fullstack-dev-112": {
+  "meta": {
+    "jobId": "fullstack-dev-112",
+    "company": "",
+    "role": "Full Stack Developer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-22",
+    "jobDescription": "We are seeking a highly skilled Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for developing and maintaining our web applications. Responsibilities include developing, testing, and maintaining applications using React, Angular, Laravel, and Node.js, working with SQL/NoSQL databases, ensuring UI/UX feasibility, optimizing for speed and scalability, and documenting systems. Requirements: 2+ years full-stack experience, experience in E-Commerce/E-Learning projects, familiarity with cloud platforms (AWS, Azure, GCP), strong problem-solving and collaboration skills."
+  },
+  "keyRequirements": [
+    "2+ years full-stack web development experience",
+    "Proficiency with React, Angular, Laravel, Node.js",
+    "Strong SQL/NoSQL database skills",
+    "Database design and development",
+    "Understanding of UI/UX feasibility",
+    "Web optimization for speed and scalability",
+    "Experience with documentation",
+    "E-Commerce and E-Learning project exposure",
+    "Cloud platform experience (AWS, Azure, GCP)",
+    "Collaboration, problem-solving, and communication skills"
+  ],
+  "narrative": "Natinael Samuel is well-suited for this Full Stack Developer role, with hands-on proficiency in React, Laravel, Node.js, SQL, and MongoDB. He has built E-Commerce systems such as Diguwa-Store and developed scalable web applications like MedHub Ethiopia and WZSIT WebApp. His background includes optimizing performance and documenting workflows during his internship at Dev-Elex. While his Angular and cloud deployment experience is limited to exposure, his strong foundation in full-stack development, combined with proven E-Commerce experience and academic E-Learning projects, positions him as a strong candidate.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "React",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Developed interactive frontends in WZSIT WebApp and internship projects."
+      },
+      {
+        "skillName": "Angular",
+        "myProficiency": 20,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 25,
+        "evidence": "Basic familiarity with Angular syntax and concepts, but no production project."
+      },
+      {
+        "skillName": "Laravel",
+        "myProficiency": 10,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 10,
+        "evidence": "Built St. Mary Finance System backend with Laravel and MySQL."
+      },
+      {
+        "skillName": "Node.js",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Used Node.js for backend APIs in MedHub Ethiopia and WZSIT WebApp."
+      },
+      {
+        "skillName": "SQL",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Designed SQL schema and queries for St. Mary Finance System."
+      },
+      {
+        "skillName": "NoSQL (MongoDB)",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Implemented MongoDB models for MedHub Ethiopia and WZSIT WebApp."
+      },
+      {
+        "skillName": "UI/UX feasibility",
+        "myProficiency": 65,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 75,
+        "evidence": "Collaborated on UI/UX in MedHub Ethiopia hero section and Diguwa-Store."
+      },
+      {
+        "skillName": "Web optimization",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Improved performance during Dev-Elex internship debugging tasks."
+      },
+      {
+        "skillName": "Documentation",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 95,
+        "evidence": "Updated MedHub Ethiopia documentation and internship deliverables."
+      },
+      {
+        "skillName": "E-Commerce",
+        "myProficiency": 30,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 40,
+        "evidence": "Founded Diguwa-Store startup and built an online sales platform."
+      },
+      {
+        "skillName": "E-Learning",
+        "myProficiency": 30,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 40,
+        "evidence": "Exposure through Bible Trivia Game, but not a full-scale E-Learning system."
+      },
+      {
+        "skillName": "AWS/Azure/GCP",
+        "myProficiency": 20,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 30,
+        "evidence": "Basic exposure to cloud platforms, but no major deployments."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "diguwa-store",
+        "relevance": "E-Commerce platform aligning directly with job requirement.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Full-stack project using Node.js, MongoDB, and UI/UX design principles.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "st-mary-finance-system",
+        "relevance": "Laravel and SQL project demonstrating backend and database design skills.",
+        "matchScore": 85
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Worked on debugging, performance optimization, and REST API integrations.",
+        "matchScore": 80
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Leadership",
+          "myStrength": "High",
+          "jobRequirement": "Medium",
+          "matchScore": 90
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Holds a BSc in Software Engineering, directly relevant to full-stack web development."
+    }
+  }
+}
 
 
 
