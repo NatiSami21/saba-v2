@@ -1942,7 +1942,178 @@
       "evidence": "BSc in Software Engineering with exposure to web design and frontend development."
     }
   }
+},
+
+"junior-developer-golfscape-117": {
+  "meta": {
+    "jobId": "junior-developer-golfscape-117",
+    "company": "Golfscape",
+    "role": "Junior Developer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-26",
+    "jobDescription": "Golfscape is hiring a Junior Developer to contribute to development and maintenance of their platform using JavaScript, Node.js, PHP, React, and SQL/NoSQL. Responsibilities include debugging, QA testing, API work, documentation, and support for senior engineers. Bonus skills include Docker, CMS, Linux, and microservices."
+  },
+  "keyRequirements": [
+    "JavaScript (ES6+, React, jQuery, vanilla JS)",
+    "Node.js for backend development",
+    "PHP for legacy systems",
+    "SQL and NoSQL database scripting",
+    "RESTful API usage and development",
+    "Git and version control",
+    "Debugging and QA testing",
+    "Ability to work with legacy/monolithic systems",
+    "Bonus: Docker, Linux, queueing systems, CMS, microservices"
+  ],
+  "narrative": "Natinael Samuel is a junior-to-intermediate full-stack developer with strong skills in JavaScript, React, Node.js, PHP, and databases (SQL and NoSQL). He has applied these in real-world systems like the St. Mary Finance System (PHP, SQL) and WZSIT WebApp/MedHub Ethiopia (MERN stack, APIs, MongoDB). His experience at Dev-Elex internship also gave him hands-on practice with debugging, QA, and API integration in collaborative teams. While he has only exposure-level knowledge of Docker, Linux, and microservices, and no direct CMS experience, his foundation in core technologies and adaptability make him a strong fit for a junior developer role at Golfscape.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "JavaScript (ES6+/React)",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Used in MedHub Ethiopia and Dev-Elex internship projects."
+      },
+      {
+        "skillName": "jQuery/Vanilla JS",
+        "myProficiency": 50,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 60,
+        "evidence": "Exposure during earlier academic and freelance projects."
+      },
+      {
+        "skillName": "Node.js",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Used in MedHub Ethiopia and WZSIT WebApp backend development."
+      },
+      {
+        "skillName": "PHP",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Implemented in St. Mary Finance System, an organizational-level project."
+      },
+      {
+        "skillName": "SQL",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Database design and queries in St. Mary Finance System."
+      },
+      {
+        "skillName": "NoSQL (MongoDB)",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 75,
+        "evidence": "Applied in MedHub Ethiopia and WZSIT WebApp."
+      },
+      {
+        "skillName": "REST APIs",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Integrated APIs in Dev-Elex internship and MedHub Ethiopia."
+      },
+      {
+        "skillName": "Git",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Used for collaboration during internship and multiple projects."
+      },
+      {
+        "skillName": "Debugging & QA",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 75,
+        "evidence": "Practiced during Dev-Elex internship and project delivery cycles."
+      },
+      {
+        "skillName": "Legacy/monolithic systems",
+        "myProficiency": 55,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 65,
+        "evidence": "Exposure modernizing existing academic and small-scale projects."
+      },
+      {
+        "skillName": "Docker/Linux",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 45,
+        "evidence": "Exposure through internship setup and basic learning."
+      },
+      {
+        "skillName": "CMS (WordPress/Webflow/Wix)",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 10,
+        "evidence": "No direct CMS experience."
+      },
+      {
+        "skillName": "Chrome DevTools",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Used for debugging frontend issues in Dev-Elex internship and projects."
+      },
+      {
+        "skillName": "Microservices",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 50,
+        "evidence": "Exposure during study and internship; not yet production-level."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "st-mary-finance-system",
+        "relevance": "Demonstrated backend skills with PHP and SQL databases.",
+        "matchScore": 80
+      },
+      {
+        "projectId": "wzsit-webapp",
+        "relevance": "MERN stack project with Node.js backend and MongoDB integration.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Full-stack project using Node.js, MongoDB, and REST APIs.",
+        "matchScore": 85
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Worked on debugging, QA, and API integration in a remote collaborative team.",
+        "matchScore": 85
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Curiosity",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Team Collaboration",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering, aligning with junior developer role requirements."
+    }
+  }
 }
+ 
+
 
 
 
