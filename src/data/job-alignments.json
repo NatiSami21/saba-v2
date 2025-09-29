@@ -1829,6 +1829,119 @@
       "evidence": "BSc in Software Engineering, directly aligned with software development role."
     }
   }
+},
+
+"junior-frontend-golfscape-116": {
+  "meta": {
+    "jobId": "junior-frontend-golfscape-116",
+    "company": "Golfscape",
+    "role": "Junior Web & Frontend Designer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-09-25",
+    "jobDescription": "Golfscape is hiring a Junior Web & Frontend Designer to support the design and development of digital experiences. Role involves assisting in UI/UX design, building responsive pages, frontend development with HTML/CSS/JS, collaborating with teams, and contributing to brand styling. Requires knowledge of Figma, Git, and design principles. CMS experience like Squarespace is a plus."
+  },
+  "keyRequirements": [
+    "Knowledge of HTML, CSS, and JavaScript",
+    "Experience with responsive design and accessibility",
+    "Figma or similar design tools",
+    "Git and Chrome debugging skills",
+    "Portfolio demonstrating creativity and attention to detail",
+    "Collaboration in remote teams",
+    "Bonus: Squarespace or CMS experience"
+  ],
+  "narrative": "Natinael Samuel is a junior-intermediate level frontend developer with strong skills in HTML, CSS, and JavaScript, complemented by real-world experience using modern frameworks like Next.js, React, Tailwind, and Shadcn UI. He has applied responsive design and design system principles across projects such as MedHub Ethiopia and WZSIT WebApp. While his core strength is frontend engineering rather than graphic design, he has exposure to UI/UX design workflows using Figma, brand styling, and typography. Natinael also brings experience in Git-based collaboration and remote internships, making him a good cultural fit for Golfscape’s distributed team.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "HTML/CSS/JavaScript",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Used extensively in projects like MedHub Ethiopia and WZSIT WebApp."
+      },
+      {
+        "skillName": "Responsive Design",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Implemented using Tailwind and Shadcn UI for multiple web applications."
+      },
+      {
+        "skillName": "Accessibility",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Basic exposure to accessibility guidelines in academic and personal projects."
+      },
+      {
+        "skillName": "Figma",
+        "myProficiency": 45,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 55,
+        "evidence": "Exposure through wireframing and UI mockups during MedHub Ethiopia."
+      },
+      {
+        "skillName": "Squarespace/CMS",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 10,
+        "evidence": "No direct CMS experience yet."
+      },
+      {
+        "skillName": "Git & Debugging",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 90,
+        "evidence": "Used daily during internship (Dev-Elex) and collaborative projects."
+      },
+      {
+        "skillName": "Typography & Color",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 75,
+        "evidence": "Applied via Tailwind CSS utilities and design systems."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Frontend system with responsive UI, design system, and data visualization.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "wzsit-webapp",
+        "relevance": "MERN-based web app where Natinael applied frontend principles with JavaScript and responsive layouts.",
+        "matchScore": 80
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Contributed to frontend testing, debugging, and UI enhancements in a remote collaborative environment.",
+        "matchScore": 80
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Creativity",
+          "myStrength": "Medium",
+          "jobRequirement": "High",
+          "matchScore": 70
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering with exposure to web design and frontend development."
+    }
+  }
 }
 
 
