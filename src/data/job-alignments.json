@@ -2242,9 +2242,9 @@
     "skills": [
       {
         "skillName": "Express.js",
-        "myProficiency": 75,
+        "myProficiency": 80,
         "jobRequirementLevel": "Expert",
-        "matchScore": 80,
+        "matchScore": 85,
         "evidence": "Used in WZSIT WebApp and MedHub Ethiopia for building backend APIs."
       },
       {
@@ -2256,9 +2256,9 @@
       },
       {
         "skillName": "Microservices Architecture",
-        "myProficiency": 45,
+        "myProficiency": 60,
         "jobRequirementLevel": "Proficient",
-        "matchScore": 55,
+        "matchScore": 70,
         "evidence": "Exposure in modular service separation during Dev-Elex internship."
       },
       {
@@ -2284,9 +2284,9 @@
       },
       {
         "skillName": "REST APIs",
-        "myProficiency": 85,
+        "myProficiency": 90,
         "jobRequirementLevel": "Expert",
-        "matchScore": 90,
+        "matchScore": 95,
         "evidence": "Built secure and scalable APIs in MedHub Ethiopia and internship projects."
       },
       {
@@ -2298,9 +2298,9 @@
       },
       {
         "skillName": "Testing Frameworks (Mocha/Jest/Cypress)",
-        "myProficiency": 40,
+        "myProficiency": 60,
         "jobRequirementLevel": "Proficient",
-        "matchScore": 50,
+        "matchScore": 70,
         "evidence": "Exposure to unit testing in projects, not advanced."
       },
       {
