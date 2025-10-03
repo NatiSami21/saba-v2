@@ -2111,8 +2111,111 @@
       "evidence": "BSc in Software Engineering, aligning with junior developer role requirements."
     }
   }
-}
+},
  
+"junbackend-bolebrass-118": {
+  "meta": {
+    "jobId": "junbackend-bolebrass-118",
+    "company": "",
+    "role": "Junior Backend Developer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-10-02",
+    "jobDescription": "Hiring a Junior Backend Developer with skills in Python, Node.js, and PostgreSQL. Candidate must be a quick learner, enjoy using ChatGPT, and be passionate about automation. The role is full-time on-site at Bole Brass."
+  },
+  "keyRequirements": [
+    "Proficiency in Python",
+    "Proficiency in Node.js",
+    "Experience with PostgreSQL",
+    "Passion for automation",
+    "Ability to learn quickly and adapt to unique workflows",
+    "Collaborative personality with humor and friendliness",
+    "Enjoys using AI tools like ChatGPT"
+  ],
+  "narrative": "Natinael Samuel is a motivated backend-focused developer with strong experience in Python and Node.js, demonstrated through projects like Wa-Leba+ AI CCTV system, MyFayda eKYC, WZSIT WebApp and MedHub Ethiopia. He has exposure to PostgreSQL and solid experience in database modeling with MySQL and MongoDB, showing his adaptability to expand further into PostgreSQL. He is passionate about automation, actively leverages AI tools such as ChatGPT even building me ( his own AI job marching assistant Saba), and thrives in fast-learning environments. His collaborative, adaptable personality makes him a strong cultural fit for the role at Bole Brass.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Python",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Applied in Wa-Leba+ AI CCTV algorithms, Trivia Game, and ML pipelines."
+      },
+      {
+        "skillName": "Node.js",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Backend APIs built in MedHub Ethiopia, WZSIT WebApp, and Dev-Elex internship."
+      },
+      {
+        "skillName": "PostgreSQL",
+        "myProficiency": 45,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 55,
+        "evidence": "Exposure through academic exercises; more experienced with MongoDB/MySQL."
+      },
+      {
+        "skillName": "Automation",
+        "myProficiency": 55,
+        "jobRequirementLevel": "Preferred",
+        "matchScore": 65,
+        "evidence": "Exposure via CI/CD workflows and scripting; building towards RPA."
+      },
+      {
+        "skillName": "ChatGPT/AI tools",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Preferred",
+        "matchScore": 95,
+        "evidence": "Built and deployed Saba AI portfolio assistant leveraging GPT models."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "wa-leba-ai-surveillance",
+        "relevance": "Used Python for AI algorithms and automation logic.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Developed backend with Node.js and database integration.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "wzsit-webapp",
+        "relevance": "Full-stack MERN system with Node.js backend.",
+        "matchScore": 80
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Gained hands-on backend development and debugging practice with Node.js and APIs.",
+        "matchScore": 80
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Quick learning",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Humor & friendliness",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Holds a BSc in Software Engineering, aligned with backend development role."
+    } 
+  }
+}
 
 
 
