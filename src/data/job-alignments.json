@@ -2215,7 +2215,143 @@
       "evidence": "Holds a BSc in Software Engineering, aligned with backend development role."
     } 
   }
-}
+},
+
+"backend-dev-119": {
+  "meta": {
+    "jobId": "backend-dev-119",
+    "company": "",
+    "role": "Backend Developer",
+    "source": "Job description provided by user",
+    "dateAdded": "2025-10-02",
+    "jobDescription": "Hiring a Mid-Senior Backend Developer with strong expertise in Express.js, FastAPI, and Microservices Architecture. Responsibilities include designing and maintaining scalable backend services and APIs, working with SQL/NoSQL databases, authentication, testing, and basic DevOps. Salary 23,000 ETB. Remote full-time role."
+  },
+  "keyRequirements": [
+    "Strong proficiency in Express.js",
+    "Experience with FastAPI",
+    "Solid understanding of microservices architecture",
+    "Experience with SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB)",
+    "Proficiency with REST APIs",
+    "Experience with authentication and authorization (JWT, OAuth2, RBAC)",
+    "Familiarity with unit testing and e2e testing",
+    "Knowledge of Docker and DevOps basics",
+    "Strong teamwork and problem-solving skills"
+  ],
+  "narrative": "Natinael Samuel is an adaptable backend developer with strong practical experience in Express.js, REST APIs, authentication, and database-driven systems. Through projects like MyFayda eKYC, MedHub Ethiopia and WZSIT WebApp, he built secure backends and API, implemented JWT-based role authentication, and integrated both SQL and NoSQL databases. He is proficient with MongoDB and MySQL and has exposure to PostgreSQL. While he has intermediate exposure to FastAPI, microservices, and Docker, his proven ability to learn quickly and apply backend concepts in production makes him a strong candidate to grow into this mid-level role. His collaborative nature, combined with hands-on project delivery, aligns well with the team-focused environment.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Express.js",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 80,
+        "evidence": "Used in WZSIT WebApp and MedHub Ethiopia for building backend APIs."
+      },
+      {
+        "skillName": "FastAPI",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 50,
+        "evidence": "Exposure through Python backend work, but not production-level."
+      },
+      {
+        "skillName": "Microservices Architecture",
+        "myProficiency": 45,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 55,
+        "evidence": "Exposure in modular service separation during Dev-Elex internship."
+      },
+      {
+        "skillName": "PostgreSQL",
+        "myProficiency": 45,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 55,
+        "evidence": "Used in academic work; stronger in MySQL/MongoDB."
+      },
+      {
+        "skillName": "MySQL",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Used extensively in St. Mary Finance System and MedHub Ethiopia."
+      },
+      {
+        "skillName": "MongoDB",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 85,
+        "evidence": "Database for MedHub Ethiopia and WZSIT WebApp."
+      },
+      {
+        "skillName": "REST APIs",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 90,
+        "evidence": "Built secure and scalable APIs in MedHub Ethiopia and internship projects."
+      },
+      {
+        "skillName": "Authentication & Authorization (JWT, OAuth2, RBAC)",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 80,
+        "evidence": "Implemented JWT-based role management in MedHub Ethiopia."
+      },
+      {
+        "skillName": "Testing Frameworks (Mocha/Jest/Cypress)",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 50,
+        "evidence": "Exposure to unit testing in projects, not advanced."
+      },
+      {
+        "skillName": "Docker",
+        "myProficiency": 50,
+        "jobRequirementLevel": "Proficient",
+        "matchScore": 60,
+        "evidence": "Exposure in Dev-Elex internship setting up and running containers."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "medhub-ethiopia",
+        "relevance": "Backend built with Node.js, authentication, and database integration.",
+        "matchScore": 85
+      },
+      {
+        "projectId": "wzsit-webapp",
+        "relevance": "Full-stack MERN system using Express.js and MongoDB.",
+        "matchScore": 80
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "dev-elex-internship",
+        "relevance": "Worked with backend APIs, debugging, and DevOps practices.",
+        "matchScore": 75
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Problem Solving",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 95
+        },
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 95
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Holds a BSc in Software Engineering aligned with backend systems."
+    }
+  }
+} 
 
 
 
