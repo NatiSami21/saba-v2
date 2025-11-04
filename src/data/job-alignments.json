@@ -2573,6 +2573,110 @@
       "evidence": "Bachelor’s in Software Engineering supports frontend and 3D web development competencies."
     }
   }
+},
+
+"mern-instructor-sage-122": {
+  "meta": {
+    "jobId": "mern-instructor-sage-122",
+    "company": "Sage Training Institute Plc",
+    "role": "Senior MERN Stack Website and Mobile Application Development Instructor",
+    "source": "Job Board",
+    "dateAdded": "2025-10-21",
+    "jobDescription": "Sage Training Institute seeks a highly qualified instructor to teach MERN Full Stack Website Development, focusing on hands-on practical instruction, grading, and student mentorship."
+  },
+  "keyRequirements": [
+    "Expertise in MERN Stack (MongoDB, Express, React, Node.js)",
+    "Ability to teach and mentor students effectively",
+    "Strong organizational and communication skills",
+    "Practical and detail-oriented teaching approach",
+    "Optional COC or teaching methodology certification"
+  ],
+  "narrative": "Natinael Samuel is a full-stack developer with deep expertise in the MERN stack and over two years of hands-on experience building real-world web platforms. Having led projects like Wolayita-ZSIT web app, MedHub Ethiopia and Myfayda ekyc, Natinael has proven his ability to design scalable systems and explain complex concepts clearly to collaborators and interns. His natural communication skills, combined with a passion for mentorship and education, make him a strong fit for Sage Training Institute’s MERN Instructor role. While not formally certified in pedagogy, his project-based learning experience and documentation skills demonstrate teaching readiness.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "MongoDB",
+        "myProficiency": 91,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Implemented database systems in MedHub Ethiopia and WZSIT projects."
+      },
+      {
+        "skillName": "Express.js",
+        "myProficiency": 89,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 90,
+        "evidence": "Developed REST APIs for backend systems including St. Mary Finance System."
+      },
+      {
+        "skillName": "React.js",
+        "myProficiency": 93,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Built responsive user interfaces and dashboards across full-stack apps."
+      },
+      {
+        "skillName": "Node.js",
+        "myProficiency": 92,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 94,
+        "evidence": "Developed scalable backend services in multiple production projects."
+      },
+      {
+        "skillName": "Teaching / Mentorship",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 80,
+        "evidence": "Guided peers and contributed to documentation and onboarding processes."
+      },
+      {
+        "skillName": "Communication Skills",
+        "myProficiency": 90,
+        "jobRequirementLevel": "High",
+        "matchScore": 95,
+        "evidence": "Startup founder experience and client-facing collaboration."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-4",
+        "relevance": "Demonstrates full MERN stack implementation with user and data management.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "project-8",
+        "relevance": "Shows ability to integrate AI and backend logic for applied learning contexts.",
+        "matchScore": 85
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-7",
+        "relevance": "Demonstrated ability to design and explain complex backend pipelines—ideal for instructional contexts.",
+        "matchScore": 88
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Mentorship",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Accountability",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering directly supports full-stack teaching."
+    }
+  }
 }
 
 
