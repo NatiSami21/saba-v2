@@ -2351,7 +2351,132 @@
       "evidence": "Holds a BSc in Software Engineering aligned with backend systems."
     }
   }
-} 
+},
+
+"senior-fullstack-120": {
+  "meta": {
+    "jobId": "senior-fullstack-120",
+    "company": "Robotic Games Inc",
+    "role": "Senior Full-Stack Developer",
+    "source": "Ethiopian Job Board / Remote Listing",
+    "dateAdded": "2025-10-31",
+    "jobDescription": "We’re Robotic Games, Inc., a USA-based tech company focused on building innovative SaaS products and high-performance systems. Looking for experienced full-stack developers proficient in React, Next.js, Node.js, and API/database design, with bonuses for AI integration and Chrome extension experience."
+  },
+  "keyRequirements": [
+    "Strong experience in frontend and backend web development",
+    "Proficiency in React, Next.js, and Node.js",
+    "Experience building and integrating RESTful APIs",
+    "Good understanding of databases (SQL/NoSQL)",
+    "Ability to create scalable and reliable web applications",
+    "Experience with SaaS or automation platforms",
+    "Bonus: Chrome extension development or AI/ML integration"
+  ],
+  "narrative": "Natinael Samuel is an experienced full-stack developer with solid expertise in React, Next.js, and Node.js, gained from professional and startup projects such as MedHub Ethiopia, MyFayda eKYC, and Dev-Elex dashboards. His backend proficiency covers scalable REST API design and database systems like MongoDB, PostgreSQL, and Supabase. Natinael’s RAG-based project work showcases his AI integration ability, while his experience founding Diguwa-Soft and automating workflows with n8n and Friendli AI highlights his SaaS-oriented mindset. Though not yet deeply experienced in Chrome extensions, his advanced web architecture skills allow rapid adaptation to new frameworks. He aligns strongly with Robotic Games’ innovation-driven culture and remote collaboration focus.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "React",
+        "myProficiency": 93,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Developed MedHub Ethiopia frontend and Dev-Elex dashboard with React and TypeScript."
+      },
+      {
+        "skillName": "Next.js",
+        "myProficiency": 88,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 90,
+        "evidence": "Used in multiple full-stack projects at Dev-Elex internship."
+      },
+      {
+        "skillName": "Node.js",
+        "myProficiency": 91,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Backend core for MedHub Ethiopia and MyFayda eKYC integrations."
+      },
+      {
+        "skillName": "API Development",
+        "myProficiency": 95,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Built secure REST APIs integrating MyFayda eKYC and Chapa payment gateway."
+      },
+      {
+        "skillName": "Databases (SQL/NoSQL)",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 90,
+        "evidence": "Experienced with MongoDB, PostgreSQL, and Supabase for production systems."
+      },
+      {
+        "skillName": "AI Integration",
+        "myProficiency": 92,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 92,
+        "evidence": "Integrated RAG and AI pipelines in Academic Assignment Helper project."
+      },
+      {
+        "skillName": "SaaS & Automation",
+        "myProficiency": 94,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 94,
+        "evidence": "Built Wa-Leba+ ML based SaaS and academic automations via n8n and Friendli AI."
+      },
+      {
+        "skillName": "Chrome Extension Development",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Nice-to-have",
+        "matchScore": 40,
+        "evidence": "Limited exposure; adaptable through strong JavaScript ecosystem experience."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-8",
+        "relevance": "Demonstrates advanced RAG-based AI integration and SaaS automation pipeline design.",
+        "matchScore": 94
+      },
+      {
+        "projectId": "project-2",
+        "relevance": "Full-stack MERN-based system (MedHub Ethiopia) showcasing web scalability and API integration.",
+        "matchScore": 92
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-7",
+        "relevance": "AI & RAG Pipeline Engineer role displaying backend automation, FastAPI development, and system scalability.",
+        "matchScore": 90
+      },
+      {
+        "experienceId": "exp-3",
+        "relevance": "Frontend and backend development work at Dev-Elex aligned with React, Next.js, and Node.js requirements.",
+        "matchScore": 88
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Innovation",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s in Software Engineering aligns with full-stack and SaaS development role requirements."
+    }
+  }
+}
 
 
 
