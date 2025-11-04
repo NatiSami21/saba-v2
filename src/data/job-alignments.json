@@ -2476,6 +2476,103 @@
       "evidence": "Bachelor’s in Software Engineering aligns with full-stack and SaaS development role requirements."
     }
   }
+},
+
+"threejs-nextjs-dev-121": {
+  "meta": {
+    "jobId": "threejs-nextjs-dev-121",
+    "company": "",
+    "role": "Three.js & Next.js Developer",
+    "source": "Online Job Board",
+    "dateAdded": "2025-11-02",
+    "jobDescription": "Hiring intermediate to expert-level developers experienced in Three.js and Next.js for building interactive 3D web experiences. Remote position with collaborative learning environment and optional AutoCAD training."
+  },
+  "keyRequirements": [
+    "Proficiency in Three.js and 3D web development",
+    "Strong knowledge of Next.js for scalable frontends",
+    "Experience building interactive visual web experiences",
+    "Good communication and collaboration in a remote setup",
+    "Willingness to learn new tools such as AutoCAD"
+  ],
+  "narrative": "Natinael Samuel is an innovative full-stack and 3D web developer passionate about blending creativity with engineering precision. His personal portfolio demonstrates his self-driven learning in Three.js and interactive design, while his professional background with Next.js, React, and TypeScript showcases production-level development maturity. Natinael thrives in remote environments, having collaborated across distributed teams during his Dev-Elex internship. His readiness to explore tools like AutoCAD complements his existing 3D experience, positioning him well for projects that merge design and technology.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Three.js",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate-Expert",
+        "matchScore": 75,
+        "evidence": "Used in portfolio project to build interactive 3D scenes and animations demonstrating 3D rendering and camera controls."
+      },
+      {
+        "skillName": "Next.js",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 75,
+        "evidence": "Used in MedHub Ethiopia and Dev-Elex internship projects for high-performance web applications."
+      },
+      {
+        "skillName": "React",
+        "myProficiency": 93,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Built multiple component-driven interfaces with React and TypeScript."
+      },
+      {
+        "skillName": "WebGL Concepts",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 75,
+        "evidence": "Applied fundamental WebGL concepts through Three.js scene rendering and animations."
+      },
+      {
+        "skillName": "AutoCAD",
+        "myProficiency": 0,
+        "jobRequirementLevel": "Nice-to-Have",
+        "matchScore": 20,
+        "evidence": "No direct experience but open to training as stated in job post."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "portfolio-3d-website",
+        "relevance": "Showcases Three.js-driven 3D interactions and smooth visual design, aligning with 3D web experience goals.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "project-2",
+        "relevance": "Demonstrates strong Next.js structure and reusable component logic for scalable apps.",
+        "matchScore": 88
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-3",
+        "relevance": "Remote collaboration experience at Dev-Elex using React and Next.js.",
+        "matchScore": 85
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Creativity",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Remote Collaboration",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s in Software Engineering supports frontend and 3D web development competencies."
+    }
+  }
 }
 
 
