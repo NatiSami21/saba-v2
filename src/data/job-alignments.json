@@ -2677,6 +2677,118 @@
       "evidence": "Bachelor’s degree in Software Engineering directly supports full-stack teaching."
     }
   }
+},
+
+"frontend-react-dev-123": {
+  "meta": {
+    "jobId": "frontend-react-dev-1106",
+    "company": "Confidential (Remote Team)",
+    "role": "Frontend React Developer",
+    "source": "Job Board",
+    "dateAdded": "2025-11-06",
+    "jobDescription": "Seeking creative and skilled React Developers to build performant, design-driven interfaces with React, Tailwind, and modern frontend frameworks."
+  },
+  "keyRequirements": [
+    "Deep understanding of React.js fundamentals (hooks, context, architecture)",
+    "Proficiency in JavaScript (ES6+)",
+    "Experience integrating REST APIs",
+    "Proficiency with Tailwind CSS and shadcn/ui or similar frameworks",
+    "Attention to UI/UX, performance, and code quality",
+    "Familiarity with Next.js (routing, SSR, component structure)"
+  ],
+  "narrative": "Natinael Samuel is a frontend focused full-stack developer with exceptional skill in React, Next.js, Tailwind CSS, and JavaScript. Through his work at Dev-Elex and projects like Wolayita-ZSIT web app and MedHub Ethiopia, he’s built complex dashboards, component libraries, and API-driven UIs using React Query and Supabase. Natinael balances aesthetics and performance, demonstrating attention to pixel-perfect detail while maintaining scalable, maintainable code. His projects show not only technical depth but also an understanding of user flow and design consistency—qualities essential for this React Developer role.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "React.js",
+        "myProficiency": 93,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Developed dashboards and responsive interfaces for MedHub Ethiopia using React hooks and context."
+      },
+      {
+        "skillName": "Next.js",
+        "myProficiency": 60,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 60,
+        "evidence": "Built production UIs with SSR and API routes during Dev-Elex internship."
+      },
+      {
+        "skillName": "Tailwind CSS",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 75,
+        "evidence": "Implemented modern UI designs and responsive layouts in multiple web apps."
+      },
+      {
+        "skillName": "Shadcn/UI",
+        "myProficiency": 55,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 50,
+        "evidence": "Used in component design and dashboard UI customization in Next.js projects."
+      },
+      {
+        "skillName": "JavaScript (ES6+)",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 80,
+        "evidence": "Used across all frontend and backend systems for logic and state management."
+      },
+      {
+        "skillName": "REST API Integration",
+        "myProficiency": 91,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 93,
+        "evidence": "Integrated APIs with React Query and Axios in multiple real-world projects."
+      },
+      {
+        "skillName": "UI/UX Design Principles",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 70,
+        "evidence": "Applied responsive layout, accessibility, and visual hierarchy best practices."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-1",
+        "relevance": "Showcases responsive frontend design and dynamic data integration using React and Tailwind.",
+        "matchScore": 92
+      },
+      {
+        "projectId": "project-6",
+        "relevance": "Demonstrates component reusability and frontend performance optimization with Next.js.",
+        "matchScore": 90
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-2",
+        "relevance": "Hands-on experience as a Frontend Engineer using Next.js, React, Shadcn UI, and Supabase.",
+        "matchScore": 92
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Design Sensibility",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Collaboration",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering with frontend specialization and project-based applications."
+    }
+  }
 }
 
 
