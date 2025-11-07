@@ -2789,6 +2789,133 @@
       "evidence": "Bachelor’s degree in Software Engineering with frontend specialization and project-based applications."
     }
   }
+},
+
+"ai-research-intern-124": {
+  "meta": {
+    "jobId": "ai-research-intern-124",
+    "company": "Confidential Research Lab",
+    "role": "AI Research Intern",
+    "source": "Job Board",
+    "dateAdded": "2025-11-06",
+    "jobDescription": "Assist in AI and machine learning research, data collection, model development, and documentation for research initiatives."
+  },
+  "keyRequirements": [
+    "Conduct AI and ML background research and summarize findings",
+    "Assist in data preprocessing, model development, and evaluation",
+    "Support AI prototype testing and documentation",
+    "Collaborate with researchers and contribute to ongoing experiments"
+  ],
+  "narrative": "Natinael Samuel is a Software Engineer and AI enthusiast with a strong background in applying artificial intelligence to real-world problems. He has built machine learning systems using TensorFlow and PyTorch—such as a disease-based practitioner recommendation system in MedHub Ethiopia and real-time object detection in the Wa-Leba+ AI CCTV surveillance platform. He also developed a RAG-powered Academic Assignment Helper that integrates AI with workflow automation through FastAPI and n8n. Beyond professional projects, Natinael experiments with AI tools like his own Saba AI assistant, showcasing curiosity and research-driven learning. His combination of technical skill, creativity, and discipline makes him an excellent fit for an AI Research Intern role.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Python",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 85,
+        "evidence": "Used for backend and AI pipeline development in multiple projects including MedHub Ethiopia and Academic Assignment Helper."
+      },
+      {
+        "skillName": "TensorFlow",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 80,
+        "evidence": "Used in MedHub Ethiopia to build disease-prediction logic for suggesting medical practitioners."
+      },
+      {
+        "skillName": "PyTorch",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 75,
+        "evidence": "Applied in object detection models for the Wa-Leba+ AI Surveillance System."
+      },
+      {
+        "skillName": "Machine Learning",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 90,
+        "evidence": "Designed predictive algorithms in MedHub and Wa-Leba+, integrating model inference into production systems."
+      },
+      {
+        "skillName": "AI Pipeline Design",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 80,
+        "evidence": "Developed end-to-end RAG pipeline with FastAPI, LangChain, and vector databases for AI-based academic evaluation."
+      },
+      {
+        "skillName": "Data Analysis",
+        "myProficiency": 60,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 65,
+        "evidence": "Handled data preprocessing, embedding, and similarity analysis using FAISS and SentenceTransformers."
+      },
+      {
+        "skillName": "n8n Automation",
+        "myProficiency": 87,
+        "jobRequirementLevel": "Basic",
+        "matchScore": 90,
+        "evidence": "Automated workflow triggers and AI feedback loops in Academic Assignment Helper."
+      },
+      {
+        "skillName": "Critical Thinking / Research Writing",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 85,
+        "evidence": "Produced project documentation summarizing AI pipeline design and evaluation."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-8",
+        "relevance": "Demonstrates end-to-end AI pipeline creation using FastAPI, LangChain, and RAG with automation.",
+        "matchScore": 95
+      },
+      {
+        "projectId": "project-5",
+        "relevance": "Showcases real-world machine learning with TensorFlow for healthcare recommendations.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "project-3",
+        "relevance": "Illustrates use of PyTorch and AI algorithms in real-time video analysis and surveillance.",
+        "matchScore": 88
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-7",
+        "relevance": "Hands-on RAG pipeline and AI integration research under Dev-Elex collaboration.",
+        "matchScore": 95
+      },
+      {
+        "experienceId": "exp-4",
+        "relevance": "Applied AI in embedded and surveillance systems through deep learning models.",
+        "matchScore": 88
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Curiosity & Research Mindset",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Collaboration & Learning",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "Bachelor’s degree in Software Engineering with specialized AI and research project experience."
+    }
+  }
 }
 
 
