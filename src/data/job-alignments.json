@@ -2916,7 +2916,59 @@
       "evidence": "Bachelor’s degree in Software Engineering with specialized AI and research project experience."
     }
   }
+},
+
+"se-intern-gize-125": {
+  "meta": {
+    "jobId": "se-intern-gize-125",
+    "company": "GIZE PLC",
+    "role": "Software Engineer Intern",
+    "source": "EthioJobs / company post",
+    "dateAdded": "2025-11-07",
+    "jobDescription": "Software Engineer Intern at GIZE PLC. Remote internship for individuals eager to gain real-world experience in software development, machine learning, and app development. Responsibilities include collaborating on projects, testing, debugging, and learning modern technologies such as React, Django, and AI."
+  },
+  "keyRequirements": [
+    "Proficiency in JavaScript, Python, or Java",
+    "Basic understanding of front-end and back-end development",
+    "Familiarity with React, Angular, or Django frameworks",
+    "Interest in machine learning, AI, or mobile app development",
+    "Strong problem-solving and teamwork skills"
+  ],
+  "narrative": "Natinael is a strong fit for GIZE PLC’s internship role, combining practical experience in full-stack and AI-powered systems. He has developed web and backend systems such as MedHub Ethiopia and St. Mary Finance System, implemented RAG-based AI pipelines in Academic Assignment Helper, and applied machine learning in Wa-Leba+ AI CCTV. His mix of hands-on development, innovation, and eagerness to learn aligns perfectly with GIZE’s focus on building versatile software talent.",
+  "alignment": {
+    "skills": [
+      { "skillName": "JavaScript", "myProficiency": 90, "jobRequirementLevel": "Intermediate", "matchScore": 95, "evidence": "Used extensively in MedHub Ethiopia, St. Mary Finance System, and other web projects." },
+      { "skillName": "Python", "myProficiency": 88, "jobRequirementLevel": "Intermediate", "matchScore": 90, "evidence": "Applied in FastAPI backend for Academic Assignment Helper & AI pipelines." },
+      { "skillName": "Java", "myProficiency": 65, "jobRequirementLevel": "Basic", "matchScore": 70, "evidence": "Used in Android-based projects and academic coursework." },
+      { "skillName": "React", "myProficiency": 88, "jobRequirementLevel": "Intermediate", "matchScore": 92, "evidence": "Developed multiple React-based web apps including MedHub Ethiopia frontend." },
+      { "skillName": "Angular", "myProficiency": 55, "jobRequirementLevel": "Basic", "matchScore": 60, "evidence": "Basic familiarity from coursework and prototype projects." },
+      { "skillName": "Django", "myProficiency": 60, "jobRequirementLevel": "Basic", "matchScore": 60, "evidence": "Explored during Dev-Elex backend research and minor prototypes." },
+      { "skillName": "Machine Learning", "myProficiency": 85, "jobRequirementLevel": "Intermediate", "matchScore": 90, "evidence": "Applied ML models in MedHub Ethiopia and Wa-Leba+ AI Surveillance System." },
+      { "skillName": "Artificial Intelligence", "myProficiency": 90, "jobRequirementLevel": "Intermediate", "matchScore": 92, "evidence": "Implemented AI-powered analysis and automation using RAG and n8n." },
+      { "skillName": "Mobile App Development", "myProficiency": 70, "jobRequirementLevel": "Basic", "matchScore": 75, "evidence": "Built offline bookstore app and Android-based systems using Kotlin/Java." }
+    ],
+    "projectHighlights": [
+      { "projectId": "project-8", "relevance": "Showcases AI and RAG integration with real-world automation and backend design.", "matchScore": 92 },
+      { "projectId": "project-4", "relevance": "Demonstrates applied machine learning for real-time video processing and analytics.", "matchScore": 90 },
+      { "projectId": "project-1", "relevance": "Full-stack web system with solid backend architecture and UI/UX flow.", "matchScore": 88 }
+    ],
+    "experienceHighlights": [
+      { "experienceId": "exp-7", "relevance": "Experience in RAG pipelines and AI workflow automation relevant to GIZE’s AI-focused projects.", "matchScore": 90 },
+      { "experienceId": "exp-2", "relevance": "Frontend and backend collaboration experience from Dev-Elex internship.", "matchScore": 85 }
+    ],
+    "culturalFit": {
+      "aspects": [
+        { "aspect": "Teamwork", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 },
+        { "aspect": "Adaptability", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering with strong foundation in web, backend, and AI systems."
+    }
+  }
 }
+
 
 
 
