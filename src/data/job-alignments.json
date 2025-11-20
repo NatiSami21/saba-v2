@@ -3180,7 +3180,132 @@
       "evidence": "BSc Software Engineering + practical experience"
     }
   }
+},
+
+"fullstack-senior-ai-remote-128": {
+  "meta": {
+    "jobId": "fullstack-senior-ai-remote-128",
+    "company": "",
+    "role": "Senior Full-Stack Developer",
+    "source": "Direct Job Post",
+    "dateAdded": "2025-11-20",
+    "jobDescription": "We’re looking for a Full-Stack Developer to work on AI-powered full-stack applications... (full text omitted for brevity)."
+  },
+  "keyRequirements": [
+    "Strong proficiency in Google Cloud",
+    "AI integration and AI-driven feature development",
+    "Node.js backend development",
+    "React.js / Next.js frontend development",
+    "TypeScript expertise",
+    "Ability to work independently and take ownership",
+    "Experience building full-stack applications",
+    "Long-term commitment (30 hours/week)"
+  ],
+  "narrative": "Natinael Samuel is a full-stack developer and AI engineer who has consistently built real-world, impact-driven systems across healthcare, finance, government operations, and automation. His experience spans Node.js, Python, Next.js, and AI-integrated applications deployed for actual users. Natinael has developed major solutions such as MedHub Ethiopia (a machine-learning–assisted medical triage system), MyFayda eKYC (secure identity verification), St. Mary Finance System (full accounting automation), Wa-Leba+ AI Surveillance (computer-vision-powered monitoring), a Vehicle Management System, and the Academic Assignment Helper (a full RAG pipeline with vector search, plagiarism detection, and AI automation). His portfolio demonstrates strong ownership, clean architecture, and deep understanding of both backend and AI-driven features. This role aligns perfectly with his hands-on AI integration background, full-stack experience, and passion for building purposeful applications that solve real problems for real communities.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Node.js",
+        "myProficiency": 88,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 82,
+        "evidence": "Used extensively in MedHub Ethiopia, MyFayda eKYC integrations, backend APIs, and multiple automation platforms."
+      },
+      {
+        "skillName": "Next.js",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 72,
+        "evidence": "Used in MedHub Ethiopia frontend and personal portfolio with 3D/Three.js integration."
+      },
+      {
+        "skillName": "TypeScript",
+        "myProficiency": 78,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 70,
+        "evidence": "Used across recent full-stack projects including MedHub Ethiopia and portfolio rebuild."
+      },
+      {
+        "skillName": "AI Pipeline Design",
+        "myProficiency": 94,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 90,
+        "evidence": "Designed RAG pipelines, ML features in MedHub Ethiopia, and Wa-Leba AI algorithmic systems."
+      },
+      {
+        "skillName": "FastAPI",
+        "myProficiency": 93,
+        "jobRequirementLevel": "Exposure",
+        "matchScore": 78,
+        "evidence": "Used extensively in Academic Assignment Helper & Plagiarism Detector for AI routing and LLM orchestration."
+      },
+      {
+        "skillName": "Google Cloud",
+        "myProficiency": 40,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 28,
+        "evidence": "Limited exposure; most deployments done on Railway, Vercel, Firebase, and Supabase."
+      },
+      {
+        "skillName": "Python",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 80,
+        "evidence": "Used in FastAPI RAG system, MyFayda pipelines, and Wa-Leba surveillance algorithms."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-4-wa-leba",
+        "relevance": "Demonstrates AI feature integration, backend architecture, and real-time systems.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "project-8",
+        "relevance": "Shows advanced AI integration, RAG systems, vector search, and automation.",
+        "matchScore": 95
+      },
+      {
+        "projectId": "project-3-medhub",
+        "relevance": "Combines ML-based triage + full-stack architecture using Node.js, TypeScript, and MongoDB.",
+        "matchScore": 92
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-7",
+        "relevance": "Strong AI integration, full-stack development, and automation experience.",
+        "matchScore": 90
+      },
+      {
+        "experienceId": "exp-5",
+        "relevance": "Demonstrates backend and frontend product development with real users.",
+        "matchScore": 85
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Ownership",
+          "myStrength": "Very High",
+          "jobRequirement": "Very High",
+          "matchScore": 95
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering + practical AI and full-stack experience from multiple deployed systems."
+    }
+  }
 }
+
 
 
 

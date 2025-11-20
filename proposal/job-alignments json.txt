@@ -147,9 +147,7 @@ What makes Natinael's approach to development unique?
 You can also ask Saba, my AI job-match assistant, how much I align with this role: 
 https://ai-jobmatch.netlify.app/saba/frontend-developer-addis-ababa102
 
-@Afritio_Albert
 
-https://github.com/NatiSami21
 
 Sincerely,
 Natinael Samuel
@@ -159,109 +157,28 @@ BSc, Software Engineering
 
 afritioalberts1216@gmail.com
 
-Portfolio: https://natinael-samuel.netlify.app
-
- GitHub Portfolio: https://natisami21.github.io/portfolio
+Portfolio: https://natinael-samuel.netlify.app 
 
 
- Hi GPT, I’ve updated my knowledge-base.json by adding new entries after the “Academic Assignment Helper & Plagiarism Detector (RAG-Powered)” project. The updates include:
 
-- New **skills** I gained or improved from this project
-"name": "Retrieval-Augmented Generation (RAG)",
-    "category": "Artificial Intelligence",
-    "proficiency": 92,
-    "synonyms": ["contextual retrieval", "AI knowledge grounding", "semantic search", "vector-based reasoning"]
-    },
-    {
-      "name": "LangChain",
-      "category": "AI Frameworks",
-      "proficiency": 88,
-      "synonyms": ["prompt chaining", "LLM pipeline", "RAG orchestration"]
-    },
-    {
-      "name": "Vector Databases",
-      "category": "Database Systems",
-      "proficiency": 85,
-      "synonyms": ["semantic storage", "embedding search", "chroma", "pinecone", "faiss"]
-    },
-    {
-      "name": "Plagiarism Detection",
-      "category": "Natural Language Processing",
-      "proficiency": 90,
-      "synonyms": ["similarity search", "academic integrity", "document comparison"]
-    },
-    {
-      "name": "FastAPI",
-      "category": "Backend Frameworks",
-      "proficiency": 93,
-      "synonyms": ["Python API", "RESTful backend", "async web service"]
-    },
-    {
-      "name": "n8n Automation",
-      "category": "Workflow Automation",
-      "proficiency": 87,
-      "synonyms": ["workflow orchestration", "webhook triggers", "API automation"]
-    },
-    {
-      "name": "Prompt Engineering",
-      "category": "Artificial Intelligence",
-      "proficiency": 90,
-      "synonyms": ["LLM prompting", "context optimization", "structured AI instructions"]
-    },
-    {
-      "name": "AI Pipeline Design",
-      "category": "Artificial Intelligence",
-      "proficiency": 94,
-      "synonyms": ["LLM systems", "data-driven AI design", "automated analysis pipelines"]
-    }
+@Afritio_Albert
 
-- A new **project** 
+https://github.com/NatiSami21
 
-    {
-      "id": "project-8",
-      "title": "Academic Assignment Helper & Plagiarism Detector (RAG-Powered)",
-      "description": "An AI-driven academic assistant that integrates Retrieval-Augmented Generation (RAG) with plagiarism detection and automated assignment submission. The system extracts assignment content, performs semantic similarity search using vector embeddings, evaluates plagiarism, summarizes results via Friendli AI, and automates student notifications through n8n email workflows.",
-      "technologies": [
-        "FastAPI",
-        "Python",
-        "Supabase",
-        "n8n",
-        "Friendli AI",
-        "LangChain",
-        "SentenceTransformers"
-      ],
-      "liveUrl": "https://youtu.be/SkydOp1fgNw?si=rP8x5JgRE0JfFSpW",
-      "githubUrl": "https://github.com/NatiSami21/Dedication/tree/main/academic-assignment-helper",
-      "accomplishments": [
-        "Implemented full RAG-based AI analysis pipeline integrating plagiarism detection and contextual summarization.",
-        "Built a background AI processing module using FastAPI and Friendli AI endpoints with retry and JSON sanitization.",
-        "Designed n8n automation flows for real-time student feedback and instructor notifications with dynamic email HTML.",
-        "Enabled automatic academic source embedding, vector indexing, and context-aware retrieval using FAISS.",
-        "Developed an optional automated submission system that sends plagiarism-free proof and analysis to instructors."
-      ]
-    }
--  **experience** 
 
-    {
-      "id": "exp-7",
-      "role": "AI & RAG Pipeline Engineer",
-      "company": "Academic Research / Dev-Elex Collaboration",
-      "period": "Feb 2025 – Oct 2025",
-      "description": "Designed and developed an intelligent academic analysis platform powered by a Retrieval-Augmented Generation (RAG) pipeline and automated workflow system. Integrated FastAPI, Friendli AI, and n8n to streamline assignment evaluation, plagiarism detection, and AI summarization.",
-      "skillsUsed": [
-        "FastAPI",
-        "LangChain",
-        "Python",
-        "n8n",
-        "Vector Databases",
-        "Prompt Engineering",
-        "Supabase",
-        "LLM API Integration"
-      ],
-      "accomplishments": [
-        "Built a robust plagiarism detection engine using SentenceTransformers and FAISS-based similarity search.",
-        "Integrated Friendli AI for structured academic summarization with real-time feedback.",
-        "Automated assignment workflow from upload to analysis completion and student/instructor notifications.",
-        "Enhanced pipeline reliability with background retry, error handling, and n8n webhooks."
-      ]
-    }
+
+I’ve built several real world systems for local organizations using Node.js, Express, FastAPI, Python, MongoDB, PostgreSQL, and REST API architectures. My recent projects include Wolaita-ZSIT WebApp, MedHub Ethiopia, MyFayda eKYC integration, St. Mary Finance System, and a RAG powered Academic Assistant built with FastAPI, vectorDB and automated using n8n. From projects I have experience in API development, authentication (JWT), database design, debugging, and performance optimization, also exposure to AWS, mainly I use via Cloudflare and Railway.
+
+You can also ask Saba, my AI job-match assistant, how much I align with this role:                    
+https://ai-jobmatch.netlify.app/saba/backend-dev-127                 
+
+
+Sincerely,
+Natinael Samuel
+BSc, Software Engineering
+
++251 904 161 978
+
+afritioalberts1216@gmail.com
+
+Portfolio: https://natinael-samuel.netlify.app 
