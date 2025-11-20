@@ -2967,7 +2967,221 @@
       "evidence": "BSc in Software Engineering with strong foundation in web, backend, and AI systems."
     }
   }
+},
+
+"fullstack-360ground-126": {
+  "meta": {
+    "jobId": "fullstack-360ground-126",
+    "company": "360Ground",
+    "role": "Junior Full Stack Developer",
+    "source": "360Ground.com careers page",
+    "dateAdded": "2025-11-07",
+    "jobDescription": "Junior Full Stack Developer for building scalable web and mobile applications for enterprise and government clients. Role emphasizes real-world project experience, collaboration with senior engineers, and exposure to front-end and back-end development."
+  },
+  "keyRequirements": [
+    "Hands-on experience with live deployed systems",
+    "Proficiency in HTML, CSS, and JavaScript",
+    "Experience with React or Angular frameworks",
+    "Basic server-side programming experience (Python/Django preferred)",
+    "Familiarity with RESTful APIs and Git",
+    "Understanding of SQL and NoSQL databases",
+    "Interest in DevOps and modern deployment tools"
+  ],
+  "narrative": "Natinael is a perfect fit for 360Ground’s Junior Full Stack Developer role, combining academic excellence with practical software delivery experience. As the founder of Diguwa Soft and developer of MedHub Ethiopia, he has deployed real-world applications using React, Node.js, and FastAPI integrated with databases like MongoDB and Supabase. His additional projects — including Wa-Leba+ AI Surveillance and the Academic Assignment Helper RAG-based system — showcase a unique mix of full-stack and AI-driven development. Beyond technical proficiency, Natinael’s passion for solving societal problems through software aligns closely with 360Ground’s mission to build meaningful technology for enterprises and government.",
+  "alignment": {
+    "skills": [
+      { "skillName": "JavaScript", "myProficiency": 90, "jobRequirementLevel": "Intermediate", "matchScore": 95, "evidence": "Used in MedHub Ethiopia and St. Mary Finance System for frontend and backend logic." },
+      { "skillName": "HTML/CSS", "myProficiency": 85, "jobRequirementLevel": "Intermediate", "matchScore": 90, "evidence": "Applied in multiple web applications with responsive design principles." },
+      { "skillName": "React", "myProficiency": 88, "jobRequirementLevel": "Intermediate", "matchScore": 95, "evidence": "Used extensively for frontend development in MedHub Ethiopia and other live systems." },
+      { "skillName": "Python", "myProficiency": 88, "jobRequirementLevel": "Intermediate", "matchScore": 90, "evidence": "Used in backend services for Academic Assignment Helper and RAG AI pipeline." },
+      { "skillName": "Django", "myProficiency": 40, "jobRequirementLevel": "Basic", "matchScore": 50, "evidence": "Familiar from academic and collaborative backend prototypes." },
+      { "skillName": "Node.js", "myProficiency": 90, "jobRequirementLevel": "Intermediate", "matchScore": 92, "evidence": "Applied in MedHub Ethiopia backend, building RESTful APIs and integrations." },
+      { "skillName": "RESTful APIs", "myProficiency": 92, "jobRequirementLevel": "Intermediate", "matchScore": 95, "evidence": "Built and integrated APIs across several systems including Fayda eKYC and Chapa test mode." },
+      { "skillName": "SQL", "myProficiency": 80, "jobRequirementLevel": "Intermediate", "matchScore": 88, "evidence": "Used in St. Mary Finance System and academic database models." },
+      { "skillName": "MongoDB", "myProficiency": 85, "jobRequirementLevel": "Intermediate", "matchScore": 90, "evidence": "Applied for dynamic data storage in MedHub Ethiopia and API-based apps." },
+      { "skillName": "PostgreSQL", "myProficiency": 75, "jobRequirementLevel": "Intermediate", "matchScore": 80, "evidence": "Familiarity through backend prototypes and schema design." },
+      { "skillName": "Firebase", "myProficiency": 45, "jobRequirementLevel": "Basic", "matchScore": 50, "evidence": "Used for prototyping small authentication and data sync modules." },
+      { "skillName": "Docker", "myProficiency": 70, "jobRequirementLevel": "Basic", "matchScore": 75, "evidence": "Familiar with container-based deployment from Dev-Elex internship." },
+      { "skillName": "Git", "myProficiency": 90, "jobRequirementLevel": "Intermediate", "matchScore": 95, "evidence": "Used for collaborative workflows and version control across projects." }
+    ],
+    "projectHighlights": [
+      { "projectId": "project-1", "relevance": "Full-stack healthcare web system using React, Node.js, and MongoDB with API integrations.", "matchScore": 95 },
+      { "projectId": "project-2", "relevance": "Financial ERP-like system demonstrating backend architecture and automation.", "matchScore": 92 },
+      { "projectId": "project-8", "relevance": "Showcases AI workflow integration with FastAPI and automation tools, aligning with backend and API work.", "matchScore": 90 }
+    ],
+    "experienceHighlights": [
+      { "experienceId": "exp-7", "relevance": "RAG pipeline development and full-stack AI integration experience relevant to backend innovation.", "matchScore": 90 },
+      { "experienceId": "exp-2", "relevance": "Practical frontend-backend collaboration through Dev-Elex internship and project delivery.", "matchScore": 88 }
+    ],
+    "culturalFit": {
+      "aspects": [
+        { "aspect": "Curiosity", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 },
+        { "aspect": "Problem-Solving", "myStrength": "High", "jobRequirement": "High", "matchScore": 100 }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering with multiple live-deployed systems and interdisciplinary learning through AI and marketing."
+    }
+  }
+},
+
+"backend-dev-127": {
+  "meta": {
+    "jobId": "backend-dev-127",
+    "company": "",
+    "role": "Backend Developer",
+    "source": "Local Job Board",
+    "dateAdded": "2025-11-18",
+    "jobDescription": "Backend development (Node.js/Python/PHP/Java), databases, APIs, authentication, cloud, CI/CD."
+  },
+  "keyRequirements": [
+    "Node.js or Express.js experience",
+    "Python (Django/Flask/FastAPI)",
+    "PHP (Laravel)",
+    "Java / Spring Boot",
+    "MySQL, PostgreSQL, MongoDB",
+    "REST API design",
+    "JWT authentication",
+    "Cloud experience (AWS preferred)",
+    "CI/CD pipelines",
+    "Debugging and performance optimization"
+  ],
+  "narrative": "Natinael is a strong fit for this backend role due to his real-world experience developing robust API-driven systems. His hands-on work with FastAPI, Node.js, Express, vector-based AI pipelines, and multiple database systems directly aligns with the backend duties. He has built scalable systems like MedHub Ethiopia, MyFayda eKYC integration, St. Mary Finance platform, and a RAG-powered academic assistant using FastAPI. His background includes authentication flows, microservices-style modular design, API integration, and cloud/container deployment via Railway, Supabase, and GitHub Actions. While not advanced in Laravel or Spring Boot, he has enough backend fundamentals and adaptability to learn quickly. Overall, he matches strongly with the role’s real backend responsibilities.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Node.js",
+        "myProficiency": 89,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 90,
+        "evidence": "Used in MedHub Ethiopia, St. Mary Finance System, MyFayda integration"
+      },
+      {
+        "skillName": "Express.js",
+        "myProficiency": 84,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 88,
+        "evidence": "Backend APIs in multiple production-level student and freelance solutions"
+      },
+      {
+        "skillName": "FastAPI",
+        "myProficiency": 93,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 95,
+        "evidence": "Built Academic Assignment Helper RAG system with full AI pipeline"
+      },
+      {
+        "skillName": "Python",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 92,
+        "evidence": "Used in AI pipelines, FastAPI backend, ML prototypes"
+      },
+      {
+        "skillName": "PHP",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 75,
+        "evidence": "Basic PHP exposure from earlier projects"
+      },
+      {
+        "skillName": "Java",
+        "myProficiency": 50,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 40,
+        "evidence": "Used in Android/Kotlin-related coursework and early academic projects"
+      },
+      {
+        "skillName": "MongoDB",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 80,
+        "evidence": "Used in MedHub Ethiopia, finance systems, MERN applications"
+      },
+      {
+        "skillName": "PostgreSQL",
+        "myProficiency": 70,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 70,
+        "evidence": "Used with Supabase and multiple real projects"
+      },
+      {
+        "skillName": "REST APIs",
+        "myProficiency": 95,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 100,
+        "evidence": "Core to all major systems—MyFayda, MedHub, RAG assistant"
+      },
+      {
+        "skillName": "JWT Authentication",
+        "myProficiency": 88,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 90,
+        "evidence": "Used in multiple auth flows, including MyFayda callback verification"
+      },
+      {
+        "skillName": "AWS (exposure)",
+        "myProficiency": 35,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 30,
+        "evidence": "Primarily used Supabase/Railway but familiar with cloud workflows"
+      },
+      {
+        "skillName": "CI/CD",
+        "myProficiency": 60,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 50,
+        "evidence": "GitHub Actions, n8n pipelines, deployment automation"
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-8",
+        "relevance": "Demonstrates strong Python, FastAPI, vector DB, and pipeline design",
+        "matchScore": 95
+      },
+      {
+        "projectId": "project-4-medhub",
+        "relevance": "Full-stack + backend + API work with MongoDB and Node.js",
+        "matchScore": 92
+      },
+      {
+        "projectId": "project-1-stmary-finance",
+        "relevance": "Backend-heavy system handling finance logic and automation",
+        "matchScore": 90
+      }
+    ],
+    "experienceHighlights": [
+      {
+        "experienceId": "exp-7",
+        "relevance": "Demonstrates backend engineering and AI pipeline expertise",
+        "matchScore": 92
+      }
+    ],
+    "culturalFit": {
+      "aspects": [
+        {
+          "aspect": "Teamwork",
+          "myStrength": "High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        },
+        {
+          "aspect": "Learning Speed",
+          "myStrength": "Very High",
+          "jobRequirement": "High",
+          "matchScore": 100
+        }
+      ]
+    },
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc Software Engineering + practical experience"
+    }
+  }
 }
+
 
 
 
