@@ -169,8 +169,26 @@ https://github.com/NatiSami21
 
 I’ve built several real world systems for local organizations using Node.js, Express, FastAPI, Python, MongoDB, PostgreSQL, and REST API architectures. My recent projects include Wolaita-ZSIT WebApp, MedHub Ethiopia, MyFayda eKYC integration, St. Mary Finance System, and a RAG powered Academic Assistant built with FastAPI, vectorDB and automated using n8n. From projects I have experience in API development, authentication (JWT), database design, debugging, and performance optimization, also exposure to AWS, mainly I use via Cloudflare and Railway.
 
+
+I’m a dedicated full-stack and AI developer, I’ve built several real world systems for local organizations
+
+MedHub Ethiopia – a medical platform with ML based triage, built using Node.js, Next.js, TypeScript, and MongoDB.
+
+MyFayda eKYC – a secure ID verification platform with AI-assisted data validation and real-world API integration.
+
+St. Mary Finance System – full finance automation with PHP, MySQL, and organization-level workflows.
+
+Wa-Leba+ AI CCTV System – computer-vision surveillance with custom Python algorithms.
+
+Vehicle Management & Fuel Tracking System – enterprise fleet monitoring for government offices.
+
+Academic Assignment Helper (RAG-based) – a full AI pipeline using FastAPI, LangChain, vector search, and n8n automation.
+
+All live URLs are temporarily down due to financial constraints, but I can bring any of them online immediately if needed.
+
+
 You can also ask Saba, my AI job-match assistant, how much I align with this role:                    
-https://ai-jobmatch.netlify.app/saba/backend-dev-127                 
+https://ai-jobmatch.netlify.app/saba/fullstack-senior-ai-remote-128                  
 
 
 Sincerely,

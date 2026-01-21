@@ -1,490 +1,338 @@
 {
-  "bio": {
-    "fullName": "Natinael Samuel",
-    "title": "Full-Stack Developer & AI Enthusiast",
-    "summary": "Natinael is a versatile full-stack developer with 4+ years of experience building scalable web applications and AI-powered solutions. He specializes in the MERN stack and has successfully led multiple projects from concept to deployment. His unique blend of technical expertise, entrepreneurial mindset, and business acumen allows him to create solutions that address real-world problems effectively.",
-    "contact": {
-      "email": "your-email@example.com",
-      "linkedin": "https://linkedin.com/in/yourprofile",
-      "github": "https://github.com/yourusername",
-      "portfolio": "https://yourportfolio.com"
+  "meta": {
+    "owner": "Natinael Samuel",
+    "last_updated": "2024-05-20",
+    "application_protocol": {
+      "step_1": "Extract & Normalize Job Requirements (No assumptions).",
+      "step_2": "Honest Fit Evaluation (Match vs Adaptable vs No Match).",
+      "step_3": "Generate structured job-alignment.json block.",
+      "step_4": "Write a short, calm, human-sounding cover letter referencing specific projects."
     },
-    "education": {
-      "degree": "BSc in Software Engineering",
-      "institution": "Wachemo University",
-      "period": "2020 - 2024"
-    }
+    "note_for_ai": "When generating cover letters, mention that some project links are hosted on free/limited tiers (like Railway/Netlify) and may have cold-start delays or temporary downtime."
   },
-  "skills": [
-    {
-      "name": "React",
-      "category": "Frontend",
-      "proficiency": 95,
-      "synonyms": ["ReactJS", "React.js", "Frontend Framework", "UI Library"]
+  
+  "identity": {
+    "full_name": "Natinael Samuel",
+    "professional_titles": [
+      "Full-Stack Developer",
+      "AI & RAG Pipeline Engineer",
+      "Software Entrepreneur"
+    ],
+    "tagline": "Turning complex problems into efficient WebApps, Distributed Systems, and AI solutions.",
+    "summary": "Full-stack developer with 4+ years of experience specializing in the MERN stack and AI-powered solutions. Unique background combining a BSc in Software Engineering with an ongoing Marketing Management degree, bridging the gap between technical architecture and business value. Proven track record in launching community-focused startups and delivering national-scale digital identity and healthcare systems.",
+    "contact": {
+      "email": "afritioalberts1216@gmail.com",
+      "github": "https://github.com/NatiSami21",
+      "portfolio": "https://natinael-samuel.netlify.app/",
+      "location": "Ethiopia"
     },
-    {
-      "name": "TypeScript",
-      "category": "Frontend",
-      "proficiency": 85,
-      "synonyms": ["TS", "Typed JavaScript"]
-    },
-    {
-      "name": "JavaScript",
-      "category": "Frontend",
-      "proficiency": 90,
-      "synonyms": ["JS", "ES6", "ES2015"]
-    },
-    {
-      "name": "Node.js",
-      "category": "Backend",
-      "proficiency": 85,
-      "synonyms": ["Node", "Server-side JavaScript"]
-    },
-    {
-      "name": "Express.js",
-      "category": "Backend",
-      "proficiency": 80,
-      "synonyms": ["Express", "Web Framework"]
-    },
-    {
-      "name": "MongoDB",
-      "category": "Database",
-      "proficiency": 80,
-      "synonyms": ["NoSQL", "Document Database"]
-    },
-    {
-      "name": "SQL",
-      "category": "Database",
-      "proficiency": 75,
-      "synonyms": ["MySQL", "Relational Database"]
-    },
-    {
-      "name": "Python",
-      "category": "Backend",
-      "proficiency": 80,
-      "synonyms": ["Py", "Data Science", "AI Programming"]
-    },
-    {
-      "name": "PHP",
-      "category": "Backend",
-      "proficiency": 75,
-      "synonyms": ["Web Development"]
-    },
-    {
-      "name": "Java",
-      "category": "Backend",
-      "proficiency": 70,
-      "synonyms": ["Android Development"]
-    },
-    {
-      "name": "HTML5",
-      "category": "Frontend",
-      "proficiency": 95,
-      "synonyms": ["HTML", "Markup"]
-    },
-    {
-      "name": "CSS3",
-      "category": "Frontend",
-      "proficiency": 90,
-      "synonyms": ["Styling", "Tailwind CSS", "Responsive Design"]
-    },
-    {
-      "name": "Tailwind CSS",
-      "category": "Frontend",
-      "proficiency": 85,
-      "synonyms": ["CSS Framework", "Utility-first CSS"]
-    },
-    {
-      "name": "Redux",
-      "category": "Frontend",
-      "proficiency": 80,
-      "synonyms": ["State Management"]
-    },
-    {
-      "name": "Three.js",
-      "category": "Frontend",
-      "proficiency": 70,
-      "synonyms": ["3D Graphics", "WebGL"]
-    },
-    {
-      "name": "Git",
-      "category": "Tools",
-      "proficiency": 85,
-      "synonyms": ["Version Control"]
-    },
-    {
-      "name": "Docker",
-      "category": "DevOps",
-      "proficiency": 70,
-      "synonyms": ["Containerization"]
-    },
-    {
-      "name": "TensorFlow",
-      "category": "AI/ML",
-      "proficiency": 70,
-      "synonyms": ["Machine Learning", "Deep Learning"]
-    },
-    {
-      "name": "PyTorch",
-      "category": "AI/ML",
-      "proficiency": 65,
-      "synonyms": ["Machine Learning Framework"]
-    },
-    {
-      "name": "Computer Vision",
-      "category": "AI/ML",
-      "proficiency": 75,
-      "synonyms": ["CV", "Image Processing"]
-    },
-    {
-      "name": "RESTful APIs",
-      "category": "Backend",
-      "proficiency": 85,
-      "synonyms": ["API Development", "Web Services"]
-    },
-    {
-      "name": "WebRTC",
-      "category": "Frontend",
-      "proficiency": 75,
-      "synonyms": ["Real-time Communication", "Video Chat"]
-    },
-    {
-      "name": "WebSockets",
-      "category": "Backend",
-      "proficiency": 70,
-      "synonyms": ["Real-time Data", "Socket.io"]
-    },
-    {
-      "name": "JWT",
-      "category": "Backend",
-      "proficiency": 80,
-      "synonyms": ["Authentication", "JSON Web Tokens"]
-    },
-    {
-      "name": "OAuth",
-      "category": "Backend",
-      "proficiency": 75,
-      "synonyms": ["Authorization", "Social Login"]
-    },
-    {
-      "name": "Agile Methodology",
-      "category": "Project Management",
-      "proficiency": 80,
-      "synonyms": ["Scrum", "Iterative Development"]
-    },
-    {
-      "name": "Requirements Engineering",
-      "category": "Project Management",
-      "proficiency": 85,
-      "synonyms": ["SRS", "Stakeholder Engagement"]
-    },
-    {
-      "name": "System Design",
-      "category": "Architecture",
-      "proficiency": 75,
-      "synonyms": ["Software Architecture", "Scalability"]
-    },
-    {
-      "name": "UI/UX Design",
-      "category": "Frontend",
-      "proficiency": 75,
-      "synonyms": ["User Experience", "User Interface"]
-    },
-    {
-      "name": "Entrepreneurship",
-      "category": "Business",
-      "proficiency": 80,
-      "synonyms": ["Startup", "Business Development"]
-    },
-    {
-    "name": "Retrieval-Augmented Generation (RAG)",
-    "category": "Artificial Intelligence",
-    "proficiency": 92,
-    "synonyms": ["contextual retrieval", "AI knowledge grounding", "semantic search", "vector-based reasoning"]
-    },
-    {
-      "name": "LangChain",
-      "category": "AI Frameworks",
-      "proficiency": 88,
-      "synonyms": ["prompt chaining", "LLM pipeline", "RAG orchestration"]
-    },
-    {
-      "name": "Vector Databases",
-      "category": "Database Systems",
-      "proficiency": 85,
-      "synonyms": ["semantic storage", "embedding search", "chroma", "pinecone", "faiss"]
-    },
-    {
-      "name": "Plagiarism Detection",
-      "category": "Natural Language Processing",
-      "proficiency": 90,
-      "synonyms": ["similarity search", "academic integrity", "document comparison"]
-    },
-    {
-      "name": "FastAPI",
-      "category": "Backend Frameworks",
-      "proficiency": 93,
-      "synonyms": ["Python API", "RESTful backend", "async web service"]
-    },
-    {
-      "name": "n8n Automation",
-      "category": "Workflow Automation",
-      "proficiency": 87,
-      "synonyms": ["workflow orchestration", "webhook triggers", "API automation"]
-    },
-    {
-      "name": "Prompt Engineering",
-      "category": "Artificial Intelligence",
-      "proficiency": 90,
-      "synonyms": ["LLM prompting", "context optimization", "structured AI instructions"]
-    },
-    {
-      "name": "AI Pipeline Design",
-      "category": "Artificial Intelligence",
-      "proficiency": 94,
-      "synonyms": ["LLM systems", "data-driven AI design", "automated analysis pipelines"]
-    }
-  ],
-  "projects": [
-    {
-      "id": "project-1",
-      "title": "MyFayda eKYC",
-      "description": "MyFayda eKYC is a digital identity solution that integrates with the Fayda National ID system, empowering users to verify their identities securely. It aims to enhance trust in digital services and support the growth of a digital economy in Ethiopia.",
-      "technologies": ["MERN Stack", "Tailwind CSS", "OAuth", "RESTful APIs"],
-      "liveUrl": "https://myfayda.org",
-      "githubUrl": "",
-      "accomplishments": [
-        "Integrated with national ID system for secure identity verification",
-        "Built scalable authentication system serving thousands of users",
-        "Implemented responsive UI with Tailwind CSS"
-      ],
-      "synonyms": ["eKYC", "Digital Identity", "Authentication System", "National ID Integration"]
-    },
-    {
-      "id": "project-2",
-      "title": "MedHub Ethiopia",
-      "description": "MedHub Ethiopia is the first Electronic Medical Record (EMR) system in Ethiopia, designed to streamline patient management for healthcare providers. It integrates with the national ID system, enhancing the efficiency and reliability of healthcare services.",
-      "technologies": ["MERN Stack", "WebRTC", "Tailwind CSS", "MongoDB"],
-      "liveUrl": "https://medhub-ethiopia.up.railway.app",
-      "githubUrl": "",
-      "accomplishments": [
-        "Developed Ethiopia's first EMR system with national ID integration",
-        "Implemented secure patient data management compliant with healthcare regulations",
-        "Built telemedicine capabilities using WebRTC"
-      ],
-      "synonyms": ["EMR", "Electronic Medical Records", "Healthcare System", "Patient Management"]
-    },
-    {
-      "id": "project-3",
-      "title": "Wolayita Zone Science and Information Technology Web-App",
-      "description": "A comprehensive digital platform built to facilitate access to tech support and maintenance for users across regions. By integrating online appointments, real-time video consultations, and technical resources, the app provides on-demand assistance.",
-      "technologies": ["MERN Stack", "WebRTC", "Tailwind CSS", "Express.js"],
-      "liveUrl": "https://wolaita-sit.up.railway.app",
-      "githubUrl": "",
-      "accomplishments": [
-        "Integrated real-time video consultations using WebRTC",
-        "Designed intuitive user interface for technical support services",
-        "Built appointment scheduling system with calendar integration"
-      ],
-      "synonyms": ["Tech Support Platform", "Video Consultation", "Appointment System"]
-    },
-    {
-      "id": "project-4",
-      "title": "St. Mary Finance Management System",
-      "description": "A cloud-based finance management platform for parish operations. This system automates accounting processes, enhances audit efficiency with real-time data, and provides transparency for financial decision-making.",
-      "technologies": ["PHP", "SQL", "JavaScript", "CSS", "Chart.js"],
-      "liveUrl": "https://st-marry-finance-system.great-site.net",
-      "githubUrl": "",
-      "accomplishments": [
-        "Automated financial reporting reducing manual work by 80%",
-        "Implemented data visualization with Chart.js for financial analytics",
-        "Designed secure multi-user access controls for financial data"
-      ],
-      "synonyms": ["Finance System", "Accounting Software", "Financial Management"]
-    },
-    {
-      "id": "project-5",
-      "title": "Wa-Leba & Wa-Leba+",
-      "description": "An AI-driven SaaS platform for business surveillance. Integrating IP cameras with AI, it provides features like intruder detection, trespassing alerts, and customer counting for traffic insights.",
-      "technologies": ["Python", "Node.js", "React.js", "TensorFlow", "Docker", "Computer Vision"],
-      "liveUrl": "",
-      "githubUrl": "",
-      "accomplishments": [
-        "Developed AI-powered intruder detection system with 95% accuracy",
-        "Built scalable video processing pipeline handling multiple camera feeds",
-        "Implemented real-time alert system with mobile notifications"
-      ],
-      "synonyms": ["AI Surveillance", "Security System", "Computer Vision", "SaaS Platform"]
-    },
-    {
-      "id": "project-6",
-      "title": "Bible Trivia Game",
-      "description": "A Bible trivia desktop game designed for Sunday school library users. Built to engage students in an educational setting, it offers an interactive experience with a structured question and answer format.",
-      "technologies": ["Python", "PyQt5", "JSON"],
-      "liveUrl": "",
-      "githubUrl": "https://drive.google.com/file/d/1YisrB_JshbSS2R2PXCVDmIZnjU7jn16_/view?usp=sharing",
-      "accomplishments": [
-        "Created engaging educational game with 500+ questions",
-        "Designed intuitive UI for children using PyQt5",
-        "Implemented scoring system to track player progress"
-      ],
-      "synonyms": ["Educational Game", "PyQt Application", "Trivia Game"]
-    },
-    {
-      "id": "project-7",
-      "title": "Offline Book Store App",
-      "description": "A mobile app designed for software engineering students. This offline resource compiles essential textbooks, practice tests, and study materials in a single accessible interface.",
-      "technologies": ["Java", "Kotlin", "Android SDK"],
-      "liveUrl": "",
-      "githubUrl": "https://drive.google.com/file/d/16J_LNM1ko-UKzlqQFYln2vV1IKH04W5r/view?usp=sharing",
-      "accomplishments": [
-        "Developed offline-first mobile application for educational resources",
-        "Curated collection of 100+ software engineering resources",
-        "Implemented efficient local storage for large files"
-      ],
-      "synonyms": ["Mobile App", "Android Development", "Educational Resources"]
-    },
-    {
-      "id": "project-8",
-      "title": "Vehicle Management System",
-      "description": "A segment of Fleet Management System prototype with vehicle tracking, maintenance scheduling, and driver management capabilities.",
-      "technologies": ["React.js", "Node.js", "Express.js", "MongoDB", "JWT"],
-      "liveUrl": "https://vm.up.railway.app/",
-      "githubUrl": "",
-      "accomplishments": [
-        "Built real-time vehicle tracking system",
-        "Implemented maintenance scheduling with automated notifications",
-        "Designed secure authentication system with JWT"
-      ],
-      "synonyms": ["Fleet Management", "Vehicle Tracking", "Logistics System"]
-    },
-    {
-      "id": "project-8",
-      "title": "Academic Assignment Helper & Plagiarism Detector (RAG-Powered)",
-      "description": "An AI-driven academic assistant that integrates Retrieval-Augmented Generation (RAG) with plagiarism detection and automated assignment submission. The system extracts assignment content, performs semantic similarity search using vector embeddings, evaluates plagiarism, summarizes results via Friendli AI, and automates student notifications through n8n email workflows.",
-      "technologies": [
-        "FastAPI",
-        "Python",
-        "Supabase",
-        "n8n",
-        "Friendli AI",
-        "LangChain",
-        "SentenceTransformers"
-      ],
-      "liveUrl": "https://youtu.be/SkydOp1fgNw?si=rP8x5JgRE0JfFSpW",
-      "githubUrl": "https://github.com/NatiSami21/Dedication/tree/main/academic-assignment-helper",
-      "accomplishments": [
-        "Implemented full RAG-based AI analysis pipeline integrating plagiarism detection and contextual summarization.",
-        "Built a background AI processing module using FastAPI and Friendli AI endpoints with retry and JSON sanitization.",
-        "Designed n8n automation flows for real-time student feedback and instructor notifications with dynamic email HTML.",
-        "Enabled automatic academic source embedding, vector indexing, and context-aware retrieval using FAISS.",
-        "Developed an optional automated submission system that sends plagiarism-free proof and analysis to instructors."
-      ]
-    }
-  ],
+    "education": [
+      {
+        "degree": "BSc in Software Engineering",
+        "institution": "Wachemo University",
+        "period": "2020 - 2025",
+        "status": "Completed/Ongoing"
+      },
+      {
+        "degree": "Marketing Management",
+        "institution": "Wachemo University",
+        "status": "In Progress",
+        "note": "Adding business and marketing perspectives to technical solutions."
+      }
+    ]
+  },
+
+  "technical_skills": {
+    "frontend": [
+      { "name": "React", "proficiency": 95, "keywords": ["ReactJS", "UI Library", "Frontend Framework"] },
+      { "name": "TypeScript", "proficiency": 85, "keywords": ["TS", "Static Typing"] },
+      { "name": "JavaScript", "proficiency": 90, "keywords": ["ES6+", "Async/Await"] },
+      { "name": "Tailwind CSS", "proficiency": 85, "keywords": ["Utility-first CSS", "Responsive Design"] },
+      { "name": "Three.js", "proficiency": 70, "keywords": ["3D Graphics", "WebGL"] },
+      { "name": "Redux", "proficiency": 80, "keywords": ["State Management"] }
+    ],
+    "backend_and_database": [
+      { "name": "Node.js", "proficiency": 95, "keywords": ["Server-side JS", "Runtime"] },
+      {"name": "Python", "proficiency": 90, "keywords": ["Scripting", "Backend Development"] },
+      { "name": "Express.js", "proficiency": 90, "keywords": ["REST API", "Web Framework"] },
+      { "name": "FastAPI", "proficiency": 93, "keywords": ["Python API", "Async Backend"] },
+      { "name": "MongoDB", "proficiency": 80, "keywords": ["NoSQL", "Document Store"] },
+      { "name": "PostgreSQL/Supabase", "proficiency": 80, "keywords": ["Relational DB", "BaaS"] },
+      { "name": "Vector Databases", "proficiency": 85, "keywords": ["FAISS", "Semantic Search", "Chroma"] },
+      { "name": "PHP", "proficiency": 95, "keywords": ["Legacy Web", "SQL Integration"] },
+      { "name": "MySQL", "proficiency": 80, "keywords": ["Relational DB", "Structured Data"] },
+      { "name": "SQLite", "proficiency": 80, "keywords": ["Embedded DB", "Lightweight"] },
+      { "name": "Firebase", "proficiency": 70, "keywords": ["Realtime DB", "BaaS"] }
+  
+    ],
+    "ai_and_automation": [
+      { "name": "RAG (Retrieval-Augmented Generation)", "proficiency": 92, "keywords": ["Contextual AI", "Knowledge Grounding"] },
+      { "name": "LangChain", "proficiency": 88, "keywords": ["LLM Chaining", "Pipeline Orchestration"] },
+      { "name": "n8n Automation", "proficiency": 87, "keywords": ["Workflow Automation", "API Integration"] },
+      { "name": "Computer Vision", "proficiency": 75, "keywords": ["TensorFlow", "Image Processing", "Object Detection"] },
+      { "name": "Prompt Engineering", "proficiency": 90, "keywords": ["LLM Optimization", "Structured Output"] }
+    ],
+    "mobile_development": [
+      { "name": "React Native", "proficiency": 90, "keywords": ["Cross-platform", "Mobile Apps"] },
+      { "name": "Expo", "proficiency": 85, "keywords": ["Rapid Development", "Mobile Framework"] }
+    ],
+    "tools_and_devops": [
+      { "name": "Git", "proficiency": 85, "keywords": ["Version Control", "GitHub"] },
+      { "name": "Docker", "proficiency": 70, "keywords": ["Containerization"] },
+      { "name": "Requirements Engineering", "proficiency": 85, "keywords": ["SRS", "Stakeholder Management"] },
+      { "name": "Agile", "proficiency": 80, "keywords": ["Scrum", "Sprint Planning"] }
+    ]
+  },
+
   "experience": [
     {
       "id": "exp-1",
-      "role": "StartUp Founder",
+      "role": "Lead Systems Architect & Founder",
       "company": "Diguwa-Soft",
       "period": "November 2023 - Present",
-      "description": "Leading a software development startup focused on AI solutions and custom software development. Managing client projects, team coordination, and business development.",
-      "skillsUsed": ["Project Management", "Business Development", "AI/ML", "Full-Stack Development"],
-      "accomplishments": [
-        "Secured 10+ clients across various industries",
-        "Built and managed a team of 5 developers",
-        "Developed expertise in AI and computer vision solutions"
-      ]
+      "description": "Leading a software development startup focused on high-stakes enterprise systems and AI-driven SaaS solutions. Overseeing the full lifecycle from requirements engineering to commercial deployment.",
+      "skillsUsed": ["System Architecture", "Offline-First Design", "Project Management", "Business Development", "Team Leadership"],
+      "key_impact": [
+        "Architected a production-grade, offline-first Smart Library Management System featuring commit-based synchronization and device-bound authentication.",
+        "Engineered a multi-tenant isolation model (one institution, one database) to ensure long-term maintainability and data security.",
+        "Scaled company operations to secure 10+ cross-industry clients while managing a team of 5 developers.",
+        "Developed a commercial deployment strategy including branding isolation for dual-market products (Otona St. Mary & Fayda Smart Library)."
+      ],
+      "linked_projects": ["project-9", "project-5", "project-2"]
     },
     {
       "id": "exp-2",
-      "role": "Project Manager and MERN Stack Developer",
-      "company": "Wolayita Zone Science and Information Technology",
-      "period": "April 2024",
-      "description": "Led development of WZSIT-WebApp, a comprehensive platform for tech support and maintenance services with real-time video consultations.",
-      "skillsUsed": ["React", "Node.js", "MongoDB", "WebRTC", "Project Management"],
-      "accomplishments": [
-        "Successfully delivered the project on time and within budget",
-        "Integrated WebRTC for real-time video consultations",
-        "Managed stakeholder expectations throughout development"
-      ]
+      "role": "AI & RAG Pipeline Engineer",
+      "company": "Academic Research / Dev-Elex Collaboration",
+      "period": "February 2025 - October 2025",
+      "description": "Designed and deployed an intelligent academic analysis platform using Retrieval-Augmented Generation (RAG) and automated AI workflows.",
+      "skillsUsed": ["FastAPI", "LangChain", "Vector Databases (FAISS)", "n8n", "Prompt Engineering", "Python"],
+      "key_impact": [
+        "Developed a robust plagiarism detection engine using SentenceTransformers and semantic similarity search.",
+        "Integrated Friendli AI for structured academic summarization, providing real-time feedback to users.",
+        "Architected automated n8n workflows for real-time notifications and assignment evaluation pipelines.",
+        "Implemented background retry mechanisms and JSON sanitization to ensure 99% pipeline reliability."
+      ],
+      "linked_projects": ["project-8"]
     },
     {
       "id": "exp-3",
-      "role": "SaaS Security System Lead Developer",
-      "company": "Diguwa-Soft",
-      "period": "July 2024 - February 2025",
-      "description": "Led AI-powered security SaaS system development. Oversaw system design, requirement analysis, and full-stack implementation.",
-      "skillsUsed": ["Python", "React.js", "TensorFlow", "Docker", "System Design"],
-      "accomplishments": [
-        "Developed AI surveillance system with 95% detection accuracy",
-        "Built scalable architecture supporting multiple concurrent camera feeds",
-        "Implemented real-time alert system with mobile notifications"
-      ]
+      "role": "Open Source OAuth & eKYC Developer",
+      "company": "MyFayda eKYC",
+      "period": "March 2025 - Present",
+      "description": "Contributing to Ethiopia's national digital identity infrastructure by integrating services with the Fayda National ID system.",
+      "skillsUsed": ["OAuth 2.0", "Security Engineering", "MERN Stack", "API Integration", "Accessibility"],
+      "key_impact": [
+        "Implemented secure authentication protocols to enable trusted digital services for the 'Digital Ethiopia 2025' initiative.",
+        "Optimized backend systems to handle high-concurrency identity verification requests securely.",
+        "Collaborated on open-source modules to lower the barrier for third-party national ID integration."
+      ],
+      "linked_projects": ["project-1"]
     },
     {
       "id": "exp-4",
-      "role": "Open Source OAuth and eKYC System Developer",
-      "company": "MyFayda eKYC",
-      "period": "March 2025 - Present",
-      "description": "Developing Ethiopia's national digital identity solution integrated with Fayda NationalID system.",
-      "skillsUsed": ["MERN Stack", "OAuth", "Security", "API Development"],
-      "accomplishments": [
-        "Implemented secure authentication system integrated with national ID",
-        "Built scalable backend handling thousands of authentication requests",
-        "Developed responsive frontend with focus on accessibility"
-      ]
+      "role": "SaaS Security System Lead Developer",
+      "company": "Diguwa-Soft",
+      "period": "July 2024 - February 2025",
+      "description": "Directed the technical development of an AI-powered surveillance SaaS platform for real-time security monitoring.",
+      "skillsUsed": ["Computer Vision", "TensorFlow", "Docker", "Python", "System Design"],
+      "key_impact": [
+        "Achieved 95% detection accuracy for an AI-powered intruder surveillance system using Computer Vision.",
+        "Containerized the application using Docker to ensure seamless deployment across varied hardware environments.",
+        "Built a scalable video processing pipeline capable of managing multiple concurrent IP camera feeds."
+      ],
+      "linked_projects": ["project-5"]
     },
     {
       "id": "exp-5",
       "role": "MedHub Ethiopia Lead Developer",
       "company": "Diguwa-Soft",
       "period": "January 2025 - Present",
-      "description": "Leading development of Ethiopia's first Electronic Medical Record (EMR) system with national ID integration.",
-      "skillsUsed": ["MERN Stack", "Healthcare IT", "Security", "System Architecture"],
-      "accomplishments": [
-        "Developed Ethiopia's first comprehensive EMR system",
-        "Implemented secure patient data management compliant with regulations",
-        "Built telemedicine capabilities using WebRTC technology"
-      ]
+      "description": "Leading the creation of Ethiopia's first Electronic Medical Record (EMR) system integrated with National ID.",
+      "skillsUsed": ["Healthcare IT", "WebRTC", "MERN Stack", "Data Integrity", "Regulatory Compliance"],
+      "key_impact": [
+        "Designed the system architecture for Ethiopia's first unified EMR platform.",
+        "Integrated WebRTC to enable telemedicine capabilities within the medical record workflow.",
+        "Ensured strict healthcare data management compliance to protect sensitive patient information."
+      ],
+      "linked_projects": ["project-2"]
     },
     {
       "id": "exp-6",
-      "role": "StartUp Founder",
-      "company": "Diguwa-Store",
-      "period": "February 2022",
-      "description": "Founded a dorm service platform connecting university students to local businesses. Developed the platform and managed operations.",
-      "skillsUsed": ["HTML", "CSS", "JavaScript", "Business Management", "UX Design"],
-      "accomplishments": [
-        "Scaled to 80+ daily visitors within first two months",
-        "Generated revenue of 5,500 ETB in first two months of operation",
-        "Gained experience in platform management and financial operations"
-      ]
+      "role": "Project Manager & MERN Stack Developer",
+      "company": "Wolayita Zone Science and Information Technology",
+      "period": "April 2024",
+      "description": "Led the development of the WZSIT-WebApp to centralize regional tech support and maintenance.",
+      "skillsUsed": ["React", "Node.js", "WebRTC", "Stakeholder Engagement", "Tailwind CSS"],
+      "key_impact": [
+        "Successfully delivered a regional support platform on time and within budget through rigorous sprint management.",
+        "Integrated real-time video consultation features, reducing the need for physical on-site technical visits.",
+        "Managed complex stakeholder requirements from regional government IT directors."
+      ],
+      "linked_projects": ["project-3"]
     },
     {
       "id": "exp-7",
-      "role": "AI & RAG Pipeline Engineer",
-      "company": "Academic Research / Dev-Elex Collaboration",
-      "period": "Feb 2025 – Oct 2025",
-      "description": "Designed and developed an intelligent academic analysis platform powered by a Retrieval-Augmented Generation (RAG) pipeline and automated workflow system. Integrated FastAPI, Friendli AI, and n8n to streamline assignment evaluation, plagiarism detection, and AI summarization.",
-      "skillsUsed": [
-        "FastAPI",
-        "LangChain",
-        "Python",
-        "n8n",
-        "Vector Databases",
-        "Prompt Engineering",
-        "Supabase",
-        "LLM API Integration"
+      "role": "Startup Founder (Diguwa-Store)",
+      "company": "University Dorm-Service Platform",
+      "period": "February 2022",
+      "description": "Conceptualized and launched a local-first service platform connecting students with university businesses.",
+      "skillsUsed": ["Full-Stack Development", "UX Design", "Platform Operations", "Financial Management"],
+      "key_impact": [
+        "Scaled platform to 80+ daily visitors within the first two months of operation.",
+        "Generated 5,500 ETB in revenue during the initial launch phase.",
+        "Gained foundational experience in full-stack engineering and product-market fit."
       ],
-      "accomplishments": [
-        "Built a robust plagiarism detection engine using SentenceTransformers and FAISS-based similarity search.",
-        "Integrated Friendli AI for structured academic summarization with real-time feedback.",
-        "Automated assignment workflow from upload to analysis completion and student/instructor notifications.",
-        "Enhanced pipeline reliability with background retry, error handling, and n8n webhooks."
+      "linked_projects": ["project-7"]
+    }
+  ],
+  
+  "projects": [
+    {
+      "id": "project-9",
+      "title": "Offline-First Smart Library Management System",
+      "sub_brand": "Otona St. Mary / Fayda Smart Library",
+      "category": "Enterprise / Offline-First Systems",
+      "status": "Production / Commercial Deployment",
+      "description": "A production-grade, local-first system designed for institutions with unreliable connectivity. It features a custom synchronization engine and multi-tenant isolation, deployed commercially for church and school libraries.",
+      "tech_stack": {
+        "frontend": ["React Native", "Expo", "TypeScript", "Expo Router"],
+        "database": ["SQLite (Local)", "Supabase (Cloud)", "PostgreSQL"],
+        "core_logic": ["Commit-Based Synchronization", "Device-bound Auth", "Shift-Enforced Usage"]
+      },
+      "key_features": [
+        "Architected a 'local-first' write model with deferred synchronization to handle 100% offline operations.",
+        "Implemented a custom commit-based sync engine to ensure idempotent data transfer between local SQLite and remote Supabase.",
+        "Designed institutional data isolation allowing one-institution-one-database deployment.",
+        "Integrated device camera APIs for barcode scanning and attendance tracking."
+      ],
+      "ai_search_keywords": ["Local-first architecture", "Data Synchronization", "Idempotent Sync", "Multi-tenant SaaS", "React Native SQLite"],
+      "deployment_context": "Commercially deployed; demo available upon request to maintain institutional data privacy."
+    },
+    {
+      "id": "project-8",
+      "title": "Academic Assignment Helper & Plagiarism Detector",
+      "category": "AI / RAG / NLP",
+      "status": "Live Demo / Open Source",
+      "description": "An AI-driven academic assistant integrating RAG with automated plagiarism detection and submission workflows.",
+      "tech_stack": {
+        "backend": ["FastAPI", "Python"],
+        "ai_ml": ["LangChain", "Friendli AI", "SentenceTransformers", "FAISS Vector DB"],
+        "automation": ["n8n", "Webhook Triggers"]
+      },
+      "links": {
+        "demo_video": "https://youtu.be/SkydOp1fgNw?si=rP8x5JgRE0JfFSpW",
+        "github": "https://github.com/NatiSami21/Dedication/tree/main/academic-assignment-helper"
+      },
+      "key_features": [
+        "Built a full RAG pipeline for contextual academic retrieval and summarization.",
+        "Engineered a semantic similarity search engine using FAISS and vector embeddings for plagiarism detection.",
+        "Created automated feedback loops via n8n, sending dynamic HTML reports to students and instructors.",
+        "Implemented JSON sanitization and retry logic for high-reliability AI API consumption."
+      ],
+      "ai_search_keywords": ["RAG Pipeline", "Vector Indexing", "LLM Orchestration", "n8n Automation", "Semantic Search"]
+    },
+    {
+      "id": "project-1",
+      "title": "MyFayda eKYC",
+      "category": "Identity / Security",
+      "description": "Digital identity solution integrated with the Ethiopian National ID (Fayda) system to provide secure user verification.",
+      "tech_stack": {
+        "stack": ["MERN Stack", "Tailwind CSS"],
+        "security": ["OAuth 2.0", "RESTful APIs", "JWT"]
+      },
+      "links": { "live": "https://myfayda.org" },
+      "key_features": [
+        "Integrated directly with national ID infrastructure for verified identity claims.",
+        "Built a secure, scalable authentication gateway serving thousands of users.",
+        "Ensured compliance with national digital identity standards."
+      ],
+      "ai_search_keywords": ["National ID Integration", "eKYC", "OAuth Implementation", "Identity Verification"],
+      "deployment_context": "Live production environment."
+    },
+    {
+      "id": "project-2",
+      "title": "MedHub Ethiopia",
+      "category": "Healthcare / EMR",
+      "description": "Ethiopia's first Electronic Medical Record (EMR) system with National ID integration and telemedicine capabilities.",
+      "tech_stack": {
+        "stack": ["MERN Stack", "WebRTC", "MongoDB"],
+        "ui": ["Tailwind CSS"]
+      },
+      "links": { "live": "https://medhub-ethiopia.up.railway.app" },
+      "key_features": [
+        "Standardized medical record management for regional healthcare providers.",
+        "Implemented peer-to-peer telemedicine consultations using WebRTC.",
+        "Integrated national ID verification for patient record accuracy."
+      ],
+      "ai_search_keywords": ["EMR System", "Healthcare IT", "WebRTC Telemedicine", "Patient Management"],
+      "deployment_context": "Hosted on Railway; link may experience cold-start delays."
+    },
+    {
+      "id": "project-5",
+      "title": "Wa-Leba & Wa-Leba+",
+      "category": "AI / Computer Vision / SaaS",
+      "description": "AI-driven surveillance SaaS platform that transforms IP cameras into smart security tools.",
+      "tech_stack": {
+        "ai": ["TensorFlow", "Computer Vision", "Python"],
+        "backend": ["Node.js", "Docker"],
+        "frontend": ["React.js"]
+      },
+      "key_features": [
+        "Developed intruder detection and customer counting algorithms with 95% accuracy.",
+        "Built a scalable video pipeline to process multiple concurrent camera streams.",
+        "Containerized core AI services using Docker for environment-agnostic deployment."
+      ],
+      "ai_search_keywords": ["AI Surveillance", "Object Detection", "Video Analytics", "SaaS Security"],
+      "deployment_context": "Private SaaS deployment."
+    },
+    {
+      "id": "project-3",
+      "title": "WZSIT Web-App",
+      "category": "Government / Support Platform",
+      "description": "A comprehensive digital platform for regional tech support, maintenance, and consultations.",
+      "tech_stack": {
+        "stack": ["MERN Stack", "WebRTC", "Express.js"],
+        "ui": ["Tailwind CSS", "Custom Graphics"]
+      },
+      "links": { "live": "https://wolaita-sit.up.railway.app" },
+      "key_features": [
+        "Integrated real-time video support for remote technical assistance.",
+        "Built a custom appointment scheduling system with automated notifications.",
+        "Managed stakeholder engagement for regional government offices."
+      ],
+      "deployment_context": "Link may experience cold-start delays on free-tier hosting."
+    },
+    {
+      "id": "project-4",
+      "title": "St. Mary Finance Management System",
+      "category": "FinTech / Automation",
+      "description": "Cloud-based accounting and audit platform for church parish financial operations.",
+      "tech_stack": {
+        "core": ["PHP", "SQL", "JavaScript"],
+        "visualization": ["Chart.js", "CSS"]
+      },
+      "links": { "live": "https://st-marry-finance-system.great-site.net" },
+      "key_features": [
+        "Automated financial reporting, reducing manual audit work by 80%.",
+        "Designed real-time data visualization dashboards for financial transparency.",
+        "Implemented role-based access control for sensitive financial data."
+      ]
+    },
+    {
+      "id": "project-7",
+      "title": "Offline Book Store App",
+      "category": "Mobile / Education",
+      "description": "A local-first mobile resource library for software engineering students.",
+      "tech_stack": ["Java", "Kotlin", "Android SDK", "Local Storage"],
+      "links": { "github": "https://drive.google.com/file/d/16J_LNM1ko-UKzlqQFYln2vV1IKH04W5r/view?usp=sharing" },
+      "key_features": [
+        "Curated and indexed 100+ academic resources for offline mobile access.",
+        "Optimized file storage for large PDF/document handling on low-end devices."
       ]
     }
   ],
+
   "testimonials": [
     {
       "quote": "The Wolayita Zone Science and Information Technology Web-App has greatly improved our tech maintenance processes. The system is user-friendly and has simplified our work significantly. A fantastic job by an incredibly talented developer!",
@@ -517,4 +365,6 @@
       "company": "Wachemo University"
     }
   ]
+
+
 }
