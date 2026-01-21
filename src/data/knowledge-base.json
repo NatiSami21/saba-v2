@@ -10,9 +10,9 @@
     },
     "note_for_ai": "When generating cover letters, mention that some project links are hosted on free/limited tiers (like Railway/Netlify) and may have cold-start delays or temporary downtime."
   },
-  
+
   "identity": {
-    "full_name": "Natinael Samuel",
+    "fullName": "Natinael Samuel",
     "professional_titles": [
       "Full-Stack Developer",
       "AI & RAG Pipeline Engineer",
