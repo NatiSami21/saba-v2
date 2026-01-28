@@ -3531,6 +3531,137 @@
       "evidence": "BSc in Software Engineering with production-focused system development."
     }
   }
+},
+
+"fullstack-tridal-131": {
+    "meta": {
+      "jobId": "senior-fullstack-tridal-2026",
+      "company": "Tridal Technologies PLC",
+      "role": "Senior Full Stack Developer",
+      "source": "Tridal Technologies PLC job post",
+      "dateAdded": "2026-01-27",
+      "jobDescription": "Senior Full Stack Developer role focused on building production-ready web portals using the MERN or MEAN stack, with strong emphasis on real deployments, scalability, and delivery."
+    },
+    "keyRequirements": [
+      "Strong hands-on experience with the MERN or MEAN stack",
+      "Production-ready web application development",
+      "Scalable backend APIs and modern frontends",
+      "RESTful APIs, authentication, and authorization",
+      "CI/CD pipeline setup and maintenance",
+      "Git-based collaboration",
+      "Ability to deliver with minimal supervision",
+      "Live demo or working deployment required"
+    ],
+    "narrative": "Natinael is a strong match for Tridal Technologies’ Senior Full Stack Developer role due to his proven track record of delivering real, production-level MERN systems. As the founder of DiguwaSoft, he has built and deployed multiple live platforms including MedHub Ethiopia, WZSIT WebApp, and MyFayda eKYC SaaS using React, Node.js, Express, and MongoDB. His work emphasizes scalable APIs, authentication, and deployment automation, aligning closely with Tridal’s requirement for delivery-focused, real-world systems.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "React",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 95,
+          "evidence": "Primary frontend framework across MedHub Ethiopia, WZSIT WebApp, and finance systems."
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 95,
+          "evidence": "Backend development for multiple production APIs and services."
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 92,
+          "evidence": "Used for REST API development, authentication, and middleware in MERN systems."
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 90,
+          "evidence": "Primary NoSQL database for scalable production applications."
+        },
+        {
+          "skillName": "RESTful APIs",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 95,
+          "evidence": "Designed and implemented APIs for healthcare, finance, and identity systems."
+        },
+        {
+          "skillName": "Authentication & Authorization",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 95,
+          "evidence": "JWT-based auth, role-based access control, and secure integrations."
+        },
+        {
+          "skillName": "CI/CD",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "GitHub Actions, Docker, and Railway-based automated deployment workflows."
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 95,
+          "evidence": "Used across all projects for version control and collaboration."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "Full MERN healthcare platform with real users, authentication, and scalable APIs.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Production finance automation system demonstrating backend reliability and delivery discipline.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Government-facing web portal with real organizational usage.",
+          "matchScore": 92
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-2",
+          "relevance": "Remote full-stack delivery with minimal supervision through Dev-Elex and client projects.",
+          "matchScore": 90
+        },
+        {
+          "experienceId": "exp-7",
+          "relevance": "System design, debugging, and production deployment experience.",
+          "matchScore": 92
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Delivery Focus",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong production system focus."
+      }
+    }
 }
 
 
