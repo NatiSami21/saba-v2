@@ -3535,7 +3535,7 @@
 
 "fullstack-tridal-131": {
     "meta": {
-      "jobId": "senior-fullstack-tridal-2026",
+      "jobId": "fullstack-tridal-131",
       "company": "Tridal Technologies PLC",
       "role": "Senior Full Stack Developer",
       "source": "Tridal Technologies PLC job post",
@@ -3662,7 +3662,108 @@
         "evidence": "BSc in Software Engineering with strong production system focus."
       }
     }
+},
+
+
+"inventory-pos-app-132": {
+    "meta": {
+      "jobId": "inventory-pos-app-132",
+      "company": "Private Business (Telegram)",
+      "role": "Inventory & POS App Developer",
+      "source": "Telegram @Abdu_asa",
+      "dateAdded": "2026-01-28",
+      "jobDescription": "Development of a POS and inventory mobile application for retail businesses with multi-role access, stock tracking, reporting, and VAT management."
+    },
+    "keyRequirements": [
+      "POS and inventory management system",
+      "Multi-role access (sales, picker, accountant, warehouse)",
+      "Stock tracking by unit and size",
+      "Automatic stock adjustment",
+      "Shelf/location tracking",
+      "Daily sales, credit, and VAT reporting",
+      "Business-focused, easy-to-use solution"
+    ],
+    "narrative": "Natinael is a strong fit for this role due to his proven experience translating complex organizational workflows into simple, one-touch digital systems. Through Fayda Smart Library Management and Otona St. Mary Library Management, he has designed multi-role inventory-like systems that simplify daily operations for non-technical users. His St. Mary Finance Management System further demonstrates strong capability in financial tracking, reporting, and accountability — all directly applicable to POS and inventory management for retail businesses.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "System Design",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Designed role-based, operational systems for libraries and financial organizations."
+        },
+        {
+          "skillName": "Inventory Management Logic",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Implemented stock tracking, availability control, and usage reports in library and finance systems."
+        },
+        {
+          "skillName": "Role-Based Access Control",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Used in Fayda Smart Library and St. Mary Finance systems."
+        },
+        {
+          "skillName": "Reporting & Analytics",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 90,
+          "evidence": "Daily finance, usage, and accountability reports for organizations."
+        },
+        {
+          "skillName": "Business Process Automation",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Converted manual organizational workflows into automated digital systems."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-15",
+          "relevance": "Offline-first smart library system with inventory-like logic, multi-role access, and simplified workflows.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Finance management system with reporting, accountability, and organizational controls.",
+          "matchScore": 92
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-7",
+          "relevance": "Designed real-world systems for non-technical organizational users.",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem-to-Solution Thinking",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Business Understanding",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "Software Engineering background applied to real business operations."
+      }
+    }
 }
+
 
 
 
