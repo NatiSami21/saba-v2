@@ -3762,9 +3762,107 @@
         "evidence": "Software Engineering background applied to real business operations."
       }
     }
+},
+
+
+"backend-lead-133": {
+    "meta": {
+      "jobId": "backend-lead-133",
+      "company": "",
+      "role": "Backend Tech Lead",
+      "source": "Telegram / Job Board",
+      "dateAdded": "2026-01-28",
+      "jobDescription": "Backend-first tech lead role focused on designing, owning, and scaling production-grade backend systems."
+    },
+    "keyRequirements": [
+      "Production backend ownership",
+      "Node.js or Python expertise beyond CRUD",
+      "API and system design",
+      "Distributed or service-oriented systems",
+      "Database modeling and schema design",
+      "Reliability and scalability",
+      "Architectural leadership",
+      "CI/CD and DevOps exposure"
+    ],
+    "narrative": "Natinael is a backend-first engineer with multiple production systems where he owned backend architecture, reliability, and scalability. His experience spans government, finance, identity, library, and AI-powered platforms, demonstrating strong alignment with backend tech leadership responsibilities.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 92,
+          "evidence": "Backend ownership across WZSIT WebApp, Fayda Smart Library, St. Mary Finance System"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 88,
+          "evidence": "FastAPI-based systems, ML-backed services, automation workflows"
+        },
+        {
+          "skillName": "API Design",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "JWT auth, role-based APIs, external integrations (MyFayda eKYC)"
+        },
+        {
+          "skillName": "Distributed Systems",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Wa-Leba+ AI Surveillance SaaS, event-driven processing"
+        },
+        {
+          "skillName": "Database Design",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "MongoDB, SQL, Supabase schemas for multi-tenant systems"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "Backend ownership, role-based architecture, offline-first sync, institutional deployment",
+          "matchScore": 95
+        },
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Financial workflows, inventory logic, reporting accuracy",
+          "matchScore": 90
+        },
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Government-grade MERN system, multi-role backend architecture",
+          "matchScore": 90
+        },
+        {
+          "projectId": "wa-leba-ai-surveillance",
+          "relevance": "Distributed backend services, real-time processing, reliability",
+          "matchScore": 85
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Secure identity integration, JWT verification, production security concerns",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "founder-diguwa-soft",
+          "relevance": "Backend architecture ownership, system reliability, technical leadership",
+          "matchScore": 92
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with backend-heavy real-world systems"
+      }
+    }
 }
-
-
 
 
 
