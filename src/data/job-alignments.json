@@ -3784,7 +3784,7 @@
       "Architectural leadership",
       "CI/CD and DevOps exposure"
     ],
-    "narrative": "Natinael is a backend-first engineer with multiple production systems where he owned backend architecture, reliability, and scalability. His experience spans government, finance, identity, library, and AI-powered platforms, demonstrating strong alignment with backend tech leadership responsibilities.",
+    "narrative": "Natinael is a backend first software engineer with multiple production systems where he owned backend architecture, reliability, and scalability. His experience spans government, finance, identity, library, and AI-powered platforms, demonstrating strong alignment with backend tech leadership responsibilities.",
     "alignment": {
       "skills": [
         {
@@ -3862,7 +3862,105 @@
         "evidence": "BSc in Software Engineering with backend-heavy real-world systems"
       }
     }
+},
+
+
+"python-remote-134": {
+    "meta": {
+      "jobId": "python-remote-134",
+      "company": "Private Client",
+      "role": "Senior Python Developer",
+      "source": "Remote Job Board",
+      "dateAdded": "2026-01-29",
+      "jobDescription": "Senior Python developer role focused on FastAPI, Docker, Kubernetes, and scalable backend systems."
+    },
+    "keyRequirements": [
+      "Python backend development",
+      "FastAPI APIs",
+      "Docker containerization",
+      "Kubernetes deployment",
+      "RESTful APIs",
+      "Database-backed systems",
+      "CI/CD and Git workflows",
+      "Performance monitoring and optimization"
+    ],
+    "narrative": "Natinael has built multiple Python-based production systems spanning AI, healthcare, education, surveillance, and automation. His work demonstrates deep Python expertise beyond CRUD, including ML pipelines, async APIs, containerization, and real-world system ownership.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Python",
+          "myProficiency": 94,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 94,
+          "evidence": "AI systems, FastAPI backends, ML pipelines, automation tools"
+        },
+        {
+          "skillName": "FastAPI",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 92,
+          "evidence": "RAG Academic Helper, ML services, API gateways"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 88,
+          "evidence": "Containerized ML and backend services"
+        },
+        {
+          "skillName": "Databases",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "PostgreSQL, Vector DB (pgvector), MongoDB"
+        },
+        {
+          "skillName": "Machine Learning",
+          "myProficiency": 87,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 87,
+          "evidence": "Custom ML models, computer vision, recommendation logic"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "rag-academic-helper",
+          "relevance": "FastAPI backend, vector DB, n8n automation, Dockerized ML services",
+          "matchScore": 98
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Custom ML models integrated with Python backend and React frontend",
+          "matchScore": 92
+        },
+        {
+          "projectId": "wa-leba-ai-surveillance",
+          "relevance": "Computer vision system using Python, OpenCV, and ML pipelines",
+          "matchScore": 90
+        },
+        {
+          "projectId": "library-pc-game",
+          "relevance": "Python-based desktop application with real users",
+          "matchScore": 80
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "fullstack-engineer-founder",
+          "relevance": "End-to-end ownership of Python services in production",
+          "matchScore": 92
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong Python and ML focus"
+      }
+    }
+
+
 }
+
 
 
 
