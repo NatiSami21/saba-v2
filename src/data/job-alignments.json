@@ -3959,7 +3959,95 @@
     }
 
 
+},
+
+"fullstack-135": {
+    "meta": {
+      "jobId": "fullstack-135",
+      "company": "Private Client",
+      "role": "Fullstack Developer (React + Node/Python)",
+      "source": "Local Job Board",
+      "dateAdded": "2026-02-01",
+      "jobDescription": "Fullstack developer role focusing on React frontend, Node.js or Python backend, Firebase, and production systems."
+    },
+    "keyRequirements": [
+      "React frontend development",
+      "Node.js or Python backend APIs",
+      "Firebase Auth and Database",
+      "RESTful APIs",
+      "Git version control",
+      "UI design sense",
+      "Problem solving and debugging"
+    ],
+    "narrative": "Natinael has built and deployed multiple real-world fullstack systems combining React frontends with Node.js and Python backends. His projects demonstrate strong API integration, UI-focused development, and production problem-solving across healthcare, education, finance, and automation domains.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "React",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 90,
+          "evidence": "MedHub Ethiopia, WZSIT WebApp, Library Management Systems"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 88,
+          "evidence": "WZSIT WebApp, St. Mary Finance System"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 94,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 94,
+          "evidence": "RAG Academic Helper, MedHub ML services, Wa-Leba+"
+        },
+        {
+          "skillName": "Firebase",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Working Knowledge",
+          "matchScore": 70,
+          "evidence": "Auth and real-time data usage in client and prototype apps"
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 92,
+          "evidence": "API-driven systems across all major projects"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "React-based UI with backend services, role-based access, and real users",
+          "matchScore": 90
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "React frontend integrated with Python ML backend APIs",
+          "matchScore": 92
+        },
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Fullstack Node.js system handling finance and inventory workflows",
+          "matchScore": 88
+        },
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Production MERN system used by a government institution",
+          "matchScore": 90
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong fullstack focus"
+      }
+    }
 }
+
+
 
 
 
