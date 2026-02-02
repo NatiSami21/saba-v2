@@ -13,7 +13,7 @@
       "Key requirement 2 from job description",
       "..."
     ],
-    "narrative": "A third-person narrative summarizing why Natinael is a strong fit for this role, highlighting key alignments from skills, projects, and experience.",
+    "narrative": "A third-person narrative summarizing why Natinael is a strong fit for this role, highlighting key alignme0nts from skills, projects, and experience.",
     "alignment": {
       "skills": [
         {
@@ -4045,8 +4045,174 @@
         "evidence": "BSc in Software Engineering with strong fullstack focus"
       }
     }
-}
+},
 
+
+"paperless-fullstack-136": {
+    "meta": {
+      "jobId": "paperless-fullstack-136",
+      "company": "Paperless Technology Group",
+      "role": "Full Stack Developer",
+      "source": "Company Application Form",
+      "dateAdded": "2026-02-02",
+      "jobDescription": "Expert-level full stack role focused on MERN/MEAN, CI/CD, deployment, and real production systems."
+    },
+    "keyRequirements": [
+      "MERN or MEAN stack in production",
+      "Scalable backend APIs",
+      "Authentication and authorization",
+      "Database development",
+      "CI/CD pipelines",
+      "System deployment and reliability",
+      "Integration of third-party services"
+    ],
+    "narrative": "Natinael has delivered multiple production-grade full stack systems used by institutions and real users, covering healthcare, finance, education, government services, and AI-driven platforms. His work demonstrates strong system design, deployment ownership, and reliable delivery.",
+    "alignment": {
+
+      "skills": [
+  {
+    "skillName": "React.js",
+    "myProficiency": 88,
+    "jobRequirementLevel": "Expert",
+    "matchScore": 90,
+    "evidence": "Primary frontend framework used in MedHub Ethiopia, Fayda Smart Library Management, and WZSIT WebApp."
+  },
+  {
+    "skillName": "Node.js",
+    "myProficiency": 90,
+    "jobRequirementLevel": "Expert",
+    "matchScore": 92,
+    "evidence": "Used extensively for backend APIs, authentication, and integrations in multiple production systems."
+  },
+  {
+    "skillName": "MongoDB",
+    "myProficiency": 85,
+    "jobRequirementLevel": "Advanced",
+    "matchScore": 88,
+    "evidence": "Used in MERN-based systems including MedHub Ethiopia and WZSIT WebApp."
+  },
+  {
+    "skillName": "Express.js",
+    "myProficiency": 85,
+    "jobRequirementLevel": "Advanced",
+    "matchScore": 87,
+    "evidence": "Backend routing and middleware in MERN stack applications."
+  },
+  {
+    "skillName": "RESTful API Design",
+    "myProficiency": 92,
+    "jobRequirementLevel": "Expert",
+    "matchScore": 95,
+    "evidence": "Designed and maintained APIs for MedHub Ethiopia, MyFayda eKYC, St. Mary Finance System, and Library systems."
+  },
+  {
+    "skillName": "Authentication & Authorization",
+    "myProficiency": 88,
+    "jobRequirementLevel": "Advanced",
+    "matchScore": 90,
+    "evidence": "Implemented JWT-based auth, role-based access control, and secure identity flows including MyFayda eKYC."
+  },
+  {
+    "skillName": "CI/CD Pipelines",
+    "myProficiency": 75,
+    "jobRequirementLevel": "Intermediate",
+    "matchScore": 78,
+    "evidence": "Used GitHub Actions and deployment pipelines for automated builds and deployments."
+  },
+  {
+    "skillName": "Docker",
+    "myProficiency": 80,
+    "jobRequirementLevel": "Intermediate",
+    "matchScore": 82,
+    "evidence": "Containerized backend services for Academic Assignment Helper and other backend systems."
+  },
+  {
+    "skillName": "Kubernetes",
+    "myProficiency": 45,
+    "jobRequirementLevel": "Basic",
+    "matchScore": 50,
+    "evidence": "Conceptual and limited hands-on exposure through DevOps learning and container orchestration environments."
+  },
+  {
+    "skillName": "Git & Version Control",
+    "myProficiency": 92,
+    "jobRequirementLevel": "Expert",
+    "matchScore": 95,
+    "evidence": "Used across all projects with collaborative workflows and production branching strategies."
+  },
+  {
+    "skillName": "System Design",
+    "myProficiency": 88,
+    "jobRequirementLevel": "Advanced",
+    "matchScore": 90,
+    "evidence": "Designed full systems for library, finance, healthcare, and surveillance platforms."
+  },
+  {
+    "skillName": "Database Design (PostgreSQL)",
+    "myProficiency": 85,
+    "jobRequirementLevel": "Advanced",
+    "matchScore": 88,
+    "evidence": "Used in St. Mary Finance System and Academic Assignment Helper with schema design and performance considerations."
+  },
+  {
+    "skillName": "Supabase",
+    "myProficiency": 80,
+    "jobRequirementLevel": "Intermediate",
+    "matchScore": 85,
+    "evidence": "Used as BaaS for authentication, storage, and database management in multiple systems."
+  },
+  {
+    "skillName": "Software Deployment",
+    "myProficiency": 82,
+    "jobRequirementLevel": "Advanced",
+    "matchScore": 85,
+    "evidence": "Deployed and maintained production systems using Railway, Cloudflare, Supabase, and Docker-based workflows."
+  },
+  {
+    "skillName": "Cloud Platforms (AWS / Azure)",
+    "myProficiency": 50,
+    "jobRequirementLevel": "Basic",
+    "matchScore": 55,
+    "evidence": "Exposure through cloud-based deployments and services, not primary infrastructure owner."
+  },
+  {
+    "skillName": "Problem Solving & Debugging",
+    "myProficiency": 95,
+    "jobRequirementLevel": "Expert",
+    "matchScore": 98,
+    "evidence": "Resolved production issues, optimized performance, and maintained long-running systems independently."
+  }
+],
+
+      "projectHighlights": [
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Government-used MERN platform with full deployment ownership",
+          "matchScore": 95
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Production healthcare system with ML-backed APIs and React frontend",
+          "matchScore": 92
+        },
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "Enterprise-grade role-based system replacing manual workflows",
+          "matchScore": 90
+        },
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Finance and inventory automation with backend ownership",
+          "matchScore": 90
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
+
+}
 
 
 
