@@ -4212,6 +4212,124 @@
       }
     }
 
+},
+
+
+"senior-python-137": {
+  "meta": {
+    "jobId": "senior-python-137",
+    "company": "Private Client",
+    "role": "Senior Python Developer",
+    "source": "Private Job Listing",
+    "dateAdded": "2026-01-15",
+    "jobDescription": "Senior Python Developer role focused on building scalable backend services using Python, FastAPI, Docker, and Kubernetes, with strong ownership of production systems."
+  },
+  "keyRequirements": [
+    "Production-level Python backend development",
+    "FastAPI and async backend services",
+    "RESTful API design",
+    "Docker and containerized applications",
+    "Kubernetes deployment and management",
+    "Relational and NoSQL databases",
+    "CI/CD pipelines and Git workflows",
+    "System monitoring and performance optimization"
+  ],
+  "narrative": "Natinael is a backend-first Python engineer with hands-on ownership of multiple real-world systems deployed for institutions and clients. His work spans AI-powered SaaS platforms, RAG-based academic systems, automation pipelines, and computer-vision-driven surveillance products. Rather than academic prototypes, his experience reflects production responsibility, system reliability, and long-term maintainability — aligning well with a Senior Python Developer role focused on scalable backend services.",
+  "alignment": {
+    "skills": [
+      {
+        "skillName": "Python",
+        "myProficiency": 92,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Primary backend language across Academic Assignment Helper, Wa-Leba+, MedHub Ethiopia ML services, and computer vision systems."
+      },
+      {
+        "skillName": "FastAPI",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 93,
+        "evidence": "Used to build async APIs for RAG-based academic systems and ML-backed backend services."
+      },
+      {
+        "skillName": "RESTful APIs",
+        "myProficiency": 92,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 95,
+        "evidence": "Designed and maintained APIs consumed by web frontends, automation tools, and third-party integrations."
+      },
+      {
+        "skillName": "Docker",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 88,
+        "evidence": "Containerized FastAPI and ML services using Docker and Docker Compose for production-style deployments."
+      },
+      {
+        "skillName": "Kubernetes",
+        "myProficiency": 35,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 30,
+        "evidence": "Practical exposure deploying containerized services and understanding orchestration concepts; not primary cluster owner."
+      },
+      {
+        "skillName": "PostgreSQL",
+        "myProficiency": 88,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 90,
+        "evidence": "Used with pgVector in RAG systems and relational data modeling for backend services."
+      },
+      {
+        "skillName": "NoSQL Databases",
+        "myProficiency": 75,
+        "jobRequirementLevel": "Intermediate",
+        "matchScore": 78,
+        "evidence": "Used where appropriate for flexible data storage in backend services."
+      },
+      {
+        "skillName": "CI/CD & Git",
+        "myProficiency": 85,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 88,
+        "evidence": "Used Git-based workflows and CI pipelines for build, test, and deployment automation."
+      },
+      {
+        "skillName": "Async Programming & Background Tasks",
+        "myProficiency": 80,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 82,
+        "evidence": "Applied async FastAPI patterns, background jobs, and automation workflows using n8n."
+      },
+      {
+        "skillName": "System Debugging & Performance Optimization",
+        "myProficiency": 90,
+        "jobRequirementLevel": "Expert",
+        "matchScore": 92,
+        "evidence": "Handled performance tuning, production bug fixing, and system stability across multiple client systems."
+      }
+    ],
+    "projectHighlights": [
+      {
+        "projectId": "project-academic-rag",
+        "relevance": "RAG-based Academic Assignment Helper using FastAPI, pgVector, Docker, and n8n automation.",
+        "matchScore": 95
+      },
+      {
+        "projectId": "project-wa-leba-plus",
+        "relevance": "AI-powered CCTV and IP camera surveillance SaaS built with Python and computer vision.",
+        "matchScore": 90
+      },
+      {
+        "projectId": "project-medhub-ethiopia",
+        "relevance": "Backend ML services processing symptoms and recommendations via Python APIs.",
+        "matchScore": 88
+      }
+    ],
+    "educationFit": {
+      "relevant": true,
+      "evidence": "BSc in Software Engineering with strong backend and applied AI focus."
+    }
+  }
 }
 
 
