@@ -4330,6 +4330,203 @@
       "evidence": "BSc in Software Engineering with strong backend and applied AI focus."
     }
   }
+},
+
+
+"360ground-fullstack-138": {
+    "meta": {
+      "jobId": "360ground-fullstack-138",
+      "company": "360Ground",
+      "role": "Junior Full Stack Developer (Fresh Graduate)",
+      "source": "360Ground Google Form",
+      "dateAdded": "2026-02-10",
+      "jobDescription": "Junior Full Stack Developer role focused on building live web/mobile systems, collaborating with senior engineers, designing APIs, working with SQL/NoSQL databases, and deploying production-ready applications."
+    },
+    "keyRequirements": [
+      "Participation in development of a live system",
+      "Frontend development using HTML, CSS, JavaScript",
+      "Exposure to React or Angular",
+      "Basic backend development with Python/Django or Node.js",
+      "Design and implementation of RESTful APIs",
+      "Experience with SQL and NoSQL databases",
+      "Familiarity with Git and basic DevOps tools",
+      "Problem-solving mindset and willingness to learn"
+    ],
+    "narrative": "Natinael Samuel is a fresh graduate Full Stack Developer who has built and deployed multiple real-world systems for organizations, startups, and government-related institutions. His experience spans frontend, backend, databases, and deployment, with a strong emphasis on solving real operational problems under real constraints such as changing requirements and non-technical stakeholders.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "HTML",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Used across all web-based systems including finance, library, and SaaS projects"
+        },
+        {
+          "skillName": "CSS",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "Modern UI styling with Tailwind CSS and custom layouts"
+        },
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Core language for frontend and backend development in MERN systems"
+        },
+        {
+          "skillName": "React",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "Used in WZSIT WebApp, Fayda Smart Library, MyFayda eKYC, MedHub Ethiopia"
+        },
+        {
+          "skillName": "Angular",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Exposure",
+          "matchScore": 40,
+          "evidence": "General exposure through comparative learning and documentation"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 75,
+          "evidence": "Backend development, automation, ML systems, FastAPI services"
+        },
+        {
+          "skillName": "Django",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Exposure",
+          "matchScore": 60,
+          "evidence": "Academic and early backend experience"
+        },
+        {
+          "skillName": "FastAPI",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Exposure",
+          "matchScore": 70,
+          "evidence": "RAG-based Academic Assignment Helper backend"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "MERN stack systems including WZSIT, MyFayda eKYC, MedHub Ethiopia"
+        },
+        {
+          "skillName": "RESTful APIs",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Designed and implemented APIs for multiple production systems"
+        },
+        {
+          "skillName": "SQL Databases",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "Finance system, PostgreSQL-based RAG system, reporting modules"
+        },
+        {
+          "skillName": "NoSQL Databases",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 75,
+          "evidence": "MongoDB in MERN-based SaaS and government systems"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Bonus",
+          "matchScore": 75,
+          "evidence": "RAG-based Academic Helper, MedHub Ethiopia"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 65,
+          "jobRequirementLevel": "Bonus",
+          "matchScore": 65,
+          "evidence": "Containerization of backend services"
+        },
+        {
+          "skillName": "Firebase",
+          "myProficiency": 55,
+          "jobRequirementLevel": "Bonus",
+          "matchScore": 55,
+          "evidence": "Auth and storage exposure in app integrations"
+        },
+        {
+          "skillName": "AWS",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Bonus",
+          "matchScore": 40,
+          "evidence": "General exposure and deployment familiarity"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Version control across all projects and team collaborations"
+        },
+        {
+          "skillName": "DevOps (Basic)",
+          "myProficiency": 55,
+          "jobRequirementLevel": "Exposure",
+          "matchScore": 55,
+          "evidence": "Docker, deployment workflows, automation exposure"
+        },
+        {
+          "skillName": "Frappe Framework",
+          "myProficiency": 30,
+          "jobRequirementLevel": "Exposure",
+          "matchScore": 30,
+          "evidence": "Awareness and learning exposure"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Production finance system with strict correctness and reporting requirements",
+          "matchScore": 90
+        },
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "End-to-end CRUD system with real users and reporting",
+          "matchScore": 85
+        },
+        {
+          "projectId": "rag-academic-helper",
+          "relevance": "Backend API design, PostgreSQL, Docker, automation",
+          "matchScore": 80
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Authentication, identity integration, MERN stack",
+          "matchScore": 80
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Healthcare SaaS with identity integration and ML logic",
+          "matchScore": 75
+        },
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Government-facing system with real-time functionality",
+          "matchScore": 75
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong practical and production-focused projects"
+      }
+    }
+  
 }
 
 
