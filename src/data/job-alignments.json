@@ -4709,8 +4709,163 @@
       }
     }
   
-}
+},
 
+
+"erp-odoo-140": {
+    "meta": {
+      "jobId": "erp-odoo-140",
+      "company": "",
+      "role": "Software Developer (ER)",
+      "source": "Job posting",
+      "dateAdded": "2026-02-11",
+      "jobDescription": "Senior role to design, build and maintain backend & frontend using Python and PHP, with ERP experience (Odoo desirable), payment integration, and server setup responsibilities."
+    },
+    "keyRequirements": [
+      "ERP project knowledge (3+ years preferred)",
+      "Clean, maintainable, well-tested code",
+      "Backend & frontend with Python & PHP",
+      "Odoo ERP customization experience",
+      "Payment integration experience",
+      "Server setup and configuration"
+    ],
+    "narrative": "Natinael is a systems-focused software engineer with production experience building finance and institutional systems that act like ERP modules. He delivered the St. Mary Finance Management System (finance + reporting + transaction integrity), and has built and operated other institutional systems like Wolaita Zone science Information technology system combining backend ownership, deployments, and integrations. While he has deep ERP domain knowledge from building finance workflows and organizational systems, his direct Odoo customization experience is limited; however, his strong backend skills and history of delivering ERP-like systems make him well-positioned to ramp into Odoo quickly and take senior responsibility for development and operations.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "ERP (domain knowledge)",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 88,
+          "evidence": "Designed and delivered St. Mary Finance Management System and institutional workflows in Fayda Smart Library, showing transaction, reporting and role-based controls."
+        },
+        {
+          "skillName": "Odoo ERP customization",
+          "myProficiency": 20,
+          "jobRequirementLevel": "Required (sufficient experience)",
+          "matchScore": 25,
+          "evidence": "No direct production Odoo customizations in portfolio; strong ERP domain knowledge but will require platform-specific ramp-up."
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 92,
+          "evidence": "FastAPI backends, RAG Academic Helper, MedHub Ethiopia ML services, and several production Python services."
+        },
+        {
+          "skillName": "PHP",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 72,
+          "evidence": "St. Mary Finance System originally built using PHP/JS in early delivery; hands-on experience with PHP backend work."
+        },
+        {
+          "skillName": "Payment Integration",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Implemented payment APIs and secure callback/reconciliation patterns in production systems; familiarity with TeleBirr/CBE-style integrations."
+        },
+        {
+          "skillName": "Server setup & configuration",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Required",
+          "matchScore": 78,
+          "evidence": "Managed deployments, Dockerized services, and server configuration for Railway/Supabase and VPS deployments."
+        },
+        {
+          "skillName": "Clean, testable code",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Required",
+          "matchScore": 88,
+          "evidence": "Delivered maintainable systems with API tests, schema design, and production bug fixes across multiple projects."
+        },
+        {
+          "skillName": "DevOps & Containerization (Docker)",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Desired",
+          "matchScore": 82,
+          "evidence": "Dockerized backends (RAG system, ML services) and used CI workflows for deployments."
+        },
+        {
+          "skillName": "Database design (PostgreSQL / MySQL)",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Required",
+          "matchScore": 90,
+          "evidence": "Design and optimization for finance and vector search (pgVector) in production."
+        },
+        {
+          "skillName": "System reliability & reconciliation",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Senior",
+          "matchScore": 92,
+          "evidence": "Finance and identity systems requiring transactional correctness, retry, and reconciliation logic."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Core ERP-like finance system: transactions, reporting, reconciliation, stakeholder management; directly relevant to ERP roles.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "Institutional system with inventory, role-based access, and reporting – demonstrates translating operational workflows into software.",
+          "matchScore": 88
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Secure identity verification and API integrations; relevant for payment and secure flows.",
+          "matchScore": 85
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "SaaS healthcare system combining backend services, identity integration, and ML pipelines — indicates system-level thinking.",
+          "matchScore": 82
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "founder-diguwa-soft",
+          "relevance": "End-to-end delivery and client deployments, owning requirements, design, and operations.",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "dev-elex-internship",
+          "relevance": "Team collaboration and real-world delivery experience in a remote/industry setting.",
+          "matchScore": 80
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Attention to correctness (finance)",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Ability to ramp on new platforms (Odoo)",
+            "myStrength": "Medium",
+            "jobRequirement": "High",
+            "matchScore": 70
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering and multiple production deployments across finance, identity, and institutional systems."
+      }
+    }
+  
+}
 
 
 
