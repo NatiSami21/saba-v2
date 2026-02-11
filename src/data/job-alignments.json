@@ -5004,6 +5004,75 @@
       }
     }
   
+},
+
+
+"ai-tutor-gelan-142": {
+    "meta": {
+      "jobId": "ai-tutor-gelan-142",
+      "company": "Private Client",
+      "role": "AI Tutor for High School Student",
+      "source": "Job Board",
+      "dateAdded": "2026-02-11",
+      "jobDescription": "Seeking disciplined AI tutor for structured one-on-one instruction for high school student in Gelan."
+    },
+    "keyRequirements": [
+      "Strong understanding of AI fundamentals",
+      "Basic programming knowledge",
+      "Prior tutoring experience",
+      "Ability to simplify complex topics",
+      "Monitor student progress",
+      "Professional and punctual"
+    ],
+    "narrative": "Natinael is a Software Engineering graduate and SaaS founder who has built multiple AI-integrated systems including Wa-Leba AI surveillance and MedHub ML-based healthcare platform. Beyond development, he has provided Grade 12 tutoring during semester breaks, focusing on problem-solving and responsible AI usage. His experience working with non-technical stakeholders demonstrates his ability to simplify complex systems into understandable concepts.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Python",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Used in ML systems and RAG backend with FastAPI"
+        },
+        {
+          "skillName": "Machine Learning",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Fundamentals",
+          "matchScore": 90,
+          "evidence": "Built ML-integrated systems like Wa-Leba and MedHub"
+        },
+        {
+          "skillName": "Communication",
+          "myProficiency": 90,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Tutored Grade 12 students and worked with non-technical stakeholders"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Founder building real-world digital solutions"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "wa-leba-ai",
+          "relevance": "Demonstrates applied AI knowledge",
+          "matchScore": 90
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "AI-driven healthcare guidance system",
+          "matchScore": 85
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
 }
 
 
