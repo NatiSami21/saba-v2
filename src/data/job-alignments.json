@@ -4527,10 +4527,189 @@
       }
     }
   
+},
+
+
+"mern-socket-expert-139": {
+    "meta": {
+      "jobId": "mern-socket-expert-139",
+      "company": "",
+      "role": "Full Stack Developer (MERN + Socket.io + Payment Integration)",
+      "source": "Telegram message",
+      "dateAdded": "2026-02-11",
+      "jobDescription": "Full Stack Developer role requiring MERN experience, Socket.io, Git, and proven payment integration (Tele Birr, CBE Birr). Role expects strong problem solving, independent work, and clear communication."
+    },
+    "keyRequirements": [
+      "Strong MERN stack experience (MongoDB, Express, React, Node.js)",
+      "Socket.io / real-time architecture",
+      "Version control with Git",
+      "Proven experience integrating payment systems (Tele Birr, CBE Birr or similar)",
+      "Ability to work independently and solve complex problems",
+      "Strong communication skills"
+    ],
+    "narrative": "Natinael is a practical full-stack engineer who combines MERN development with real-time and backend integrations. He has built production systems that required API integrations, real-time features, and data reliability. Notably, his projects (MyFayda eKYC, MedHub Ethiopia, WZSIT WebApp, Wa-Leba / Wa-Leba+) demonstrate the exact mix of MERN, Socket.io/WebRTC-style realtime patterns, and backend integration experience a hiring team is looking for. He previously reached the interview stage for this employer and, since then, has deepened his stack to include Python-based ML integration and stronger real-time/payment integration capabilities — making him a stronger fit now.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "React",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Primary frontend framework used across Fayda Smart Library, MyFayda eKYC, MedHub Ethiopia, and WZSIT WebApp."
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Backend services and API work in MERN systems including MyFayda eKYC, WZSIT WebApp, and payment integration endpoints."
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 88,
+          "evidence": "Used in MERN-based projects for flexible document stores and production deployments."
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 86,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 86,
+          "evidence": "API routing and middleware used in multiple MERN backends."
+        },
+        {
+          "skillName": "Socket.io",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Real-time features implemented in WZSIT WebApp and real-time communication patterns used in MedHub (WebRTC + socket coordination)."
+        },
+        {
+          "skillName": "WebRTC / Real-time (signaling + sockets)",
+          "myProficiency": 86,
+          "jobRequirementLevel": "Required",
+          "matchScore": 86,
+          "evidence": "MedHub Ethiopia uses WebRTC for doctor–patient sessions combined with socket-based signaling and real-time coordination in WZSIT."
+        },
+        {
+          "skillName": "Payment API Integration (Tele Birr, CBE Birr)",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Implemented secure backend integration patterns for payment flows and callbacks; experience integrating payment provider APIs and handling transaction confirmations and reconciliation logic."
+        },
+        {
+          "skillName": "Git & Version Control",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Required",
+          "matchScore": 95,
+          "evidence": "Used across all projects for versioning, branching and collaborative workflows."
+        },
+        {
+          "skillName": "API Design (REST)",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Designed robust REST APIs for MyFayda eKYC, MedHub Ethiopia, and other systems, including auth, webhooks, and integration endpoints."
+        },
+        {
+          "skillName": "Python (ML integration)",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Bonus",
+          "matchScore": 88,
+          "evidence": "MedHub Ethiopia and Wa-Leba+ use Python ML services integrated with MERN frontends; used for symptom inference and CV pipelines."
+        },
+        {
+          "skillName": "System Reliability & Error Handling",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Experience building finance and identity systems where correctness, retries, and reconciliation matter (St. Mary Finance System, MyFayda eKYC)."
+        },
+        {
+          "skillName": "Deployment & DevOps (Docker, basic CI)",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 82,
+          "evidence": "Services containerized with Docker, deployed using cloud services and Railway/Supabase for production demos; CI pipelines used for deployments."
+        },
+        {
+          "skillName": "Communication & Stakeholder Management",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Required",
+          "matchScore": 94,
+          "evidence": "Led requirements and delivery with non-technical stakeholders (St. Mary Finance System, institutional library deployments), explaining trade-offs and maintaining delivery under shifting requirements."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "MERN-based identity verification platform with secure authentication and API integrations — demonstrates secure backend work and production MERN deployment.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Healthcare SaaS integrating MERN frontend with Python ML services and WebRTC real-time communication, showing ability to combine MERN + Python ML + WebRTC.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Regional MERN system with real-time features and backend APIs — evidence of real-time architecture and Socket.io/WebRTC patterns.",
+          "matchScore": 88
+        },
+        {
+          "projectId": "wa-leba-plus",
+          "relevance": "AI surveillance SaaS (Python + CV) integrated as backend services; shows experience with production ML services and system reliability.",
+          "matchScore": 86
+        },
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Finance system demonstrating correctness, reporting, and stakeholder management — evidence of careful error handling and production reliability.",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "founder-diguwa-soft",
+          "relevance": "Founder & technical lead delivering multiple production systems, owning end-to-end delivery and integrations.",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "dev-elex-internship",
+          "relevance": "Remote frontend-backend collaboration and real-world delivery experience in a team setting.",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Autonomy",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication with non-technical stakeholders",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Problem-solving under pressure",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with production experience across MERN, Python ML, and SaaS deployments."
+      }
+    }
+  
 }
-
-
-
 
 
 
