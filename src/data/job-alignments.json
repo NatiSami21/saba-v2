@@ -4865,6 +4865,145 @@
       }
     }
   
+},
+
+
+"fullstack-qa-141": {
+    "meta": {
+      "jobId": "fullstack-qa-141",
+      "company": "Private Client",
+      "role": "Full Stack Developer & QA Engineer",
+      "source": "Job posting",
+      "dateAdded": "2026-02-11",
+      "jobDescription": "Full Stack Developer with QA focus: build scalable apps, implement testing and quality assurance, ensure reliability and monitor production systems, and communicate across teams."
+    },
+    "keyRequirements": [
+      "Full stack development",
+      "Quality-first engineering and testing practices",
+      "Production reliability and monitoring",
+      "Communication with cross-functional teams",
+      "CI/CD and containerization"
+    ],
+    "narrative": "Natinael is a production-focused full stack engineer who combines development with practical QA practices. His systems (St. Mary Finance, Fayda Smart Library, MyFayda eKYC, MedHub Ethiopia, RAG Academic Helper, Wa-Leba/Wa-Leba+) required correctness, reliability, and operational maintenance. He implemented unit and integration tests, CI checks, containerized deployments, monitoring, and hands-on incident triage. That combination of building and maintaining live systems gives him a quality-first mindset suitable for this role.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Full Stack Development (React / MERN / Python)",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Built and deployed Fayda Smart Library, MyFayda eKYC, MedHub Ethiopia, and WZSIT WebApp."
+        },
+        {
+          "skillName": "Testing (Unit & Integration)",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Required",
+          "matchScore": 78,
+          "evidence": "Implemented unit and integration tests for backend APIs and key flows; included test runs in CI pipelines for deployed projects."
+        },
+        {
+          "skillName": "CI/CD & Containerization (Docker)",
+          "myProficiency": 82,
+          "jobRequirementLevel": "Required",
+          "matchScore": 84,
+          "evidence": "Dockerized services (RAG system, ML services), used Git-driven CI pipelines for builds and deployments."
+        },
+        {
+          "skillName": "Monitoring & Production Reliability",
+          "myProficiency": 82,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Handled production incidents, performance tuning, reconciliation logic in finance and eKYC systems; implemented error handling and logging."
+        },
+        {
+          "skillName": "API Design & Integration Tests",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Designed robust REST APIs for MedHub, MyFayda, and Academic Helper; wrote integration tests and validated webhook/payment callbacks in staging."
+        },
+        {
+          "skillName": "Bug Triage & Incident Response",
+          "myProficiency": 86,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 88,
+          "evidence": "Led debugging and triage for production issues (finance reconciliation, identity callbacks), coordinating fixes and rollbacks when needed."
+        },
+        {
+          "skillName": "Communication",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Required",
+          "matchScore": 95,
+          "evidence": "Worked closely with non-technical stakeholders (church admins, regional offices) explaining trade-offs and gathering requirements under pressure."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "High-stakes finance system requiring correctness, reporting, reconciliation and careful QA; demonstrates rigorous handling of production-critical flows.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "Institutional system with inventory, role-based access and reporting; shows end-to-end delivery and testing needs.",
+          "matchScore": 88
+        },
+        {
+          "projectId": "rag-academic-helper",
+          "relevance": "Backend-heavy system with vector search and automation; requires stable API contracts and integration tests.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Identity and verification flows with security and correctness needs; demonstrates handling of sensitive data and webhook reliability.",
+          "matchScore": 88
+        },
+        {
+          "projectId": "wa-leba-plus",
+          "relevance": "SaaS system with real-time and ML components that need monitoring and robust error handling.",
+          "matchScore": 86
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "founder-diguwa-soft",
+          "relevance": "End-to-end product ownership, delivery, and maintenance across multiple production systems.",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "dev-elex-internship",
+          "relevance": "Collaborative engineering in a team setting; applied testing and deployment workflows.",
+          "matchScore": 80
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Quality-first mindset",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 98
+          },
+          {
+            "aspect": "Communication & cross-team collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Practical problem-solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with hands-on production systems and debugging/QA experience."
+      }
+    }
+  
 }
 
 
