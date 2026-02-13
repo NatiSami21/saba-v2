@@ -5241,6 +5241,85 @@
       }
     }
   
+},
+
+
+"erp-payroll-remote-144": {
+    "meta": {
+      "jobId": "erp-payroll-remote-144",
+      "company": "Private Client",
+      "role": "Remote Payroll / Case Resolution Analyst",
+      "source": "Job Posting",
+      "dateAdded": "2026-02-11",
+      "jobDescription": "Handle confidential payroll cases during North American shift. Maintain strict documentation, SLA accuracy, and data security."
+    },
+    "keyRequirements": [
+      "Confidential data handling",
+      "Systematic investigation of technical cases",
+      "Documentation quality",
+      "Independent night shift coverage",
+      "Ability to learn payroll systems quickly",
+      "Security discipline (VPN, no public WiFi)"
+    ],
+    "narrative": "Natinael built and maintained the St. Mary Finance Management System, a financial application handling sensitive accounting data and institutional records. The system required accuracy, reconciliation logic, documentation clarity, and direct collaboration with non-technical administrators. His experience working with confidential financial data and solving structured financial workflows aligns strongly with payroll case resolution responsibilities.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Financial Systems Understanding",
+          "myProficiency": 88,
+          "jobRequirementLevel": "High",
+          "matchScore": 92,
+          "evidence": "Designed and implemented St. Mary Finance System handling accounting workflows and sensitive financial records."
+        },
+        {
+          "skillName": "Confidential Data Handling",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Critical",
+          "matchScore": 95,
+          "evidence": "Worked with institutional financial data requiring accuracy and trust."
+        },
+        {
+          "skillName": "Structured Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Resolved financial logic inconsistencies, reconciliation cases, and user-reported issues."
+        },
+        {
+          "skillName": "Documentation & Reporting",
+          "myProficiency": 88,
+          "jobRequirementLevel": "High",
+          "matchScore": 90,
+          "evidence": "Maintained system documentation and clear communication with administrators."
+        },
+        {
+          "skillName": "Independent Work Discipline",
+          "myProficiency": 92,
+          "jobRequirementLevel": "High",
+          "matchScore": 94,
+          "evidence": "Managed SaaS projects independently and handled deadline pressure."
+        },
+        {
+          "skillName": "Night Shift Reliability",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Experienced working extended hours under pressure during production delivery."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Financial system with accounting workflows and institutional data requiring precision and trust.",
+          "matchScore": 96
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with financial system implementation experience."
+      }
+    }
+  
 }
 
 
