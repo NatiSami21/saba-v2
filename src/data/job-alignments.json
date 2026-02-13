@@ -5073,6 +5073,174 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+
+"pyspark-ml-143": {
+    "meta": {
+      "jobId": "pyspark-ml-143",
+      "company": "Private Client",
+      "role": "Python / PySpark Engineer with Machine Learning Experience",
+      "source": "Job posting",
+      "dateAdded": "2026-02-11",
+      "jobDescription": "Build scalable ETL pipelines with PySpark, implement and deploy ML models, monitor and tune Spark/ML pipelines, and contribute to the full ML lifecycle."
+    },
+    "keyRequirements": [
+      "3+ years Python + PySpark experience",
+      "Build/optimize large PySpark ETL pipelines",
+      "Implement & deploy ML models (training, evaluation, inference)",
+      "Experience with ML libs (scikit-learn, XGBoost, TensorFlow, PyTorch)",
+      "Spark MLlib & distributed training/inference",
+      "SQL skills; Parquet/JSON/Avro familiarity",
+      "Model tracking (Jupyter, MLflow) and validation strategies",
+      "Unit & integration tests; model validation",
+      "Monitoring & tuning Spark jobs and ML pipelines"
+    ],
+    "narrative": "Natinael is a production-oriented Python engineer with strong ML and model-serving experience. He has built and maintained machine-learning-backed services (Wa-Leba, Wa-Leba+, MedHub Ethiopia) and a RAG-based backend system with vector search and Dockerized model services. These projects demonstrate practical model implementation, inference endpoints, and operational responsibility. While his direct PySpark & Spark MLlib production experience is limited, his deep Python/ML background, pipeline engineering, Docker-based deployments, and model validation experience position him to ramp quickly into PySpark-heavy environments and support large-scale ETL and distributed model workflows.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Python",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Primary backend and ML language in Wa-Leba, MedHub, and RAG systems."
+        },
+        {
+          "skillName": "PySpark",
+          "myProficiency": 25,
+          "jobRequirementLevel": "Required",
+          "matchScore": 30,
+          "evidence": "Exposure-level: experienced in pipeline engineering and distributed inference patterns, but limited direct PySpark production work; quick ramp expected."
+        },
+        {
+          "skillName": "Machine Learning (TF/PyTorch/scikit-learn)",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 88,
+          "evidence": "CV models in Wa-Leba, custom ML in MedHub, model orchestration in RAG system."
+        },
+        {
+          "skillName": "Model Serving (FastAPI / Docker)",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Dockerized FastAPI model endpoints for RAG and MedHub inference services."
+        },
+        {
+          "skillName": "Spark MLlib / Distributed Training",
+          "myProficiency": 30,
+          "jobRequirementLevel": "Required",
+          "matchScore": 35,
+          "evidence": "Understanding of distributed inference and scaling; no strong production Spark MLlib history in memory."
+        },
+        {
+          "skillName": "SQL & Postgres / pgVector",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Required",
+          "matchScore": 92,
+          "evidence": "RAG system uses PostgreSQL + pgVector; finance and healthcare projects use relational models."
+        },
+        {
+          "skillName": "Parquet / Avro / JSON",
+          "myProficiency": 45,
+          "jobRequirementLevel": "Required",
+          "matchScore": 48,
+          "evidence": "Familiar with structured formats; direct experience with Parquet/Avro not strong in memory but learned quickly."
+        },
+        {
+          "skillName": "MLflow / model tracking",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Required",
+          "matchScore": 45,
+          "evidence": "Notebook-driven model dev and Dockerized serving; formal MLflow exposure limited but adoptable."
+        },
+        {
+          "skillName": "Unit & Integration Testing (ML & APIs)",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Required",
+          "matchScore": 82,
+          "evidence": "Tested API flows and model behaviors in RAG and MedHub; CI pipelines include tests before deployment."
+        },
+        {
+          "skillName": "Monitoring & Performance Tuning",
+          "myProficiency": 78,
+          "jobRequirementLevel": "Required",
+          "matchScore": 80,
+          "evidence": "Monitoring of inference services, logging, and tuning model-serving endpoints in production."
+        },
+        {
+          "skillName": "Containerization (Docker) & CI",
+          "myProficiency": 82,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 84,
+          "evidence": "Dockerized ML and API services, used CI for deployments of RAG and other projects."
+        },
+        {
+          "skillName": "Streaming (Kafka) & Cloud ML platforms",
+          "myProficiency": 30,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 35,
+          "evidence": "Exposure through real-time system design (WebRTC, socket signaling); limited Kafka/Databricks/SageMaker experience in memory."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "wa-leba-plus",
+          "relevance": "AI surveillance SaaS using Python and computer vision models; demonstrates real-time inference, model reliability, and production deployment.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Healthcare ML service integrating symptom inference models with backend APIs; demonstrates model serving and production responsibilities.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "rag-academic-helper",
+          "relevance": "RAG backend with FastAPI, Docker, PostgreSQL + pgVector; shows vector search, model orchestration and containerized deployments.",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "founder-diguwa-soft",
+          "relevance": "End-to-end product owner responsible for model implementation, deployment, and maintenance.",
+          "matchScore": 94
+        },
+        {
+          "experienceId": "dev-elex-internship",
+          "relevance": "Team-based delivery and collaboration, applying testing and deployment workflows.",
+          "matchScore": 80
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Rapid learning & adaptation",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Operational responsibility",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 94
+          },
+          {
+            "aspect": "Honest gap awareness (PySpark)",
+            "myStrength": "High (transparency)",
+            "jobRequirement": "Medium",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with ML and production system experience."
+      }
+    }
+  
 }
 
 
