@@ -5409,6 +5409,117 @@
       }
     }
   
+},
+
+
+"horan-fullstack-146": {
+    "meta": {
+      "jobId": "horan-fullstack-146",
+      "company": "Horan Technologies PLC",
+      "role": "Full-Stack Developer",
+      "source": "Job Posting",
+      "dateAdded": "2026-02-12",
+      "jobDescription": "React/Next.js frontend with Node.js and Django backend, microservices architecture, Docker, PostgreSQL, AWS hosting."
+    },
+    "keyRequirements": [
+      "Node.js experience",
+      "Python backend proficiency",
+      "Microservices (mandatory)",
+      "API development & async integrations",
+      "Docker (mandatory)",
+      "PostgreSQL",
+      "AWS hosting",
+      "Strong communication",
+      "React Native (nice to have)"
+    ],
+    "narrative": "Natinael is a production-oriented full-stack engineer with deep MERN and Python backend experience. He has delivered multiple SaaS and institutional systems including St. Mary Finance Management System, MyFayda eKYC, MedHub Ethiopia, and a RAG-based ML backend. His experience includes API architecture, containerized microservices-style deployment, PostgreSQL data modeling, and ML integration. He combines backend strength with frontend capability in React and React Native.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Required",
+          "matchScore": 92,
+          "evidence": "MERN-based systems including MyFayda eKYC and WZSIT."
+        },
+        {
+          "skillName": "Python Backend",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Required",
+          "matchScore": 94,
+          "evidence": "FastAPI backend for RAG system and ML integrations."
+        },
+        {
+          "skillName": "Microservices Architecture",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Mandatory",
+          "matchScore": 88,
+          "evidence": "Separated ML inference services, authentication modules, and backend APIs into containerized services."
+        },
+        {
+          "skillName": "API Development & Async Integrations",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Core",
+          "matchScore": 95,
+          "evidence": "JWT flows, Fayda ID integration, callback handling, ML inference endpoints."
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Mandatory",
+          "matchScore": 90,
+          "evidence": "Containerized backend and ML services for deployment consistency."
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Required",
+          "matchScore": 90,
+          "evidence": "Used PostgreSQL + pgVector in RAG system."
+        },
+        {
+          "skillName": "AWS / Cloud Hosting",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 65,
+          "evidence": "Cloud deployments and container-based hosting experience transferable to AWS."
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Nice to Have",
+          "matchScore": 90,
+          "evidence": "Developed Fayda Smart Library Management App."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Critical financial backend system demonstrating reliability and structured architecture.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Node.js-based identity verification and integration APIs.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Full-stack SaaS integrating ML with backend services.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "rag-academic-helper",
+          "relevance": "Microservice-style Python backend with Docker and PostgreSQL.",
+          "matchScore": 88
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering."
+      }
+    }
+  
 }
 
 
