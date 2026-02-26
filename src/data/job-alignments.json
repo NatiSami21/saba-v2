@@ -5320,8 +5320,96 @@
       }
     }
   
-}
+},
 
+
+"backend-dev-145": {
+    "meta": {
+      "jobId": "backend-dev-145",
+      "company": "Private Client",
+      "role": "Backend Developer",
+      "source": "Job Posting",
+      "dateAdded": "2026-02-12",
+      "jobDescription": "Design, build and maintain backend APIs and services with focus on performance, scalability and reliability."
+    },
+    "keyRequirements": [
+      "1–2 years professional backend experience",
+      "Strong JavaScript and Python",
+      "Production API development",
+      "Unit testing and integration testing",
+      "CI/CD familiarity",
+      "Independent debugging and delivery"
+    ],
+    "narrative": "Natinael is a production-oriented backend engineer who has built and deployed multiple real-world systems including St. Mary Finance Management System, MyFayda eKYC, MedHub Ethiopia, and a RAG-based backend system. His experience spans Node.js and Python-based API services, containerized deployments, debugging production issues, and implementing testing workflows. These projects demonstrate independent delivery, reliability-focused design, and practical backend engineering experience.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "JavaScript (Node.js)",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Backend APIs built for MyFayda eKYC, WZSIT WebApp, and MedHub."
+        },
+        {
+          "skillName": "Python (FastAPI)",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 94,
+          "evidence": "RAG Academic Helper and ML-based backend services."
+        },
+        {
+          "skillName": "REST API Design",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Core",
+          "matchScore": 95,
+          "evidence": "Designed authentication, reconciliation, ML inference, and reporting APIs."
+        },
+        {
+          "skillName": "Unit & Integration Testing",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Required",
+          "matchScore": 82,
+          "evidence": "Implemented unit tests for business logic and integration tests for API flows."
+        },
+        {
+          "skillName": "CI/CD & Deployment",
+          "myProficiency": 82,
+          "jobRequirementLevel": "Required",
+          "matchScore": 84,
+          "evidence": "Dockerized services and managed deployments using Git workflows and cloud hosting."
+        },
+        {
+          "skillName": "Production Debugging",
+          "myProficiency": 90,
+          "jobRequirementLevel": "High",
+          "matchScore": 92,
+          "evidence": "Resolved finance reconciliation bugs, authentication callbacks, and ML service issues."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Financial backend system requiring reliability and structured logic.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Authentication and identity verification backend with JWT and callback handling.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "rag-academic-helper",
+          "relevance": "Python-based backend using FastAPI and PostgreSQL + pgVector.",
+          "matchScore": 90
+        }
+      ],
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with production system experience."
+      }
+    }
+  
+}
 
 
 
