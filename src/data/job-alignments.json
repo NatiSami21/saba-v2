@@ -5520,9 +5520,129 @@
       }
     }
   
+},
+
+
+
+"ai-fullstack-147": {
+    "meta": {
+      "jobId": "ai-fullstack-147",
+      "company": "Private Client",
+      "role": "Full Stack TypeScript Developer (AI Native Development)",
+      "source": "Local Job Board",
+      "dateAdded": "2026-03-02",
+      "jobDescription": "Full job description provided by employer."
+    },
+    "keyRequirements": [
+      "Strong TypeScript experience",
+      "Full-stack application development",
+      "React / Next.js frontend",
+      "Node.js backend",
+      "AI-assisted development workflow",
+      "Startup adaptability",
+      "Cloud deployment",
+      "Database experience",
+      "Architecture participation",
+      "Strong English communication"
+    ],
+    "narrative": "Natinael Samuel is an AI-native full-stack engineer with production experience in TypeScript, MERN stack, AI systems, and startup product development. As the founder of MedHub Ethiopia and developer of multiple AI-driven systems including Saba AI Job-Match Assistant and a RAG-based academic backend, he has demonstrated the ability to integrate AI as a force multiplier rather than a dependency. His experience spans scalable backend API design, PostgreSQL with vector databases, Dockerized AI systems, cloud deployment, and real-world stakeholder management under high-pressure startup conditions.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Used in Next.js projects and full-stack production systems."
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Frontend development across MERN, MedHub, MyFayda."
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 85,
+          "evidence": "Used in SaaS architectures and startup builds."
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Backend APIs for MyFayda, WZSIT, production MERN systems."
+        },
+        {
+          "skillName": "AI Systems Engineering",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 100,
+          "evidence": "Built Saba AI assistant, RAG backend, ML-based MedHub routing."
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 85,
+          "evidence": "Used pgVector in RAG backend."
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 88,
+          "evidence": "Containerized AI backend services."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "rag-assignment-helper",
+          "relevance": "AI-native backend using PostgreSQL, Docker, APIs",
+          "matchScore": 95
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "AI + ML in real-world healthcare SaaS",
+          "matchScore": 95
+        },
+        {
+          "projectId": "saba-ai",
+          "relevance": "AI-assisted job alignment engine with structured evaluation",
+          "matchScore": 100
+        },
+        {
+          "projectId": "wa-leba-plus",
+          "relevance": "Production AI SaaS with monitoring architecture",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Startup Adaptability",
+            "myStrength": "Very High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "AI Curiosity",
+            "myStrength": "Very High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong AI and full-stack foundation."
+      }
+    }
+  
 }
-
-
 
 
 }
