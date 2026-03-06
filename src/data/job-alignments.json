@@ -5641,6 +5641,126 @@
         "evidence": "BSc in Software Engineering with strong AI and full-stack foundation."
       }
     }
+},
+
+"orbit-health-senior-fullstack-148": {
+    "meta": {
+      "jobId": "orbit-health-senior-fullstack-140",
+      "company": "EHEALTH IT SERVICES PLC (Orbit Health)",
+      "role": "Senior Full Stack Engineer",
+      "source": "orbithealth.co / job board",
+      "dateAdded": "2026-03-06",
+      "jobDescription": "Senior Full Stack Engineer responsible for designing scalable web and mobile systems, architecture leadership, API development, integration of services, DevOps collaboration, and mentoring developers."
+    },
+    "keyRequirements": [
+      "Design scalable full stack systems",
+      "Develop frontend and backend using modern frameworks",
+      "Build APIs and database models",
+      "Implement authentication and security best practices",
+      "Integrate multiple services and microservices",
+      "Collaborate with DevOps and maintain CI/CD workflows",
+      "Optimize system performance and scalability",
+      "Work with product managers and cross-functional teams",
+      "Provide technical leadership and mentoring",
+      "Maintain documentation and engineering standards"
+    ],
+    "narrative": "Natinael Samuel aligns with Orbit Health’s digital health mission through his work building real-world full stack systems and healthcare-focused platforms. His project MedHub Ethiopia explores AI-supported healthcare access and EHR concepts integrated with digital identity systems, directly aligning with Orbit Health’s focus on digital health platforms and patient-centered care systems. Through multiple deployed systems including MyFayda eKYC, WZSIT WebApp, and the St. Mary Finance Management System, Natinael has demonstrated the ability to architect and deliver full-stack applications, build APIs, integrate external systems, and work with real organizational stakeholders. His experience with AI systems, backend architecture using Python and FastAPI, and MERN-stack production systems positions him as a strong candidate capable of contributing to Orbit Health’s mission of transforming healthcare delivery through technology."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "MERN stack systems including MyFayda eKYC and WZSIT"
+        },
+        {
+          "skillName": "React",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 88,
+          "evidence": "Frontend development for multiple SaaS and institutional applications"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Backend services for MERN applications including authentication and APIs"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 80,
+          "evidence": "FastAPI backend for RAG Academic Assignment Helper"
+        },
+        {
+          "skillName": "API Development",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "REST APIs designed for MyFayda eKYC and AI backend systems"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 75,
+          "evidence": "Containerized backend services for RAG project"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Healthcare SaaS integrating EHR concepts and AI-based patient guidance",
+          "matchScore": 90
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Identity verification system with API integrations and authentication architecture",
+          "matchScore": 85
+        },
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Real-time MERN system deployed for a regional government office",
+          "matchScore": 85
+        },
+        {
+          "projectId": "st-mary-finance-system",
+          "relevance": "Production finance system demonstrating reliability and stakeholder collaboration",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "diguwa-soft-founder",
+          "relevance": "Led development of multiple production systems and SaaS products",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with experience in distributed systems and machine learning"
+      }
+    }
   
 }
 
