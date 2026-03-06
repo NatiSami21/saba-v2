@@ -5885,8 +5885,307 @@
         "evidence": "Bachelor's degree in Software Engineering with strong academic background and applied software projects."
       }
     }
-  
+},
+
+"mela-pay-150": {
+    "meta": {
+      "jobId": "mela-pay-150",
+      "company": "Mela Pay P.L.C",
+      "role": "Full Stack Developer",
+      "source": "Job board",
+      "dateAdded": "2026-03-06",
+      "jobDescription": "Full Stack Developer role requiring Node.js, React.js, Flutter, MongoDB/MySQL, API development, and experience with authentication, security, and payment systems."
+    },
+    "keyRequirements": [
+      "Strong experience with Node.js",
+      "Solid experience with React.js",
+      "Experience with Flutter",
+      "Database experience with MySQL and MongoDB",
+      "Strong understanding of API development and integration",
+      "Understanding authentication and security",
+      "Fintech or payment systems experience",
+      "Collaboration and system design participation"
+    ],
+    "narrative": "Natinael Samuel aligns strongly with this role through his experience building real-world full-stack platforms using the MERN stack. His work on MyFayda eKYC directly relates to identity verification systems and authentication infrastructure, which is highly relevant for fintech platforms. Additionally, his WZSIT WebApp and St. Mary Finance Management System demonstrate experience building scalable backend APIs and operational systems used by real organizations. His React Native work on Fayda Smart Library Management also shows cross-platform application experience relevant to mobile development environments like Flutter. Through these projects, Natinael has gained practical experience in API architecture, system integration, authentication flows, and stakeholder-driven development."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Backend development for MyFayda eKYC and WZSIT WebApp using MERN stack"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 92,
+          "evidence": "Frontend development in MERN systems including WZSIT WebApp and identity platforms"
+        },
+        {
+          "skillName": "Flutter",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 35,
+          "evidence": "Mobile development experience through React Native on Fayda Smart Library Management"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Primary database in MERN systems including MyFayda eKYC and WZSIT WebApp"
+        },
+        {
+          "skillName": "MySQL",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 70,
+          "evidence": "SQL-based data modeling experience in enterprise systems"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 92,
+          "evidence": "API architecture across RAG Academic Helper backend and MERN platforms"
+        },
+        {
+          "skillName": "Authentication & Security",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Identity verification flows implemented in MyFayda eKYC and system authentication layers"
+        },
+        {
+          "skillName": "Payment Systems",
+          "myProficiency": 45,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 40,
+          "evidence": "Financial workflow management implemented in St. Mary Finance Management System"
+        },
+        {
+          "skillName": "WSO2 Identity Server",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Optional",
+          "matchScore": 10,
+          "evidence": "No direct experience yet, but strong familiarity with identity architecture through eKYC system"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-myfayda-ekyc",
+          "relevance": "Identity verification and authentication infrastructure similar to fintech identity systems",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-wzsit-webapp",
+          "relevance": "Full-stack MERN platform with real-time support system and API integrations",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-stmary-finance-system",
+          "relevance": "Financial operational platform demonstrating fintech-adjacent system design",
+          "matchScore": 88
+        },
+        {
+          "projectId": "project-fayda-library",
+          "relevance": "Mobile system development demonstrating cross-platform engineering ability",
+          "matchScore": 80
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-founder-diguwa",
+          "relevance": "End-to-end system development, architecture decisions, and stakeholder collaboration",
+          "matchScore": 90
+        },
+        {
+          "experienceId": "exp-wzsit-collaboration",
+          "relevance": "Working with institutional partners and building scalable government-facing systems",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Teamwork",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Leadership",
+            "myStrength": "High",
+            "jobRequirement": "Medium",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with full-stack development specialization"
+      }
+    }
 }
+
+"bright-technotonic-151": {
+    "meta": {
+      "jobId": "bright-technotonic-151",
+      "company": "Bright Techno Tonic plc",
+      "role": "Backend Developer (Node.js / NestJS / PostgreSQL)",
+      "source": "Job board",
+      "dateAdded": "2026-03-06",
+      "jobDescription": "Backend developer role focused on building production APIs using Node.js, TypeScript, NestJS, PostgreSQL and Prisma. Responsibilities include authentication systems, API design, database modeling, performance optimization, media processing and scalable backend architecture."
+    },
+    "keyRequirements": [
+      "Strong experience with Node.js",
+      "Strong TypeScript development",
+      "Experience building REST APIs",
+      "Backend architecture and scalability",
+      "Authentication and JWT flows",
+      "PostgreSQL database design",
+      "Prisma ORM",
+      "File uploads and media processing",
+      "Docker-based development",
+      "Writing tests using Jest",
+      "Clean architecture and documentation",
+      "Performance optimization"
+    ],
+    "narrative": "Natinael Samuel aligns strongly with this backend engineering role through multiple real-world backend systems he has designed and implemented. His work on the RAG-Based Academic Assignment Helper required building scalable APIs using Python and FastAPI integrated with PostgreSQL and pgVector, demonstrating experience with relational database design, API architecture, and production backend services. Additionally, his MERN-based systems such as MyFayda eKYC and the WZSIT WebApp required building secure authentication flows, REST APIs, and backend services handling real users and institutional stakeholders. Through these projects he gained strong experience designing APIs, structuring backend systems, integrating external services, and deploying production-ready applications. His experience building end-to-end platforms as a founder and lead developer also demonstrates strong ownership mindset and ability to maintain clean architecture and scalable backend systems."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 92,
+          "evidence": "Backend architecture in MERN platforms including MyFayda eKYC and WZSIT WebApp"
+        },
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "TypeScript usage in modern web stacks and production web applications"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 93,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 93,
+          "evidence": "Designed APIs for RAG Academic Backend and MERN full-stack systems"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "PostgreSQL and pgVector usage in AI backend system"
+        },
+        {
+          "skillName": "Prisma ORM",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 35,
+          "evidence": "ORM experience through MongoDB ODM patterns and SQL data modeling"
+        },
+        {
+          "skillName": "Authentication Systems",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Authentication flows implemented in MyFayda eKYC and system access layers"
+        },
+        {
+          "skillName": "Database Architecture",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Database modeling across MERN platforms and PostgreSQL AI backend"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 75,
+          "evidence": "Containerization used in RAG academic backend architecture"
+        },
+        {
+          "skillName": "Testing (Jest)",
+          "myProficiency": 55,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 50,
+          "evidence": "Testing knowledge with API validation and backend debugging"
+        },
+        {
+          "skillName": "Media Processing",
+          "myProficiency": 35,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 30,
+          "evidence": "Experience handling file uploads and backend processing pipelines"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-academic-rag-helper",
+          "relevance": "Production backend with API design, PostgreSQL vector database and scalable architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-myfayda-ekyc",
+          "relevance": "Identity verification backend with authentication flows and API integrations",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-wzsit-webapp",
+          "relevance": "Full-stack MERN platform with real-time communication and backend services",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-stmary-finance-system",
+          "relevance": "Operational system requiring database integrity and backend logic for financial workflows",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-founder-diguwa",
+          "relevance": "Responsible for designing and maintaining backend architecture across multiple products",
+          "matchScore": 92
+        },
+        {
+          "experienceId": "exp-ai-mentor",
+          "relevance": "Mentoring engineers on backend AI systems and development workflows",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with backend and distributed systems training"
+      }
+    }
+}
+  
 
 
 }
