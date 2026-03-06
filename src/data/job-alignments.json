@@ -5645,7 +5645,7 @@
 
 "orbit-health-senior-fullstack-148": {
     "meta": {
-      "jobId": "orbit-health-senior-fullstack-140",
+      "jobId": "orbit-health-senior-fullstack-148",
       "company": "EHEALTH IT SERVICES PLC (Orbit Health)",
       "role": "Senior Full Stack Engineer",
       "source": "orbithealth.co / job board",
@@ -5759,6 +5759,130 @@
       "educationFit": {
         "relevant": true,
         "evidence": "BSc in Software Engineering with experience in distributed systems and machine learning"
+      }
+    }
+},
+
+"backend-engineer-149": {
+    "meta": {
+      "jobId": "backend-engineer-149",
+      "company": "Private Client",
+      "role": "Backend Engineer",
+      "source": "Job Board",
+      "dateAdded": "2026-03-06",
+      "jobDescription": "We’re looking for a Backend Developer who is good at problem-solving (LeetCode) to contribute to and improve a legacy codebase. You should be a fast learner, comfortable with understanding existing systems, and able to work closely with the team. Skills include Node.js, Python, Spring Boot, Java, and strong problem-solving ability."
+    },
+    "keyRequirements": [
+      "Backend development experience",
+      "Node.js backend development",
+      "Python backend development",
+      "Java backend development",
+      "Spring Boot familiarity",
+      "Strong problem solving (LeetCode)",
+      "Ability to understand legacy systems",
+      "Fast learner",
+      "Team collaboration",
+      "Ability to refactor and improve existing codebases"
+    ],
+    "narrative": "Natinael Samuel is a strong match for the Backend Engineer role due to his hands-on experience building full-stack and backend systems across multiple real-world projects. His work includes building MERN-based systems such as the WZSIT WebApp and MyFayda eKYC platform, developing backend APIs for financial management systems like the St. Mary Finance System, and designing healthcare platforms such as MedHub Ethiopia. These projects required backend architecture design, API development, database integration, and working with real stakeholders. Additionally, his experience across Node.js and Python-based systems, combined with strong debugging and problem-solving skills gained from building production applications, positions him well to understand and improve legacy backend systems."
+,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Used extensively in MERN stack systems including WZSIT WebApp and MyFayda eKYC backend APIs."
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 80,
+          "evidence": "Used in machine learning and system logic in projects such as Wa-Leba+ AI surveillance and MedHub Ethiopia ML exploration."
+        },
+        {
+          "skillName": "Java",
+          "myProficiency": 65,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 65,
+          "evidence": "Experience with Java in academic and application development contexts including Android-based systems."
+        },
+        {
+          "skillName": "Spring Boot",
+          "myProficiency": 30,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 30,
+          "evidence": "Limited direct experience but familiar with Java backend architecture concepts and able to learn quickly."
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Demonstrated through building multiple production systems requiring system design, debugging, and algorithmic thinking."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "WZSIT WebApp required backend API design, authentication systems, and database integration using Node.js.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "St. Mary Finance System involved backend logic for financial records, reporting, and multi-user access.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-7",
+          "relevance": "MyFayda eKYC involved identity verification workflows and backend integration concepts similar to real infrastructure systems.",
+          "matchScore": 88
+        },
+        {
+          "projectId": "project-8",
+          "relevance": "MedHub Ethiopia explored healthcare platform architecture and backend integration for health services.",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-dev-elex-internship",
+          "relevance": "Frontend engineering internship exposed Natinael to production workflows, collaboration with developers, and understanding large codebases.",
+          "matchScore": 75
+        },
+        {
+          "experienceId": "exp-diguwa-founder",
+          "relevance": "Founder of DiguwaSoft building multiple systems required end-to-end system architecture and iterative improvement of software systems.",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Learning Speed",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "Bachelor's degree in Software Engineering with strong academic background and applied software projects."
       }
     }
   
