@@ -6184,8 +6184,137 @@
         "evidence": "BSc in Software Engineering with backend and distributed systems training"
       }
     }
-}
-  
+},
 
+"bekur-fullstack-152": {
+    "meta": {
+      "jobId": "bekur-fullstack-152",
+      "company": "Bekur Technologies PLC",
+      "role": "Senior Full-Stack Developer",
+      "source": "Job board",
+      "dateAdded": "2026-03-13",
+      "jobDescription": "Senior full-stack developer role focusing on React, Next.js, NestJS, Node.js, TypeScript, API architecture, and scalable web systems."
+    },
+    "keyRequirements": [
+      "React.js and Next.js frontend development",
+      "Backend development with NestJS / Node.js",
+      "TypeScript development",
+      "REST API architecture",
+      "Database design with SQL or NoSQL",
+      "Authentication and API integrations",
+      "Performance optimization and scalability",
+      "Clean architecture and best coding practices",
+      "Git and Docker workflows",
+      "Full-stack system ownership"
+    ],
+    "narrative": "Natinael Samuel demonstrates strong alignment with this role through multiple real-world full-stack systems he designed and built independently. His projects include MedHub Ethiopia, MyFayda eKYC, WZSIT WebApp, and Fayda Smart Library Management. These systems required backend API design, authentication flows, database modeling, and frontend interfaces using modern JavaScript technologies. Additionally, his RAG-based Academic Assignment Helper demonstrates backend architecture skills using Python, FastAPI, PostgreSQL, and Docker. His experience delivering real production systems and solving real operational problems reflects the engineering ownership and system design capability required for this position."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Backend systems in MedHub Ethiopia, MyFayda eKYC, and WZSIT."
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Frontend systems across multiple SaaS platforms."
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 75,
+          "evidence": "Current internship project using Next.js and TypeScript."
+        },
+        {
+          "skillName": "REST API Design",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 95,
+          "evidence": "API development in MyFayda eKYC and MedHub."
+        },
+        {
+          "skillName": "Database Systems",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "MongoDB, Supabase, PostgreSQL used across projects."
+        },
+        {
+          "skillName": "Authentication Systems",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 95,
+          "evidence": "OAuth-style identity integration with Fayda National ID."
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 75,
+          "evidence": "Containerization in Academic Assignment Helper."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Identity verification platform implementing OAuth-style login and API architecture.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Healthcare SaaS integrating authentication, ML symptom guidance, and API services.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "wzsit-webapp",
+          "relevance": "Real-time MERN stack application delivering remote technical support services.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "academic-assignment-helper",
+          "relevance": "Backend system using FastAPI, PostgreSQL, Docker, and vector search.",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "frontend-internship-dev-elex",
+          "relevance": "Working with Next.js, TypeScript, and modern frontend architecture.",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with multiple deployed systems."
+      }
+    }
+  
+}
+
+
+  
 
 }
