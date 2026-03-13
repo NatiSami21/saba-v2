@@ -6312,8 +6312,107 @@
       }
     }
   
-}
+},
 
+"rama-tech-153": {
+    "meta": {
+      "jobId": "rama-tech-153",
+      "company": "RAMA Technologies PLC",
+      "role": "Junior Software Developer",
+      "source": "Job board",
+      "dateAdded": "2026-03-13",
+      "jobDescription": "Junior developer role focused on bug fixing, testing features, supporting API integrations, and assisting senior developers in a startup engineering environment."
+    },
+    "keyRequirements": [
+      "JavaScript / TypeScript knowledge",
+      "React Native or Flutter exposure",
+      "Backend exposure with Node.js / PHP / Python",
+      "REST API understanding",
+      "Git version control",
+      "Basic database knowledge",
+      "Bug fixing and feature testing",
+      "Startup team collaboration"
+    ],
+    "narrative": "Natinael Samuel aligns strongly with this role as a fresh Software Engineering graduate (June 2025) with hands-on experience building multiple real-world platforms. Through projects such as MyFayda eKYC, MedHub Ethiopia, WZSIT WebApp, and Fayda Smart Library Management, he gained practical experience in debugging systems, testing APIs, implementing backend services, and delivering production-ready applications. His work spans mobile development with React Native, backend development with Node.js and Python, and database management with MongoDB and PostgreSQL. This practical engineering experience makes him well suited for a startup environment where junior developers are expected to learn quickly, troubleshoot issues, and support feature development."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Used extensively across full-stack systems."
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 90,
+          "evidence": "Developed Fayda Smart Library Management mobile app."
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Backend Exposure",
+          "matchScore": 95,
+          "evidence": "Built APIs for MyFayda and MedHub platforms."
+        },
+        {
+          "skillName": "REST API Design",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "API architecture across multiple SaaS platforms."
+        },
+        {
+          "skillName": "Database Systems",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Basic SQL/DB knowledge",
+          "matchScore": 90,
+          "evidence": "MongoDB, Supabase, PostgreSQL across projects."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "Mobile app development using React Native.",
+          "matchScore": 92
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Backend API integration and authentication systems.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "medhub-ethiopia",
+          "relevance": "Full-stack platform integrating APIs and ML.",
+          "matchScore": 88
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Fast Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Startup Mindset",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc Software Engineering graduate (June 2025)."
+      }
+    }
+  
+}
 
   
 
