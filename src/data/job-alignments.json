@@ -6500,6 +6500,143 @@
       }
     }
   
+},
+
+"perago-154": {
+    "meta": {
+      "jobId": "perago-154",
+      "company": "Perago Information Systems Plc",
+      "role": "Junior Backend Software Engineer",
+      "source": "Employer job description",
+      "dateAdded": "2026-03-14",
+      "jobDescription": "Backend engineer responsible for developing APIs, implementing business logic, database integration, and supporting scalable government procurement systems."
+    },
+    "keyRequirements": [
+      "Develop backend services and APIs",
+      "Implement business logic and database interactions",
+      "Integrate frontend systems with backend APIs",
+      "Write maintainable server-side code",
+      "Troubleshoot and optimize application performance",
+      "Use Git and participate in development workflows",
+      "Maintain technical documentation",
+      "Knowledge of Node.js, .NET or NestJS",
+      "Experience with SQL or NoSQL databases",
+      "Familiarity with RESTful API architecture",
+      "Problem-solving and teamwork skills"
+    ],
+    "narrative": "Natinael Samuel demonstrates strong alignment with the Junior Backend Software Engineer role at Perago Information Systems through extensive hands-on backend development experience across real-world systems including financial management platforms, AI-powered systems, and mobile-backed application infrastructures. His projects show practical expertise in API design, business logic implementation, and database architecture using Node.js, MongoDB, SQL, and Supabase. Through systems such as Fayda Smart Library Management and St. Mary Finance Management System, he has designed and implemented scalable backend logic, integrated mobile and web frontends with APIs, and managed production-level data workflows. His work across multiple full-stack projects also demonstrates strong debugging ability, system design thinking, and documentation discipline."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js Backend Development",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Backend API development across multiple MERN projects including library systems and finance platforms"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Implemented authentication, transaction, and resource APIs in several projects"
+        },
+        {
+          "skillName": "Database Systems (MongoDB / SQL)",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Designed database schemas for financial transactions, library inventory systems, and academic platforms"
+        },
+        {
+          "skillName": "Backend Architecture",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 88,
+          "evidence": "Built scalable backend architectures connecting mobile apps and web dashboards"
+        },
+        {
+          "skillName": "Git Version Control",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Required",
+          "matchScore": 90,
+          "evidence": "Used GitHub workflows across all development projects"
+        },
+        {
+          "skillName": "API Integration",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Required",
+          "matchScore": 90,
+          "evidence": "Integrated MyFayda eKYC verification APIs into backend systems"
+        },
+        {
+          "skillName": "Performance Debugging",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Optimized data retrieval and backend workflows in multiple applications"
+        },
+        {
+          "skillName": "Docker / Containerization",
+          "myProficiency": 35,
+          "jobRequirementLevel": "Optional",
+          "matchScore": 35,
+          "evidence": "Basic exposure during deployment experimentation"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-9",
+          "relevance": "Backend APIs and system logic powering mobile library management platform",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-stmary-finance",
+          "relevance": "Backend transaction processing and financial reporting system",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-wzsit",
+          "relevance": "Full-stack platform connecting government support services",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "dev-elex-frontend-intern",
+          "relevance": "Collaborating with backend services and API integrations",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong backend development focus"
+      }
+    }
+  
 }
 
   
