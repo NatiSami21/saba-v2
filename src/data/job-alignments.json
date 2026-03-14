@@ -6412,6 +6412,95 @@
       }
     }
   
+},
+
+{
+  "menged-android-154": {
+    "meta": {
+      "jobId": "menged-android-154",
+      "company": "Menged",
+      "role": "Android Developer",
+      "source": "Job board",
+      "dateAdded": "2026-03-14",
+      "jobDescription": "Android developer responsible for designing, building, maintaining, and integrating mobile applications with backend APIs."
+    },
+    "keyRequirements": [
+      "Android / mobile application development",
+      "API integration",
+      "Application debugging and testing",
+      "Clean and maintainable code",
+      "Collaboration with developers",
+      "Problem-solving ability"
+    ],
+    "narrative": "Natinael Samuel is a Software Engineering graduate (June 2025) with hands-on experience building real-world mobile applications. His Fayda Smart Library Management System demonstrates strong mobile application development skills using React Native, including API integration, user workflow design, and mobile interface optimization. Through this project, he gained experience debugging mobile applications, integrating backend APIs, and designing scalable mobile solutions for institutional users. This practical mobile development experience aligns well with the Android Developer role at Menged, where building reliable and user-friendly mobile applications is a key focus."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Used extensively in React Native mobile development."
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Mobile development",
+          "matchScore": 90,
+          "evidence": "Developed Fayda Smart Library Management mobile application."
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 90,
+          "jobRequirementLevel": "API integration",
+          "matchScore": 95,
+          "evidence": "Integrated mobile applications with backend systems."
+        },
+        {
+          "skillName": "Mobile Application Debugging",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Problem solving",
+          "matchScore": 88,
+          "evidence": "Resolved UI, API, and performance issues during development."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "fayda-smart-library",
+          "relevance": "Full mobile application development including API integration and library automation features.",
+          "matchScore": 92
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "full-stack-project-development",
+          "relevance": "Built real-world software systems including mobile and web applications.",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc Software Engineering graduate (June 2025)."
+      }
+    }
+  
 }
 
   
