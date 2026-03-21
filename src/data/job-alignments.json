@@ -6704,9 +6704,9 @@
         },
         {
           "skillName": "PHP / Laravel",
-          "myProficiency": 40,
+          "myProficiency": 70,
           "jobRequirementLevel": "Intermediate",
-          "matchScore": 40,
+          "matchScore": 60,
           "evidence": "Basic exposure, not core stack"
         }
       ],
