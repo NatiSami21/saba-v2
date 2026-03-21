@@ -6755,8 +6755,136 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+
+"Yegna-156": {
+    "meta": {
+      "jobId": "Yegna-156",
+      "company": "Yegna Trading",
+      "role": "Software Engineer",
+      "source": "Local Job Board",
+      "dateAdded": "2026-03-21",
+      "jobDescription": "Senior full stack role requiring frontend, backend, API design, database management, security, and scalable system architecture."
+    },
+    "keyRequirements": [
+      "Frontend development using React, vue or JS frameworks",
+      "Backend development using Node.js, PHP, or Python",
+      "REST API development",
+      "Database management (SQL/NoSQL)",
+      "System architecture and scalability",
+      "Security implementation",
+      "Testing and debugging",
+      "Performance optimization"
+    ],
+    "narrative": "Natinael demonstrates strong full stack capability through multiple real-world systems where he designed APIs, backend architectures, and frontend interfaces. His experience building scalable SaaS platforms and ERP-like systems aligns closely with the requirements of this role, especially in API design, database handling, and system architecture.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Used in MyFayda eKYC, WZSIT, MedHub Ethiopia"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 88,
+          "evidence": "Frontend development across MERN systems"
+        },
+        {
+          "skillName": "API Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 92,
+          "evidence": "Designed REST APIs in multiple production systems"
+        },
+        {
+          "skillName": "Database Management",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Worked with MongoDB, PostgreSQL, pgVector"
+        },
+        {
+          "skillName": "System Design",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 80,
+          "evidence": "Designed architectures for finance system and SaaS platforms"
+        },
+        {
+          "skillName": "vue",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 30,
+          "evidence": ""
+        },
+        {
+          "skillName": "PHP / Laravel",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 50,
+          "evidence": "Basic exposure, not core stack"
+        },
+        {
+          "skillName": "cloud platforms",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 60,
+          "evidence": "Basic exposure, not core stack"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "MyFayda shows API design, authentication, backend architecture",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "MedHub demonstrates full-stack system design with ML integration",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "St. Mary Finance system shows real-world architecture and scalability challenges",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "startup-founder",
+          "relevance": "Led full lifecycle development and stakeholder-driven systems",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
   
 }
+  
 
   
 
