@@ -6915,13 +6915,6 @@
           "evidence": "Used in MyFayda, WZSIT, MedHub for backend services and APIs"
         },
         {
-          "skillName": "React Native",
-          "myProficiency": 88,
-          "jobRequirementLevel": "Intermediate",
-          "matchScore": 80,
-          "evidence": "Built full offline-capable library management system"
-        },
-        {
           "skillName": "Flutter",
           "myProficiency": 40,
           "jobRequirementLevel": "Advanced",
