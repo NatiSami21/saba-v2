@@ -6882,10 +6882,122 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+  
+{
+  "zainx-157": {
+    "meta": {
+      "jobId": "zainx-157",
+      "company": "Zainx Technology PLC",
+      "role": "Full Stack Developer (ERP & POS)",
+      "source": "Local Job Board",
+      "dateAdded": "2026-03-21",
+      "jobDescription": "ERP & POS full-stack developer role requiring Flutter, backend systems, offline-first capability, and real business workflow implementation."
+    },
+    "keyRequirements": [
+      "Flutter development for mobile and web",
+      "Backend development using Node.js, NestJS, or Laravel",
+      "ERP/POS system development (inventory, sales, invoicing)",
+      "REST API development and authentication",
+      "Database experience (MongoDB or similar)",
+      "Offline-first system design",
+      "Version control (Git) and Agile workflow",
+      "Debugging and performance optimization",
+      "Technical documentation"
+    ],
+    "narrative": "Natinael demonstrates strong alignment with this role through his real-world experience building ERP-like systems and offline-first applications. His St. Mary Finance Management System directly reflects ERP-level complexity, while his Fayda Smart Library system showcases offline-first design principles. Although his primary mobile development experience is in React Native rather than Flutter, his deep understanding of cross-platform architecture and backend systems positions him to quickly adapt and contribute effectively.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Used in MyFayda, WZSIT, MedHub for backend services and APIs"
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "Built full offline-capable library management system"
+        },
+        {
+          "skillName": "Flutter",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 40,
+          "evidence": "No production project, but strong transferable cross-platform knowledge"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 92,
+          "evidence": "Designed APIs across multiple production systems"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Used in MERN-based systems"
+        },
+        {
+          "skillName": "System Design",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Designed ERP-like and SaaS systems"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "St. Mary Finance System demonstrates ERP-level workflows and financial logic",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-6",
+          "relevance": "Fayda Smart Library demonstrates offline-first application design",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "MyFayda shows API design, authentication, and SaaS architecture",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "startup-founder",
+          "relevance": "Led end-to-end development of business-critical systems",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
   
 }
-  
-
   
 
 }
