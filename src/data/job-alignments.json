@@ -6989,6 +6989,112 @@
       }
     }
   
+},
+
+"givehop-159": {
+    "meta": {
+      "jobId": "givehop-159",
+      "company": "Give Hope Ethiopia",
+      "role": "Website Redevelopment Engineer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-03-24",
+      "jobDescription": "Website redevelopment with sponsorship system, CMS, Microsoft 365 integration, and secure data handling."
+    },
+    "keyRequirements": [
+      "Full-stack web development",
+      "Database design for complex logic",
+      "CMS for non-technical users",
+      "Authentication and secure systems",
+      "API and external integrations",
+      "Responsive UI/UX",
+      "Dashboard and analytics",
+      "Handling sensitive data securely"
+    ],
+    "narrative": "Natinael is highly aligned with this role due to his experience building real-world systems with complex logic and non-technical stakeholders. His St. Mary Finance System demonstrates handling sensitive financial data with evolving requirements, while Fayda Smart Library shows his ability to build CMS-like systems for non-technical users. His work on MyFayda eKYC highlights authentication and secure system design, and MedHub Ethiopia demonstrates building impactful, data-driven platforms. Together, these experiences directly match the needs of building a sponsorship-driven NGO platform.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Full Stack Development",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Multiple production systems (MedHub, MyFayda, WZSIT)"
+        },
+        {
+          "skillName": "Database Design",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Finance system, RAG system with PostgreSQL"
+        },
+        {
+          "skillName": "Authentication Systems",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "MyFayda eKYC"
+        },
+        {
+          "skillName": "CMS Development",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Library system + admin dashboards"
+        },
+        {
+          "skillName": "API Integration",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "All projects"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "st-mary-finance",
+          "relevance": "ERP-like system handling sensitive financial workflows",
+          "matchScore": 95
+        },
+        {
+          "projectId": "fayda-library",
+          "relevance": "CMS-style system for non-technical users",
+          "matchScore": 90
+        },
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Authentication and secure system integration",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "startup-founder",
+          "relevance": "Built systems end-to-end with real stakeholders",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc Software Engineering"
+      }
+    }
+  
 }
   
 
