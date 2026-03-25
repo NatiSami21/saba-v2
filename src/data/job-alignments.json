@@ -7094,8 +7094,127 @@
         "evidence": "BSc Software Engineering"
       }
     }
+},
+  
+
+"yanoltech-160": {
+    "meta": {
+      "jobId": "yanoltech-160",
+      "company": "Yanoltech",
+      "role": "Full Stack Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-03-24",
+      "jobDescription": "Full stack role requiring React, Express/Laravel, Next.js, UI/UX, and Git."
+    },
+    "keyRequirements": [
+      "React.js experience",
+      "Express.js or Laravel backend",
+      "Next.js experience",
+      "Full-stack development",
+      "Responsive UI/UX",
+      "Git workflows",
+      "Fast delivery and scalability"
+    ],
+    "narrative": "Natinael is strongly aligned with this role through extensive experience in React, Node.js, and Express-based full-stack systems. He has built multiple production-grade platforms such as MyFayda eKYC and MedHub Ethiopia, demonstrating UI/UX design, API integration, and scalable backend systems. His Next.js experience from internship work further strengthens his frontend capabilities. Although Laravel is not his primary backend framework, his strong backend fundamentals make him capable of quickly adapting.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Used in MedHub, MyFayda, WZSIT"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 90,
+          "evidence": "Core backend for multiple systems"
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Used in MERN projects"
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 55,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 55,
+          "evidence": "Used during Dev-Elex internship"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Advanced",
+          "matchScore": 85,
+          "evidence": "Used across all projects"
+        },
+        {
+          "skillName": "Laravel",
+          "myProficiency": 35,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 40,
+          "evidence": "Not primary stack but backend concepts transferable"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "myfayda-ekyc",
+          "relevance": "Full-stack MERN system with authentication and APIs",
+          "matchScore": 95
+        },
+        {
+          "projectId": "medhub",
+          "relevance": "Complex full-stack platform with UI + backend integration",
+          "matchScore": 90
+        },
+        {
+          "projectId": "wzsit",
+          "relevance": "Real-time full-stack system with frontend/backend integration",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "dev-elex",
+          "relevance": "Next.js frontend development experience",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Speed",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc Software Engineering"
+      }
+    }
   
 }
-  
+
+
+
+
+
+
+
+
 
 }
