@@ -7518,10 +7518,151 @@
         "relevant": true,
         "evidence": "BSc in Software Engineering (June 2025)"
       }
-    }
-  
-}
+    
+},
 
+
+"fayda-163": {
+    "meta": {
+      "jobId": "fayda-163",
+      "company": "Fayda National ID",
+      "role": "Junior Backend Engineer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-03-26",
+      "jobDescription": "Backend engineer role focused on OpenID Connect authentication, OAuth flows, JWT handling, API integrations, and developer onboarding for Fayda identity ecosystem."
+    },
+    "keyRequirements": [
+      "Develop backend services for OIDC authentication flows",
+      "Support OAuth2 (Authorization Code, Client Credentials)",
+      "REST API and HTTP protocol expertise",
+      "JWT structure, token validation, digital signatures",
+      "Integration with identity systems and tokenization",
+      "Partner onboarding and technical support",
+      "Certificate validation and key exchange",
+      "Troubleshooting and debugging integrations",
+      "Backend development (Node.js, Python, Java)",
+      "Git version control",
+      "1–2 years experience"
+    ],
+    "narrative": "Natinael is an exceptionally strong fit for this role due to his direct hands-on experience building identity-based systems aligned with Fayda’s ecosystem. Through his MyFayda eKYC project, he effectively recreated a developer-facing authentication layer similar to OpenID Connect workflows, implementing RESTful APIs, JWT-based authentication, and secure token handling. His experience designing backend architectures, handling identity verification flows, and supporting integration use cases positions him as highly aligned with the responsibilities of onboarding relying parties and supporting authentication integrations.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Required",
+          "matchScore": 95,
+          "evidence": "Built backend services and authentication APIs in MyFayda and MedHub"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Critical",
+          "matchScore": 100,
+          "evidence": "Designed full API systems for authentication, ML services, and SaaS platforms"
+        },
+        {
+          "skillName": "JWT Authentication",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Critical",
+          "matchScore": 95,
+          "evidence": "Implemented JWT-based authentication and token validation in MyFayda"
+        },
+        {
+          "skillName": "OAuth 2.0",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Required",
+          "matchScore": 85,
+          "evidence": "Designed OAuth-like flows in MyFayda eKYC system"
+        },
+        {
+          "skillName": "OpenID Connect (OIDC)",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Required",
+          "matchScore": 75,
+          "evidence": "Conceptually aligned implementation through identity integration system"
+        },
+        {
+          "skillName": "HTTP Protocols",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Required",
+          "matchScore": 95,
+          "evidence": "Extensive API development and integration experience"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Optional",
+          "matchScore": 85,
+          "evidence": "Used in FastAPI backend for Academic Assignment Helper"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Required",
+          "matchScore": 90,
+          "evidence": "Used across all projects with collaboration workflows"
+        },
+        {
+          "skillName": "Java",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Optional",
+          "matchScore": 65,
+          "evidence": "Used in earlier academic mobile app development"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-3",
+          "relevance": "MyFayda eKYC directly aligns with identity authentication, token flows, and API design",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "MedHub shows secure API design and integration with identity systems",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-9",
+          "relevance": "Academic Helper demonstrates backend architecture and API scalability",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Frontend/backend integration experience and real-world deployment exposure",
+          "matchScore": 80
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc Software Engineering (June 2025)"
+      }
+    
+}
 
 
 
