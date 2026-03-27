@@ -7552,42 +7552,42 @@
         {
           "skillName": "Node.js",
           "myProficiency": 90,
-          "jobRequirementLevel": "Required",
+          "jobRequirementLevel": "Expert",
           "matchScore": 95,
           "evidence": "Built backend services and authentication APIs in MyFayda and MedHub"
         },
         {
           "skillName": "REST API Development",
           "myProficiency": 95,
-          "jobRequirementLevel": "Critical",
+          "jobRequirementLevel": "Expert",
           "matchScore": 100,
           "evidence": "Designed full API systems for authentication, ML services, and SaaS platforms"
         },
         {
           "skillName": "JWT Authentication",
           "myProficiency": 90,
-          "jobRequirementLevel": "Critical",
+          "jobRequirementLevel": "Expert",
           "matchScore": 95,
           "evidence": "Implemented JWT-based authentication and token validation in MyFayda"
         },
         {
           "skillName": "OAuth 2.0",
           "myProficiency": 75,
-          "jobRequirementLevel": "Required",
+          "jobRequirementLevel": "Expert",
           "matchScore": 85,
           "evidence": "Designed OAuth-like flows in MyFayda eKYC system"
         },
         {
           "skillName": "OpenID Connect (OIDC)",
           "myProficiency": 60,
-          "jobRequirementLevel": "Required",
+          "jobRequirementLevel": "Expert",
           "matchScore": 75,
           "evidence": "Conceptually aligned implementation through identity integration system"
         },
         {
           "skillName": "HTTP Protocols",
           "myProficiency": 90,
-          "jobRequirementLevel": "Required",
+          "jobRequirementLevel": "Expert",
           "matchScore": 95,
           "evidence": "Extensive API development and integration experience"
         },
@@ -7601,7 +7601,7 @@
         {
           "skillName": "Git",
           "myProficiency": 85,
-          "jobRequirementLevel": "Required",
+          "jobRequirementLevel": "Expert",
           "matchScore": 90,
           "evidence": "Used across all projects with collaboration workflows"
         },
@@ -7664,8 +7664,174 @@
         "evidence": "BSc Software Engineering (June 2025)"
       }
     }
-}
+},
 
+
+"paxpia-162": {
+    "meta": {
+      "jobId": "paxpia-162",
+      "company": "Paxpia Technology PLC",
+      "role": "Backend Engineer / Full Stack (Startup)",
+      "source": "Job Board",
+      "dateAdded": "2026-03-27",
+      "jobDescription": "Backend-focused role requiring MVP delivery, scalable backend systems, real-time/media support, strong debugging, and independent ownership in a fast-paced startup environment."
+    },
+    "keyRequirements": [
+      "Build and launch MVP features",
+      "Develop scalable backend architecture",
+      "Support real-time functionalities",
+      "Support media-related functionalities",
+      "Strong problem-solving skills",
+      "Strong debugging skills",
+      "Ability to work independently",
+      "Take ownership of features and systems",
+      "Comfortable in fast-paced startup environment",
+      "Deliver results and meet deadlines",
+      "Collaborate on continuous product improvement",
+      "Experience with backend systems and APIs",
+      "Exposure to cloud platforms (GCP or similar)"
+    ],
+    "narrative": "Natinael is a strong match for Paxpia Technology PLC due to his proven ability to independently design, build, and deliver scalable backend systems in real-world environments. His work on MyFayda eKYC demonstrates strong API design, authentication systems, and backend architecture. His ERP-like finance system and real-time applications highlight his ability to operate under pressure, deliver MVPs, and adapt quickly in startup-like conditions.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Core backend technology across multiple production systems including MyFayda eKYC and WZSIT WebApp"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Designed and implemented scalable APIs with authentication, integrations, and structured architecture"
+        },
+        {
+          "skillName": "System Architecture",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Architected ERP-like finance system and modular SaaS platforms"
+        },
+        {
+          "skillName": "Real-time Systems",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 85,
+          "evidence": "Implemented real-time communication using Socket.io in WZSIT WebApp"
+        },
+        {
+          "skillName": "WebRTC",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Used in MedHub Ethiopia for real-time communication features"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 80,
+          "evidence": "Containerized backend services in RAG-based Academic Assignment Helper"
+        },
+        {
+          "skillName": "CI/CD Concepts",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Applied structured deployment workflows and automation practices in backend projects"
+        },
+        {
+          "skillName": "Cloud Platforms",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 65,
+          "evidence": "Experience deploying and managing web applications; adaptable to GCP environments"
+        },
+        {
+          "skillName": "Debugging & Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Handled complex real-world system issues including financial workflows and live systems"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-MyFayda",
+          "relevance": "MVP-ready SaaS system with authentication, API design, and scalable backend architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-StMary",
+          "relevance": "ERP-like system demonstrating ownership, real-world deployment, and adaptability under changing requirements",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-WZSIT",
+          "relevance": "Real-time backend system supporting live communication and operational workflows",
+          "matchScore": 85
+        },
+        {
+          "projectId": "project-RAG",
+          "relevance": "Scalable backend with Docker, APIs, and data-driven architecture",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-MedHub",
+          "relevance": "Integration of WebRTC and real-time communication features",
+          "matchScore": 80
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-startup-founder",
+          "relevance": "Built and shipped systems independently, aligning with startup ownership and MVP delivery expectations",
+          "matchScore": 100
+        },
+        {
+          "experienceId": "exp-internship-frontend",
+          "relevance": "Worked in team environments, contributing to production-level applications",
+          "matchScore": 80
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Independence",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Startup Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Delivery Focus",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong practical experience building real-world systems"
+      }
+    }
+  
+}
 
 
 
