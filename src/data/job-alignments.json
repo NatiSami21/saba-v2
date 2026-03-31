@@ -7950,7 +7950,161 @@
         "evidence": "BSc in Software Engineering with multi-stack practical experience"
       }
     }
+},
+
+"yimaru-166": {
+    "meta": {
+      "jobId": "yimaru-166",
+      "company": "Yimaru Academy PLC",
+      "role": "Senior Software Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-03-31",
+      "jobDescription": "Full-stack developer responsible for building product from concept to launch with AI integration and full system ownership."
+    },
+    "keyRequirements": [
+      "Full-stack development (web/mobile)",
+      "Build product from concept to launch",
+      "AI integration (voice & text processing)",
+      "Backend system design for automated responses",
+      "Server and database management",
+      "Python proficiency",
+      "Portfolio of deployed applications",
+      "Strong problem-solving and communication",
+      "Ability to work independently and take ownership",
+      "Research and development mindset"
+    ],
+    "narrative": "Natinael demonstrates strong alignment with this role through his experience building complete end-to-end systems such as MyFayda eKYC, MedHub Ethiopia, and the St. Mary Finance System. His work includes AI-powered backend systems, full-stack architectures, and real-world deployments. He has consistently taken ownership of projects from concept to production, including system design, API development, and deployment. His experience with FastAPI, ML integration, and distributed systems positions him well for AI-driven backend logic and system design responsibilities required by this role.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Full Stack Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Built multiple MERN stack and distributed systems projects end-to-end"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Used FastAPI for RAG-based backend system and ML integrations"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Developed scalable APIs and backend services across multiple projects"
+        },
+        {
+          "skillName": "REST API Design",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Designed APIs for MyFayda eKYC and other systems"
+        },
+        {
+          "skillName": "AI Integration",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Built RAG-based system and ML-powered MedHub Ethiopia platform"
+        },
+        {
+          "skillName": "Database Design",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Designed schemas for finance, healthcare, and identity systems"
+        },
+        {
+          "skillName": "System Architecture",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 88,
+          "evidence": "Designed scalable architectures for SaaS and ERP-like systems"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Handled real-world system constraints and changing requirements"
+        },
+        {
+          "skillName": "Communication",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Worked with non-technical stakeholders in finance system project"
+        },
+        {
+          "skillName": "Research and Development",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Built AI systems and explored emerging technologies like RAG"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "MyFayda eKYC demonstrates API design, authentication systems, and production-level backend services",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "MedHub Ethiopia shows AI integration, ML-based logic, and full-stack system design",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "St. Mary Finance System demonstrates ownership, backend logic, and real-world system delivery",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "RAG-based Academic Assistant highlights Python, AI backend, and scalable architecture",
+          "matchScore": 93
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Frontend Engineering Internship with exposure to full-stack collaboration and modern frameworks",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "Very High",
+            "jobRequirement": "Very High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Independence",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Innovation",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong practical system development experience"
+      }
+    }
 }
+
 
 
 
