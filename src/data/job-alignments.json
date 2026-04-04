@@ -8103,8 +8103,145 @@
         "evidence": "BSc in Software Engineering with strong practical system development experience"
       }
     }
-}
+},
 
+
+"orbit-167": {
+    "meta": {
+      "jobId": "orbit-167",
+      "company": "Orbit Technology Solution One Member PLC",
+      "role": "Full Stack Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-03-31",
+      "jobDescription": "Senior full stack developer role requiring AI integration, frontend design, database management, and end-to-end system ownership."
+    },
+    "keyRequirements": [
+      "3+ years experience in web and mobile development",
+      "Full-stack development (web and mobile)",
+      "AI integration capability",
+      "End-to-end system development and management",
+      "Frontend design skills",
+      "Database administration and management",
+      "Strong problem-solving skills",
+      "Ability to build scalable and efficient systems"
+    ],
+    "narrative": "Natinael aligns strongly with this role through hands on experience building multiple production-level systems across web and mobile platforms. His projects demonstrate full ownership from system design to deployment, including AI-powered systems, scalable backend architectures, and user-focused frontend implementations. His experience with database design, API development, and real-world problem-solving positions him well for a senior-level full-stack role despite early career stage.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Full Stack Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Built MERN stack systems, mobile apps, and distributed platforms end-to-end"
+        },
+        {
+          "skillName": "Mobile Development",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Developed React Native apps and Java-based Android application"
+        },
+        {
+          "skillName": "AI Integration",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Implemented ML features in MedHub and RAG-based backend system"
+        },
+        {
+          "skillName": "Frontend Design",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 88,
+          "evidence": "Built responsive UI using React, Next.js, Tailwind, and modern UI libraries"
+        },
+        {
+          "skillName": "Database Management",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Worked with MongoDB, PostgreSQL, SQL systems across multiple projects"
+        },
+        {
+          "skillName": "System Architecture",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 88,
+          "evidence": "Designed scalable backend and distributed systems"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Handled real-world constraints in finance and healthcare systems"
+        },
+        {
+          "skillName": "API Development",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Designed RESTful APIs for authentication and system integration"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "MyFayda eKYC demonstrates full-stack system, API design, and authentication architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "MedHub Ethiopia showcases AI integration, frontend UX, and backend systems",
+          "matchScore": 92
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "St. Mary Finance System shows database management and real-world system ownership",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Fayda Smart Library demonstrates mobile development and offline-first architecture",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Frontend internship with exposure to modern frameworks and team collaboration",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "Very High",
+            "jobRequirement": "Very High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "Very High",
+            "jobRequirement": "Very High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Innovation",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with strong applied system development experience"
+      }
+    }
+}
 
 
 
