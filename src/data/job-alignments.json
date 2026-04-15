@@ -8241,8 +8241,138 @@
         "evidence": "BSc in Software Engineering with strong applied system development experience"
       }
     }
-}
+},
 
+
+"ad-168": {
+    "meta": {
+      "jobId": "ad-168",
+      "company": "A&D Trading PLC",
+      "role": "Full Stack Developer (MERN & Flutter)",
+      "source": "Local Job Post",
+      "dateAdded": "2026-04-15",
+      "jobDescription": "Full stack developer with MERN and Flutter experience, strong portfolio, ability to work onsite, understand codebases, and contribute to scalable applications."
+    },
+    "keyRequirements": [
+      "MERN stack development",
+      "Flutter mobile app development",
+      "Strong portfolio",
+      "Ability to start immediately",
+      "Work onsite in team",
+      "Understand existing codebases",
+      "Fast learner",
+      "Problem-solving mindset",
+      "Communication skills",
+      "Salary agreement",
+      "VPS deployment (bonus)",
+      "Game/betting app experience (bonus)"
+    ],
+    "narrative": "Natinael is a strong match for this role due to his deep experience in MERN stack development and real-world system delivery. While his mobile expertise is in React Native instead of Flutter, his strong architectural understanding and experience building offline-first mobile systems position him to quickly adapt. His portfolio demonstrates production-ready systems, making him highly aligned with the company’s expectations.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used in MyFayda eKYC, WZSIT, MedHub backend"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Frontend development across MERN projects"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Database for MERN systems"
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Backend APIs across multiple systems"
+        },
+        {
+          "skillName": "Flutter",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 50,
+          "evidence": "No production project, but strong React Native experience and mobile architecture knowledge"
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 85,
+          "evidence": "Fayda Smart Library Management System"
+        },
+        {
+          "skillName": "VPS Deployment",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Deployed production systems and managed hosting"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used across all projects and workflows"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "Full MERN stack system with authentication and API architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like financial system demonstrating full-stack ownership",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Mobile application (offline-first) demonstrating strong mobile architecture",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Frontend + full-stack internship with modern stack",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Teamwork",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Learning Speed",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
+}
 
 
 
