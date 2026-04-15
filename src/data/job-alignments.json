@@ -8372,8 +8372,159 @@
         "evidence": "BSc in Software Engineering"
       }
     }
-}
+},
 
+
+"africonnect-169": {
+    "meta": {
+      "jobId": "africonnect-169",
+      "company": "Afri Connect Technologies PLC",
+      "role": "Full Stack Software Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-04-15",
+      "jobDescription": "Full stack developer working with TypeScript, Next.js, React, backend APIs, integrations, and scalable B2B systems."
+    },
+    "keyRequirements": [
+      "TypeScript production experience",
+      "React.js experience",
+      "Next.js experience",
+      "Backend API design and business logic",
+      "Data modeling experience",
+      "Authentication and role-based access",
+      "Third-party integrations (payments, messaging, storage, analytics)",
+      "End-to-end feature ownership",
+      "Startup environment adaptability",
+      "Clean, maintainable code",
+      "Mobile development (bonus)",
+      "Messaging/chat systems (bonus)",
+      "Payments/webhooks (bonus)",
+      "B2B SaaS or marketplace experience (bonus)"
+    ],
+    "narrative": "Natinael is an excellent fit for this role, with strong experience in full-stack development using modern JavaScript stacks. His work on MyFayda eKYC, MedHub Ethiopia, and WZSIT demonstrates real-world backend architecture, authentication systems, API design, and scalable product thinking. His Next.js internship experience further strengthens alignment with the frontend requirements, while his React Native work satisfies the mobile bonus requirement.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Used in Next.js internship and modern frontend/backend stacks"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used across MERN projects and frontend systems"
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Used during frontend internship (Marvel Tech)"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Backend services for MyFayda, WZSIT, MedHub"
+        },
+        {
+          "skillName": "API Design (REST)",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Designed APIs for identity systems and SaaS platforms"
+        },
+        {
+          "skillName": "Authentication & Authorization",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "JWT, role-based systems, Fayda eKYC integration"
+        },
+        {
+          "skillName": "Database Design",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "MongoDB, PostgreSQL schema design"
+        },
+        {
+          "skillName": "Third-party Integrations",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Fayda integration, WebRTC, external APIs"
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Fayda Smart Library System (Expo)"
+        },
+        {
+          "skillName": "Messaging Systems",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Socket.io real-time system (WZSIT)"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "Identity platform with authentication, APIs, and integrations",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Real-time messaging and backend architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like system demonstrating business logic and workflows",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Mobile experience (React Native bonus)",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Next.js + TypeScript frontend internship",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Startup Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
+}
 
 
 }
