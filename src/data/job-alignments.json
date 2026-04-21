@@ -8874,7 +8874,202 @@
       "evidence": "BSc in Software Engineering"
     }
   }
-}  
+},
+
+
+"tamcon-178": {
+    "meta": {
+      "jobId": "tamcon-178",
+      "company": "Tamcon Software Solution PLC",
+      "role": "Full Stack Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-04-21",
+      "jobDescription": "Full stack developer role focused on Node.js, Next.js, MongoDB, PostgreSQL, real-time systems, analytics dashboards, and financial/gamification platforms."
+    },
+    "keyRequirements": [
+      "Node.js backend development (Express/Fastify/NestJS)",
+      "Next.js / React frontend development",
+      "MongoDB with complex aggregation pipelines",
+      "PostgreSQL with complex queries and optimization",
+      "Real-time systems using WebSockets",
+      "Microservices and API development",
+      "Analytics dashboards and KPI systems",
+      "Third-party integrations",
+      "ETL pipelines and data warehousing",
+      "Change streams / real-time DB updates",
+      "Secret store / credential management",
+      "3+ years professional experience",
+      "Production-level system development"
+    ],
+    "narrative": "Natinael demonstrates strong real-world backend and full-stack capabilities, particularly in Node.js, API design, and building production-grade systems such as MyFayda eKYC, St. Mary Finance System, and WZSIT WebApp. He aligns strongly with real-time systems, backend architecture, and dashboard-driven platforms. While his experience with advanced MongoDB aggregation, ETL pipelines, and deep PostgreSQL optimization is limited, his solid foundation in backend systems and proven ability to learn quickly positions him as a high-potential candidate who can grow into the role.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Primary backend stack across multiple production systems"
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used for API and backend services in multiple projects"
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 50,
+          "evidence": "Used during frontend internship with modern React architecture"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Used in multiple MERN stack applications"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 75,
+          "evidence": "Used extensively in MERN stack; limited exposure to complex aggregation pipelines"
+        },
+        
+        {
+          "skillName": "aggregation pipelines",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 45,
+          "evidence": "Used extensively in MERN stack; limited exposure to complex aggregation pipelines"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 70,
+          "evidence": "Used in RAG system and backend services; limited advanced optimization experience"
+        },
+        {
+          "skillName": "WebSockets",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Implemented real-time features using Socket.io in WZSIT WebApp"
+        },
+        {
+          "skillName": "API Design",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Designed RESTful APIs and authentication systems (MyFayda eKYC)"
+        },
+        {
+          "skillName": "Microservices Architecture",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Designed modular backend systems and scalable APIs"
+        },
+        {
+          "skillName": "ETL Pipelines",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 50,
+          "evidence": "Basic exposure through data processing in ML and backend systems"
+        },
+        {
+          "skillName": "Database Optimization",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 65,
+          "evidence": "Handled schema design and query optimization at application level"
+        },
+        {
+          "skillName": "Real time Dashboards",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Built financial dashboards and reporting systems in St. Mary Finance System"
+        },
+        {
+          "skillName": "Third party Integration",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Integrated APIs including authentication systems and external services"
+        },
+        {
+          "skillName": "Secret Management",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 60,
+          "evidence": "Handled secure environment variables and token-based authentication"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "Authentication system, API design, secure backend",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "Financial system with dashboards and real-time data",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Real-time communication system (Socket.io)",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "Data-driven backend with PostgreSQL",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Next.js and modern frontend architecture exposure",
+          "matchScore": 80
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Independence",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Working Under Pressure",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
+}
+
+  
 
 
 }
