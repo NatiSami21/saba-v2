@@ -9067,9 +9067,158 @@
         "evidence": "BSc in Software Engineering"
       }
     }
-}
+},
 
-  
+
+"elaelvis-180": {
+    "meta": {
+      "jobId": "elaelvis-180",
+      "company": "",
+      "role": "AI Engineer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-01",
+      "jobDescription": "AI Engineer role involving ML model development, NLP, system deployment, and integration using Python, Node.js, and AI frameworks."
+    },
+    "keyRequirements": [
+      "Machine Learning & Deep Learning",
+      "Natural Language Processing (NLP)",
+      "Computer Vision",
+      "Python proficiency",
+      "Java and R exposure",
+      "Node.js experience",
+      "TensorFlow / PyTorch / Keras",
+      "AI system deployment and maintenance",
+      "Data analysis and model optimization",
+      "Integration of AI into platforms",
+      "Problem-solving and analytical skills",
+      "Ability to work independently and in teams"
+    ],
+    "narrative": "Natinael aligns strongly with applied AI system development, particularly in backend-integrated AI solutions such as RAG-based systems and API-driven architectures. His experience in building production-ready AI-enabled platforms demonstrates strength in system design, deployment, and integration. While his exposure to deep learning frameworks and computer vision is limited, his strong foundation in Python, NLP workflows, and scalable backend systems positions him as a fast-learning and adaptable AI engineer.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Python",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Used in FastAPI-based RAG system and backend services"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Core backend for multiple systems including MyFayda eKYC"
+        },
+        {
+          "skillName": "Machine Learning",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 70,
+          "evidence": "Applied ML concepts in RAG-based system and AI workflows"
+        },
+        {
+          "skillName": "Natural Language Processing",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 65,
+          "evidence": "RAG-based Academic Assignment Helper using embeddings and retrieval"
+        },
+        {
+          "skillName": "Deep Learning",
+          "myProficiency": 30,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 30,
+          "evidence": "Conceptual understanding; no heavy production DL models"
+        },
+        {
+          "skillName": "Computer Vision",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 50,
+          "evidence": "Minimal exposure"
+        },
+        {
+          "skillName": "TensorFlow / PyTorch / Keras",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Basic exposure, not used in production systems"
+        },
+        {
+          "skillName": "Java",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 50,
+          "evidence": "Used in Android development"
+        },
+        {
+          "skillName": "R",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 15,
+          "evidence": "No practical experience"
+        },
+        {
+          "skillName": "API Design & Integration",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Designed scalable APIs for AI and backend systems"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-4",
+          "relevance": "RAG-based AI system (NLP, embeddings, backend APIs)",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Authentication + API-heavy system (AI integration ready architecture)",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "Data-driven ERP system (analytics + structured workflows)",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Modern full-stack + backend systems (Next.js, APIs, architecture)",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Independent Work",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
+}  
 
 
 }
