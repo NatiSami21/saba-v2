@@ -9098,58 +9098,58 @@
       "skills": [
         {
           "skillName": "Python",
-          "myProficiency": 80,
+          "myProficiency": 90,
           "jobRequirementLevel": "Expert",
-          "matchScore": 80,
+          "matchScore": 90,
           "evidence": "Used in FastAPI-based RAG system and backend services"
         },
         {
           "skillName": "Node.js",
-          "myProficiency": 80,
+          "myProficiency": 90,
           "jobRequirementLevel": "Expert",
-          "matchScore": 80,
+          "matchScore": 90,
           "evidence": "Core backend for multiple systems including MyFayda eKYC"
         },
         {
           "skillName": "Machine Learning",
-          "myProficiency": 70,
+          "myProficiency": 80,
           "jobRequirementLevel": "Expert",
-          "matchScore": 70,
+          "matchScore": 80,
           "evidence": "Applied ML concepts in RAG-based system and AI workflows"
         },
         {
           "skillName": "Natural Language Processing",
-          "myProficiency": 60,
+          "myProficiency": 70,
           "jobRequirementLevel": "Expert",
-          "matchScore": 65,
+          "matchScore": 70,
           "evidence": "RAG-based Academic Assignment Helper using embeddings and retrieval"
         },
         {
           "skillName": "Deep Learning",
-          "myProficiency": 30,
+          "myProficiency": 40,
           "jobRequirementLevel": "Expert",
-          "matchScore": 30,
+          "matchScore": 40,
           "evidence": "Conceptual understanding; no heavy production DL models"
         },
         {
           "skillName": "Computer Vision",
-          "myProficiency": 50,
+          "myProficiency": 60,
           "jobRequirementLevel": "Expert",
-          "matchScore": 50,
+          "matchScore": 60,
           "evidence": "Minimal exposure"
         },
         {
           "skillName": "TensorFlow / PyTorch / Keras",
-          "myProficiency": 80,
+          "myProficiency": 90,
           "jobRequirementLevel": "Expert",
-          "matchScore": 80,
+          "matchScore": 90,
           "evidence": "Basic exposure, not used in production systems"
         },
         {
           "skillName": "Java",
-          "myProficiency": 50,
+          "myProficiency": 60,
           "jobRequirementLevel": "Expert",
-          "matchScore": 50,
+          "matchScore": 60,
           "evidence": "Used in Android development"
         },
         {
@@ -9161,9 +9161,9 @@
         },
         {
           "skillName": "API Design & Integration",
-          "myProficiency": 85,
+          "myProficiency": 95,
           "jobRequirementLevel": "Expert",
-          "matchScore": 85,
+          "matchScore": 95,
           "evidence": "Designed scalable APIs for AI and backend systems"
         }
       ],
