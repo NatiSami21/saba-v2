@@ -9360,7 +9360,235 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+"alta-182": {
+    "meta": {
+      "jobId": "alta-182",
+      "company": "ALTA Computec PLC",
+      "role": "Junior Software Engineer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-11",
+      "jobDescription": "Junior Software Engineer role involving web/mobile development, REST APIs, API integrations, CI/CD concepts, Git workflows, deployment, debugging, collaboration, and scalable software engineering practices."
+    },
+    "keyRequirements": [
+      "Design, develop, test, and deploy software applications",
+      "Web application development",
+      "Mobile application development",
+      "RESTful API development",
+      "Backend service development",
+      "Third-party API integration",
+      "Cross-functional collaboration",
+      "Git workflow and version control",
+      "CI/CD pipeline concepts",
+      "Debugging and optimization",
+      "Modern frontend and backend frameworks",
+      "Software engineering principles",
+      "Cloud and DevOps familiarity",
+      "Database systems knowledge",
+      "Problem-solving skills",
+      "Communication and teamwork",
+      "Ability to learn quickly and adapt",
+      "React experience",
+      "Node.js experience",
+      "TypeScript experience",
+      "Flutter familiarity"
+    ],
+    "narrative": "Natinael aligns strongly with this role through multiple real-world full-stack systems involving web applications, backend APIs, mobile apps, authentication systems, and scalable architectures. His experience includes MERN stack platforms, React Native mobile applications, REST API development, CI/CD-oriented workflows, and production-grade deployments. While Flutter is not his primary mobile stack, his React Native and Expo experience demonstrates transferable mobile engineering capability. His background in independently building and deploying systems such as MyFayda eKYC, St. Mary Finance System, WZSIT WebApp, MedHub Ethiopia, and Fayda Smart Library Management strongly aligns with ALTA Computec’s requirements for scalable digital solution development.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "React.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Used across MERN stack production systems and internship projects"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 93,
+          "jobRequirementLevel": "strong",
+          "matchScore": 98,
+          "evidence": "Primary backend stack for APIs, authentication systems, and SaaS platforms"
+        },
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 85,
+          "evidence": "Used in Next.js internship and scalable frontend systems"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 100,
+          "evidence": "Designed RESTful APIs for MyFayda eKYC, WZSIT, and backend platforms"
+        },
+        {
+          "skillName": "API Integration",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 97,
+          "evidence": "Integrated authentication systems, external APIs, and realtime services"
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Developed Fayda Smart Library Management mobile application"
+        },
+        {
+          "skillName": "Flutter",
+          "myProficiency": 25,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 35,
+          "evidence": "No production Flutter application yet, but strong transferable mobile architecture knowledge"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 95,
+          "evidence": "Primary database in MERN-based platforms"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Used in RAG-based backend system and scalable data systems"
+        },
+        {
+          "skillName": "Git & GitHub",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Version control and collaborative workflows across projects"
+        },
+        {
+          "skillName": "CI/CD Concepts",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Worked with deployment pipelines, Docker workflows, and production deployments"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 72,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 80,
+          "evidence": "Containerized backend systems for AI and RAG projects"
+        },
+        {
+          "skillName": "Cloud & Deployment",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 80,
+          "evidence": "Experience deploying platforms using Vercel, Netlify, Supabase, and cloud-hosted services"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 100,
+          "evidence": "Solved complex backend, authentication, and realtime system challenges"
+        },
+        {
+          "skillName": "Communication",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Worked with institutional stakeholders and presented technical systems to non-technical users"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "REST APIs, authentication systems, backend architecture, API integrations",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like scalable financial management system with backend workflows",
+          "matchScore": 98
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Mobile application development using React Native, Expo, Supabase, SQLite",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Realtime web systems using Socket.io and scalable backend services",
+          "matchScore": 93
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "RAG-based backend system using FastAPI, PostgreSQL, Docker",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-6",
+          "relevance": "Healthcare SaaS platform involving WebRTC concepts and realtime communication",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Frontend engineering internship using Next.js, TypeScript, React Query, Tailwind, Supabase",
+          "matchScore": 92
+        },
+        {
+          "experienceId": "exp-2",
+          "relevance": "Founder-level experience managing full software product lifecycles",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Fast Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 92
+          },
+          {
+            "aspect": "Independent Work",
+            "myStrength": "High",
+            "jobRequirement": "Medium",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with additional Marketing Management studies"
+      }
+    }
 }
+
+  
 
 
 }
