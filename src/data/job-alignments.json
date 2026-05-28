@@ -9853,14 +9853,14 @@
         {
           "skillName": "Python",
           "myProficiency": 75,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 85,
           "evidence": "Used Python in FastAPI backend systems, ML experimentation, and AI/RAG workflows"
         },
         {
           "skillName": "FastAPI",
           "myProficiency": 75,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 90,
           "evidence": "Built RAG-based backend system using FastAPI and PostgreSQL"
         },
@@ -9888,70 +9888,70 @@
         {
           "skillName": "JavaScript",
           "myProficiency": 92,
-          "jobRequirementLevel": "High",
+          "jobRequirementLevel": "Strong",
           "matchScore": 95,
           "evidence": "Core language across MERN stack and frontend systems"
         },
         {
           "skillName": "HTML/CSS",
           "myProficiency": 90,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 95,
           "evidence": "Used across all frontend and responsive web systems"
         },
         {
           "skillName": "REST API Development",
           "myProficiency": 90,
-          "jobRequirementLevel": "High",
+          "jobRequirementLevel": "Strong",
           "matchScore": 95,
           "evidence": "Developed authentication APIs, backend integrations, and scalable services"
         },
         {
           "skillName": "AI Integration",
           "myProficiency": 80,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 90,
           "evidence": "Worked on RAG systems, ML experimentation, AI workflows, and SaaS integrations"
         },
         {
           "skillName": "Docker",
           "myProficiency": 70,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 80,
           "evidence": "Containerized backend systems and development environments"
         },
         {
           "skillName": "Git",
           "myProficiency": 88,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 90,
           "evidence": "Used Git workflows throughout academic, startup, and production projects"
         },
         {
           "skillName": "SQL / PostgreSQL",
           "myProficiency": 80,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 85,
           "evidence": "Used PostgreSQL in AI/RAG backend systems"
         },
         {
           "skillName": "MongoDB",
           "myProficiency": 90,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 90,
           "evidence": "Primary database in MERN stack systems"
         },
         {
           "skillName": "WordPress",
           "myProficiency": 20,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 25,
           "evidence": "Very limited direct customization experience"
         },
         {
           "skillName": "Linux / Deployment",
           "myProficiency": 65,
-          "jobRequirementLevel": "Medium",
+          "jobRequirementLevel": "Strong",
           "matchScore": 75,
           "evidence": "Handled deployments, VPS exposure, and server-side environments"
         }
