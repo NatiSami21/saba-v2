@@ -9819,6 +9819,233 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+"seri-184": {
+    "meta": {
+      "jobId": "seri-184",
+      "company": "Seri Skill Center Trading PLC",
+      "role": "Python Full-Stack Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-28",
+      "jobDescription": "Python full-stack role involving Django/FastAPI/Frappe style backend development, WordPress customization, frontend integration, AI integrations, APIs, debugging, and continuous learning in a small adaptive engineering team."
+    },
+    "keyRequirements": [
+      "Python backend development",
+      "Django, FastAPI, Flask, or Frappe exposure",
+      "Frontend integration using JavaScript, HTML, CSS",
+      "WordPress plugin/theme/backend customization",
+      "AI integrations and experiments",
+      "REST APIs and authentication",
+      "Debugging and problem solving",
+      "Git collaboration workflows",
+      "SQL and deployment basics",
+      "Linux and Docker exposure",
+      "Creativity and initiative",
+      "Ability to learn unfamiliar stacks",
+      "Clear communication and reliability",
+      "Comfort working in a small team",
+      "Practical engineering mindset"
+    ],
+    "narrative": "Natinael aligns strongly with the mindset and adaptability this role prioritizes. While he is not claiming expert-level experience in every listed framework such as Frappe or advanced WordPress plugin development, he has repeatedly demonstrated the ability to learn unfamiliar technologies to solve real-world problems. Examples include shifting into React Native and offline-first architecture for unstable regional internet environments, building AI-assisted backend systems using FastAPI and PostgreSQL, integrating external APIs and authentication systems in production platforms, and independently architecting scalable MERN-based systems. His experience reflects curiosity, practical problem-solving, and strong self-learning ability, which closely matches the company’s stated culture and hiring philosophy.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Python",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 85,
+          "evidence": "Used Python in FastAPI backend systems, ML experimentation, and AI/RAG workflows"
+        },
+        {
+          "skillName": "FastAPI",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Built RAG-based backend system using FastAPI and PostgreSQL"
+        },
+        {
+          "skillName": "Django",
+          "myProficiency": 25,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 35,
+          "evidence": "Limited exposure; transferable backend architecture understanding"
+        },
+        {
+          "skillName": "Flask",
+          "myProficiency": 30,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 40,
+          "evidence": "Basic exposure through experimentation and Python API concepts"
+        },
+        {
+          "skillName": "Frappe",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 15,
+          "evidence": "No production experience yet"
+        },
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 92,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Core language across MERN stack and frontend systems"
+        },
+        {
+          "skillName": "HTML/CSS",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 95,
+          "evidence": "Used across all frontend and responsive web systems"
+        },
+        {
+          "skillName": "REST API Development",
+          "myProficiency": 90,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Developed authentication APIs, backend integrations, and scalable services"
+        },
+        {
+          "skillName": "AI Integration",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Worked on RAG systems, ML experimentation, AI workflows, and SaaS integrations"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 80,
+          "evidence": "Containerized backend systems and development environments"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Used Git workflows throughout academic, startup, and production projects"
+        },
+        {
+          "skillName": "SQL / PostgreSQL",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 85,
+          "evidence": "Used PostgreSQL in AI/RAG backend systems"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Primary database in MERN stack systems"
+        },
+        {
+          "skillName": "WordPress",
+          "myProficiency": 20,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 25,
+          "evidence": "Very limited direct customization experience"
+        },
+        {
+          "skillName": "Linux / Deployment",
+          "myProficiency": 65,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Handled deployments, VPS exposure, and server-side environments"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "Authentication APIs, scalable backend logic, and production integrations",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like backend workflows and independent system ownership",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "FastAPI, PostgreSQL, Dockerized AI/RAG backend architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Adaptation to new stacks and offline-first mobile architecture",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Real-time communication systems and frontend/backend integration",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Exposure to modern frontend engineering and startup-style workflows",
+          "matchScore": 85
+        },
+        {
+          "experienceId": "exp-2",
+          "relevance": "Independent product development and rapid stack adaptation",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Curiosity",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Learning Ability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Independent Work",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Creativity",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
 }
 
   
