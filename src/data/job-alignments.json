@@ -9591,7 +9591,7 @@
 "mern-instructor-183": {
     "meta": {
       "jobId": "mern-instructor-183",
-      "company": "Private Client",
+      "company": "",
       "role": "Senior MERN Stack Developer and Instructor",
       "source": "Local Job Post",
       "dateAdded": "2026-05-26",
@@ -10051,7 +10051,7 @@
 "fullstack-lancha-185": {
     "meta": {
       "jobId": "fullstack-lancha-185",
-      "company": "Private Client",
+      "company": "",
       "role": "Junior Full Stack Developer",
       "source": "Local Job Post",
       "dateAdded": "2026-05-28",
@@ -10248,6 +10248,216 @@
             "myStrength": "High",
             "jobRequirement": "High",
             "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
+},
+
+"hhce-186": {
+    "meta": {
+      "jobId": "hhce-186",
+      "company": "HHCE",
+      "role": "ERPNext IT Specialist / Software Engineer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-28",
+      "jobDescription": "ERPNext Software Engineer role involving workflow alignment, ERPNext/Frappe customization, Python and JavaScript development, operational system support, troubleshooting, worker training, and digital workflow optimization."
+    },
+    "keyRequirements": [
+      "ERPNext knowledge",
+      "Frappe framework",
+      "Python",
+      "JavaScript",
+      "Database management",
+      "Workflow analysis",
+      "Operational process digitization",
+      "ERP customization",
+      "Server/client scripting",
+      "Custom print formats",
+      "Troubleshooting",
+      "User permission management",
+      "Data integrity",
+      "Worker training and support",
+      "Problem solving",
+      "Manual-to-digital workflow alignment",
+      "Communication skills",
+      "Analytical thinking",
+      "Willingness to complete ERPNext certification/training"
+    ],
+    "narrative": "Natinael aligns strongly with the operational and systems-thinking side of this ERPNext role through his real-world experience developing ERP-like organizational systems and workflow-driven platforms. While he does not yet have deep production ERPNext/Frappe specialization, he has directly worked on financial systems, authentication systems, organizational workflows, and backend architectures that solve similar operational problems. His experience building the St. Mary Finance Management System, MyFayda eKYC workflows, and other management systems demonstrates practical understanding of process digitization, data integrity, backend customization, and translating manual operations into structured software systems. He is also highly adaptable and capable of rapidly learning new frameworks such as ERPNext and Frappe through hands-on implementation and structured training.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "ERP System Development",
+          "myProficiency": 82,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Developed ERP-like finance and organizational management systems"
+        },
+        {
+          "skillName": "ERPNext",
+          "myProficiency": 65,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 75,
+          "evidence": "Currently learning ERPNext concepts; no direct production deployment yet"
+        },
+        {
+          "skillName": "Frappe Framework",
+          "myProficiency": 20,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 30,
+          "evidence": "No direct production experience yet but strong adaptability to backend frameworks"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 88,
+          "evidence": "Used in FastAPI systems, AI projects, backend automation, and ML workflows"
+        },
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary language across frontend and backend development"
+        },
+        {
+          "skillName": "Database Management",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 92,
+          "evidence": "Worked with MongoDB, PostgreSQL, SQL systems, and backend data modeling"
+        },
+        {
+          "skillName": "Workflow Analysis",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Mapped organizational operations into digital workflows in finance and institutional systems"
+        },
+        {
+          "skillName": "Troubleshooting",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Maintained and optimized production-grade backend systems and operational platforms"
+        },
+        {
+          "skillName": "User Support & Training",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Worked with non-technical institutional users and provided onboarding/support"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Solved evolving operational and technical workflow challenges"
+        },
+        {
+          "skillName": "Authentication & Permissions",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Built role-based systems and secure authentication workflows"
+        },
+        {
+          "skillName": "Data Integrity & Validation",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Handled financial validations and structured organizational data flows"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like finance management system with workflow automation and structured operational logic",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Identity verification workflow system with backend validation and operational processes",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Institutional organizational platform with real-time operational coordination",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "Python backend architecture and structured backend services",
+          "matchScore": 85
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Offline-first operational workflow design for institutions with unstable connectivity",
+          "matchScore": 88
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Independent system design and backend architecture development",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "exp-2",
+          "relevance": "Working with institutional stakeholders and operational process understanding",
+          "matchScore": 92
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Analytical Thinking",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Patience With Users",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Learning Ability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 92
+          },
+          {
+            "aspect": "Operational Thinking",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
           }
         ]
       },
