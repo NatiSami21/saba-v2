@@ -9586,6 +9586,239 @@
         "evidence": "BSc in Software Engineering with additional Marketing Management studies"
       }
     }
+},
+
+"mern-instructor-183": {
+    "meta": {
+      "jobId": "mern-instructor-183",
+      "company": "Private Client",
+      "role": "Senior MERN Stack Developer and Instructor",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-26",
+      "jobDescription": "Senior MERN Stack Developer and Instructor role involving MERN Stack teaching, React/Next.js instruction, React Native mobile development, backend engineering using Node.js and Python, MongoDB/PostgreSQL database management, and development of real-world web/mobile systems."
+    },
+    "keyRequirements": [
+      "Strong practical MERN Stack development",
+      "Teaching MERN Stack professionally",
+      "Teaching React.js and Next.js",
+      "Teaching mobile development using React Native",
+      "Participating in real-world web/mobile software development",
+      "Node.js backend development",
+      "Next.js development",
+      "TypeScript development",
+      "Python development",
+      "MongoDB database management",
+      "PostgreSQL database management",
+      "Classroom instruction and mentoring",
+      "Student guidance and progress tracking",
+      "Instructional preparation",
+      "Communication and presentation skills",
+      "Problem-solving skills",
+      "Experience developing real-world applications",
+      "Ability to mentor students effectively",
+      "Minimum 2 years software development or teaching experience",
+      "React Native experience",
+      "Modern React development experience",
+      "Accountability and organization"
+    ],
+    "narrative": "Natinael is a very strong practical match for this role due to his extensive MERN stack development experience, backend engineering expertise, AI-integrated system development, and real-world deployment experience across multiple production-grade platforms. His portfolio includes full-stack MERN systems, React Native mobile applications, AI-powered backend architectures, RAG-based systems, and scalable APIs. In addition to development, he has direct teaching and mentoring experience teaching programming to Grade 11 and 12 students and conducting AI mentorship/training sessions for company leaders and startup stakeholders. While his formal professional teaching duration may not fully equal a traditional senior instructor profile, his combination of hands-on engineering, mentoring, communication ability, and real-world system ownership aligns strongly with the role.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "MERN Stack",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Built multiple full-stack MERN systems including MyFayda eKYC, WZSIT WebApp, and MedHub Ethiopia"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary database across MERN production systems"
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Core backend framework across scalable API systems"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Used across production dashboards, SaaS systems, and modern UI architectures"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 93,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Backend APIs, authentication systems, realtime services, and scalable architectures"
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 78,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 85,
+          "evidence": "Worked with modern React/Next.js stack during internship and frontend engineering projects"
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Built Fayda Smart Library Management App using React Native Expo"
+        },
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 85,
+          "evidence": "Used in Next.js and scalable frontend/backend workflows"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 82,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Developed AI/RAG backend systems using FastAPI and ML workflows"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Used in RAG-based AI backend systems and structured data services"
+        },
+        {
+          "skillName": "AI Integration",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 95,
+          "evidence": "Integrated AI workflows, RAG pipelines, and ML-assisted backend systems"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 72,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 80,
+          "evidence": "Containerized backend and AI systems"
+        },
+        {
+          "skillName": "Teaching & Mentorship",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 92,
+          "evidence": "Taught programming to Grade 11 and 12 students and conducted AI mentorship sessions for company leaders"
+        },
+        {
+          "skillName": "Communication",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Explained technical systems to students, institutional users, and startup stakeholders"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 93,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 98,
+          "evidence": "Solved real-world architecture, API, deployment, and integration challenges across production systems"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "MERN authentication system, REST APIs, JWT workflows, scalable backend architecture",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Realtime MERN platform with backend services and Socket.io integrations",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "React Native Expo mobile application development",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "Python FastAPI RAG-based backend system with PostgreSQL and Docker",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like full-stack financial system with complex workflows and database management",
+          "matchScore": 95
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Modern frontend engineering exposure with Next.js and React ecosystems",
+          "matchScore": 85
+        },
+        {
+          "experienceId": "exp-2",
+          "relevance": "Founder-level ownership, mentoring, stakeholder communication, and real-world deployment",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "exp-3",
+          "relevance": "Programming instruction and AI mentorship/training experience",
+          "matchScore": 92
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Teaching Ability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Technical Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Accountability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Independent Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
 }
 
   
