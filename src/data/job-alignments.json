@@ -10046,6 +10046,216 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+"fullstack-lancha-185": {
+    "meta": {
+      "jobId": "fullstack-lancha-185",
+      "company": "Private Client",
+      "role": "Junior Full Stack Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-28",
+      "jobDescription": "Junior Full Stack Developer role focused on JavaScript, Node.js, Express.js, Sequelize.js, React.js, MongoDB, MySQL, REST APIs, authentication systems, Git workflows, debugging, and collaborative development."
+    },
+    "keyRequirements": [
+      "JavaScript ES6+",
+      "Node.js",
+      "Express.js",
+      "React.js",
+      "Sequelize.js",
+      "MongoDB",
+      "MySQL",
+      "RESTful APIs",
+      "Authentication and authorization",
+      "Asynchronous programming",
+      "Git workflows",
+      "Code reviews",
+      "Clean maintainable code",
+      "Debugging and troubleshooting",
+      "Team collaboration",
+      "Problem-solving mindset",
+      "Willingness to learn",
+      "Frontend and backend collaboration"
+    ],
+    "narrative": "Natinael is a very strong practical match for this role due to his extensive hands-on experience with MERN stack systems and API-driven application development. He has built and deployed multiple real-world systems using Node.js, Express.js, React.js, MongoDB, and RESTful architectures, including ERP-like systems, SaaS platforms, authentication systems, and real-time applications. While Sequelize.js is not his primary ORM, he has solid relational database experience through SQL and PostgreSQL-based backend systems. His background demonstrates strong debugging ability, backend architecture understanding, authentication flows, and independent problem-solving, while still fitting well into a junior-to-mid level growth trajectory.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary language across frontend and backend systems"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Core backend stack across multiple production systems"
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Used extensively for REST APIs and backend services"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Frontend development across MERN projects and dashboards"
+        },
+        {
+          "skillName": "Sequelize.js",
+          "myProficiency": 35,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 50,
+          "evidence": "Limited direct Sequelize usage but strong SQL and backend ORM understanding"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary NoSQL database used in MERN stack systems"
+        },
+        {
+          "skillName": "MySQL",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 80,
+          "evidence": "Experience with relational databases and backend data modeling"
+        },
+        {
+          "skillName": "RESTful APIs",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Built scalable APIs, authentication flows, and integrations"
+        },
+        {
+          "skillName": "Authentication & Authorization",
+          "myProficiency": 88,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "JWT authentication, secure backend systems, and role-based flows"
+        },
+        {
+          "skillName": "Asynchronous Programming",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 90,
+          "evidence": "Handled async backend operations, APIs, and real-time systems"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Strong",
+          "matchScore": 95,
+          "evidence": "Used across collaborative and independent software projects"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 92,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Solved evolving real-world system and deployment challenges"
+        },
+        {
+          "skillName": "Debugging & Troubleshooting",
+          "myProficiency": 88,
+          "jobRequirementLevel": "High",
+          "matchScore": 92,
+          "evidence": "Maintained and optimized production systems under changing requirements"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like backend system with authentication and complex workflows",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "REST APIs, backend integrations, and secure authentication systems",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Real-time MERN stack application using Socket.io",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Frontend/backend integration and offline-first React Native architecture",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "Modern backend architecture and containerized services",
+          "matchScore": 85
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Modern frontend stack exposure and collaborative workflows",
+          "matchScore": 90
+        },
+        {
+          "experienceId": "exp-2",
+          "relevance": "Independent system development and startup-style engineering",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Learning Ability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "Medium",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Code Quality Awareness",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 92
+          },
+          {
+            "aspect": "Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
 }
 
   
