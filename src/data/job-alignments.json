@@ -10466,6 +10466,168 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+"g2g-187": {
+    "meta": {
+      "jobId": "g2g-187",
+      "company": "G2G IT SOLUTIONS S.C",
+      "role": "Junior Network Engineer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-05-28",
+      "jobDescription": "Junior Network Engineer role involving network installation, troubleshooting, LAN/WAN support, Windows/Linux support, and technical assistance."
+    },
+    "keyRequirements": [
+      "Assist in installation and configuration of routers, switches, and firewalls",
+      "Monitor network performance and troubleshoot connectivity issues",
+      "Support LAN/WAN and wireless network operations",
+      "Perform routine maintenance and updates",
+      "Assist senior engineers in implementing network solutions",
+      "Document network configurations and technical procedures",
+      "Provide technical support to users and clients",
+      "Ensure network security and system reliability",
+      "Support cable installation and hardware setup",
+      "Basic understanding of TCP/IP, DNS, DHCP, VLAN, Routing, Switching",
+      "Knowledge of Windows and Linux operating systems",
+      "Strong problem-solving and communication skills",
+      "Ability to work independently and in a team"
+    ],
+    "narrative": "Natinael is primarily a software engineering graduate with strong practical exposure to systems administration, Linux environments, backend infrastructure, and technical troubleshooting through multiple real-world projects. While networking is not his strongest specialization, he has practical understanding of network concepts, server environments, LAN/WiFi troubleshooting, and system deployment workflows from managing web applications, local systems, and operational infrastructures. His strength lies in learning quickly, solving technical problems independently, and adapting to new technical environments.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Networking Fundamentals (TCP/IP, DNS, DHCP)",
+          "myProficiency": 55,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 65,
+          "evidence": "Practical exposure through server deployment, local network troubleshooting, and full-stack system deployments"
+        },
+        {
+          "skillName": "LAN/WAN Support",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 60,
+          "evidence": "Experience configuring and troubleshooting local development and deployment environments"
+        },
+        {
+          "skillName": "Windows System Administration",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Daily development and troubleshooting experience on Windows systems"
+        },
+        {
+          "skillName": "Linux",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 80,
+          "evidence": "Worked with Linux-based Docker environments, VPS deployments, and backend hosting"
+        },
+        {
+          "skillName": "Technical Troubleshooting",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Resolved deployment, backend, authentication, database, and infrastructure issues across multiple systems"
+        },
+        {
+          "skillName": "System Reliability",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Maintained operational backend systems and production-ready applications"
+        },
+        {
+          "skillName": "Documentation",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 85,
+          "evidence": "Prepared project documentation, workflows, deployment notes, and technical reports"
+        },
+        {
+          "skillName": "Communication",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 95,
+          "evidence": "Worked with institutional stakeholders, students, administrators, and startup teams"
+        },
+        {
+          "skillName": "Problem Solving",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Intermediate",
+          "matchScore": 100,
+          "evidence": "Built solutions for unstable internet environments, operational inefficiencies, and infrastructure limitations"
+        },
+        {
+          "skillName": "Git/GitHub",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Basic",
+          "matchScore": 90,
+          "evidence": "Used across all software projects and collaboration workflows"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like backend workflows, operational troubleshooting, and deployment management",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Authentication systems, backend integrations, and infrastructure debugging",
+          "matchScore": 85
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Offline-first mobile infrastructure designed for unstable connectivity environments",
+          "matchScore": 85
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "Linux, Docker, backend services, and deployment-oriented workflows",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Real-world troubleshooting, deployment, and operational technical support exposure",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Continuous Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Independent Work",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Technical Support Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
 }
 
   
