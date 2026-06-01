@@ -10628,6 +10628,237 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+"pyspark-ml-188": {
+    "meta": {
+      "jobId": "pyspark-ml-188",
+      "company": "Private Client",
+      "role": "Python / PySpark Engineer with Machine Learning Experience",
+      "source": "Local Job Post",
+      "dateAdded": "2026-06-01",
+      "jobDescription": "Python, PySpark, ETL pipelines, machine learning deployment, ML lifecycle, distributed systems, data engineering, and production AI workflows."
+    },
+    "keyRequirements": [
+      "Python development",
+      "PySpark ETL pipelines",
+      "Large-scale data processing",
+      "Machine learning model implementation",
+      "Machine learning deployment",
+      "Backend automation scripts",
+      "Model training and evaluation",
+      "Model serving and inference",
+      "Data preprocessing",
+      "Feature engineering",
+      "Model versioning",
+      "Unit testing",
+      "Integration testing",
+      "Documentation",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "Spark MLlib",
+      "SQL",
+      "Parquet",
+      "JSON",
+      "Avro",
+      "Jupyter Notebook",
+      "MLflow",
+      "Docker",
+      "Kubernetes",
+      "MLOps",
+      "CI/CD for ML",
+      "Kafka",
+      "Databricks",
+      "AWS SageMaker",
+      "Azure ML",
+      "Vertex AI"
+    ],
+    "narrative": "Natinael has practical experience building AI-enabled software systems, machine learning applications, and production backend services. His strongest alignment comes from real-world AI implementation projects involving PyTorch, TensorFlow, FastAPI, PostgreSQL, Docker, and RAG architectures. While he does not claim production PySpark or large-scale distributed data engineering experience, he has demonstrated the ability to rapidly learn new technologies and successfully deploy AI-powered systems. His experience aligns most strongly with Python engineering, ML implementation, model integration, backend services, and AI deployment rather than enterprise-scale Spark infrastructure.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Python",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Used in AI projects, FastAPI systems, ML prototypes, automation scripts, and backend development"
+        },
+        {
+          "skillName": "PySpark",
+          "myProficiency": 15,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 15,
+          "evidence": "No significant production experience"
+        },
+        {
+          "skillName": "Machine Learning",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Built ML-powered systems and AI-enhanced applications"
+        },
+        {
+          "skillName": "TensorFlow",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 75,
+          "evidence": "Academic and project-based ML development"
+        },
+        {
+          "skillName": "PyTorch",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Used in machine learning experimentation and AI development"
+        },
+        {
+          "skillName": "FastAPI",
+          "myProficiency": 85,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Built RAG backend architecture using FastAPI"
+        },
+        {
+          "skillName": "SQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "High",
+          "matchScore": 90,
+          "evidence": "PostgreSQL and relational database design across multiple systems"
+        },
+        {
+          "skillName": "Data Preprocessing",
+          "myProficiency": 75,
+          "jobRequirementLevel": "High",
+          "matchScore": 80,
+          "evidence": "Prepared datasets and document pipelines for ML and RAG workflows"
+        },
+        {
+          "skillName": "Feature Engineering",
+          "myProficiency": 60,
+          "jobRequirementLevel": "High",
+          "matchScore": 65,
+          "evidence": "Applied during ML experimentation and AI projects"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 85,
+          "evidence": "Containerized RAG backend systems and deployment environments"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Production backend systems and API services"
+        },
+        {
+          "skillName": "Jupyter Notebook",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Used for machine learning experimentation and development"
+        },
+        {
+          "skillName": "MLflow",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 10,
+          "evidence": "No direct experience"
+        },
+        {
+          "skillName": "Spark MLlib",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 10,
+          "evidence": "No direct experience"
+        },
+        {
+          "skillName": "Kafka",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 10,
+          "evidence": "No direct experience"
+        },
+        {
+          "skillName": "Kubernetes",
+          "myProficiency": 20,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 20,
+          "evidence": "Basic exposure only"
+        },
+        {
+          "skillName": "MLOps",
+          "myProficiency": 40,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 45,
+          "evidence": "Basic deployment, versioning, and containerization exposure"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-4",
+          "relevance": "RAG backend architecture using FastAPI, PostgreSQL, Docker, embeddings, and AI workflows",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "Machine learning and computer vision components for intelligent monitoring",
+          "matchScore": 85
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Production backend architecture and API engineering",
+          "matchScore": 80
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "Complex database design and business workflow automation",
+          "matchScore": 75
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Applied AI, backend engineering, and emerging technology development",
+          "matchScore": 85
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Active Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Research Mindset",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Adaptability",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering with machine learning, AI, databases, software engineering, and data-related coursework"
+      }
+    }
 }
 
   
