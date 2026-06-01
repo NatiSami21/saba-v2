@@ -11082,6 +11082,217 @@
         "evidence": "Bachelor of Science in Software Engineering"
       }
     }
+},
+
+"abugida-191": {
+    "meta": {
+      "jobId": "abugida-191",
+      "company": "Abugida Robotics and Technology Center PLC",
+      "role": "Software Developer",
+      "source": "Local Job Post",
+      "dateAdded": "2026-06-02",
+      "jobDescription": "Software Developer role focused on LMS systems, AI integration, LLM-powered educational tools, full-stack development, database management, educational technology, and robotics-supporting digital platforms."
+    },
+    "keyRequirements": [
+      "Learning Management System development and maintenance",
+      "Scalable backend development",
+      "Responsive frontend development",
+      "AI tool integration",
+      "API integration",
+      "LLM integration",
+      "Automated grading systems",
+      "Personalized feedback systems",
+      "Gamification tools",
+      "Educational simulators",
+      "Progress tracking systems",
+      "SQL database management",
+      "NoSQL database management",
+      "Bug fixing and troubleshooting",
+      "Software security",
+      "Performance optimization",
+      "Technical documentation",
+      "Node.js development",
+      "Python development",
+      "Full-stack software engineering",
+      "Professional English communication",
+      "2-4 years practical software engineering experience",
+      "Portfolio demonstrating AI integration",
+      "Educational technology experience"
+    ],
+    "narrative": "Natinael is a strong match for this role due to his combination of full-stack software engineering, AI integration experience, educational technology projects, machine learning exposure, and innovation-driven product development. He has built production systems using Node.js, React, MongoDB, PostgreSQL, FastAPI, React Native, Docker, and AI-powered architectures. Particularly relevant are his Academic Assignment Helper & Plagiarism Detector (RAG-powered educational platform), Fayda Smart Library Management System, MedHub Ethiopia AI-assisted healthcare platform, MyFayda eKYC integration project, and Wa-Leba+ AI Surveillance SaaS. His experience focuses on practical AI implementation, API integration, machine learning-assisted systems, and real-world product delivery rather than purely academic AI research.",
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Full Stack Development",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Built and deployed multiple end-to-end systems including MedHub Ethiopia, WZSIT WebApp, St. Mary Finance System, MyFayda eKYC integrations, and Fayda Smart Library Management"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary backend technology across production MERN stack projects"
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 80,
+          "evidence": "Developed FastAPI-based RAG systems, AI-powered services, automation workflows, and ML experimentation"
+        },
+        {
+          "skillName": "AI Tool Integration",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Integrated multiple AI services, LLMs, retrieval systems, automation workflows, and AI-assisted application features"
+        },
+        {
+          "skillName": "Large Language Models (LLMs)",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Built RAG-powered educational systems integrating multiple third-party AI models and retrieval pipelines"
+        },
+        {
+          "skillName": "Machine Learning",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Wa-Leba+, MedHub Ethiopia intelligent recommendation engine, AI experimentation, model integration projects"
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Designed and integrated APIs across all major software projects"
+        },
+        {
+          "skillName": "SQL Databases",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "PostgreSQL, MySQL, Supabase and relational system design"
+        },
+        {
+          "skillName": "NoSQL Databases",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "MongoDB across multiple production MERN systems"
+        },
+        {
+          "skillName": "Security and Authentication",
+          "myProficiency": 90,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "JWT authentication, role-based access control, MyFayda eKYC integration"
+        },
+        {
+          "skillName": "Performance Optimization",
+          "myProficiency": 85,
+          "jobRequirementLevel": "High",
+          "matchScore": 90,
+          "evidence": "Backend optimization, database indexing, offline-first synchronization architecture"
+        },
+        {
+          "skillName": "Technical Documentation",
+          "myProficiency": 90,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Project documentation, academic deliverables, deployment documentation"
+        },
+        {
+          "skillName": "English Communication",
+          "myProficiency": 90,
+          "jobRequirementLevel": "High",
+          "matchScore": 95,
+          "evidence": "Technical presentations, stakeholder communication, mentorship activities"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-6",
+          "relevance": "RAG-powered Academic Assignment Helper and Plagiarism Detection platform with educational workflows, AI integration, retrieval systems, and personalized feedback capabilities",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "Educational technology platform for library management, offline-first architecture, student-focused workflows, and digital learning support",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "AI-assisted healthcare platform including symptom analysis and practitioner recommendation features",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-7",
+          "relevance": "Wa-Leba+ AI Surveillance SaaS combining machine learning, real-time computer vision, analytics, and scalable SaaS architecture",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-2",
+          "relevance": "Complex API integration, authentication systems, workflow automation, and secure digital services",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-2",
+          "relevance": "Founder of technology startups delivering real-world software products and innovation projects",
+          "matchScore": 100
+        },
+        {
+          "experienceId": "exp-3",
+          "relevance": "Innovation competition participation and award-winning solution development",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Innovation",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Continuous Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Educational Impact",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "Bachelor of Science in Software Engineering"
+      }
+  }
+
 }
 
   
