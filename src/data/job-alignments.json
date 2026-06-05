@@ -11293,7 +11293,304 @@
       }
   }
 
+},
+
+"erp-solutions-192": {
+    "meta": {
+      "jobId": "erp-solutions-192",
+      "company": "ERP Solutions Ethiopia Plc",
+      "role": "Junior Software Engineer",
+      "source": "HaHuJobs",
+      "dateAdded": "2026-06-05",
+      "jobDescription": "Junior Software Engineer responsible for software development, testing, database management, documentation, maintenance, and team collaboration."
+    },
+    "keyRequirements": [
+      "Bachelor's Degree in Software Engineering, Computer Science, IT or related field",
+      "0-2 years software development experience",
+      "Experience with Django, Flask, React or Vue.js",
+      "Develop and maintain software applications",
+      "Write clean and documented code",
+      "Participate in software design discussions",
+      "Assist in web, mobile or desktop application development",
+      "Perform unit testing and debugging",
+      "Identify and fix defects",
+      "Support integration testing and user acceptance testing",
+      "Design and maintain database objects",
+      "Write SQL queries",
+      "Ensure data integrity and security",
+      "Prepare technical documentation",
+      "Document software designs and user guides",
+      "Maintain project documentation",
+      "Provide technical support",
+      "Troubleshoot software issues",
+      "Participate in upgrades and enhancements",
+      "Work closely with project teams",
+      "Participate in code reviews",
+      "Attend sprint planning and project meetings",
+      "Python",
+      "Java",
+      "JavaScript",
+      "C#",
+      "Object-Oriented Programming",
+      "HTML",
+      "CSS",
+      "REST APIs",
+      "MySQL",
+      "PostgreSQL",
+      "SQL Server",
+      "SDLC understanding",
+      "Git version control",
+      "ERPNext knowledge",
+      "Odoo knowledge",
+      "Agile/Scrum familiarity",
+      "Analytical skills",
+      "Problem-solving skills",
+      "Communication skills",
+      "Team collaboration",
+      "Willingness to learn",
+      "Time management",
+      "Organizational skills"
+    ],
+    "narrative": "Natinael Samuel is a Software Engineering graduate with strong practical experience building production-level software systems using React, JavaScript, Python, Node.js, SQL, PostgreSQL, MySQL, REST APIs, and Git. Through projects such as MedHub Ethiopia, MyFayda eKYC, WZSIT WebApp, St. Mary Finance System, and the Offline-First Smart Library System, he has participated in the full software development lifecycle including requirements gathering, system design, development, testing, deployment, documentation, maintenance, and stakeholder collaboration. While he does not have direct professional experience with Odoo, ERPNext, Django, Flask, C#, or SQL Server, he possesses strong transferable software engineering fundamentals and demonstrates a high capacity to learn enterprise systems quickly."
+    ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "Software Engineering Degree",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "BSc Software Engineering completed in 2025."
+        },
+        {
+          "skillName": "React",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Used extensively in MedHub Ethiopia, WZSIT WebApp and Library System."
+        },
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Core language across multiple production projects."
+        },
+        {
+          "skillName": "Python",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used in AI systems, FastAPI applications and automation workflows."
+        },
+        {
+          "skillName": "Django",
+          "myProficiency": 15,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 15,
+          "evidence": "No professional experience."
+        },
+        {
+          "skillName": "Flask",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 10,
+          "evidence": "No professional experience."
+        },
+        
+        {
+          "skillName": "FastAPI",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "No professional experience."
+        },
+        
+        {
+          "skillName": "Vue.js",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 10,
+          "evidence": "No professional experience."
+        },
+        {
+          "skillName": "Java",
+          "myProficiency": 45,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 45,
+          "evidence": "Academic projects and Android development."
+        },
+        {
+          "skillName": "C#",
+          "myProficiency": 0,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 0,
+          "evidence": "No experience."
+        },
+        {
+          "skillName": "HTML",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used across all web projects."
+        },
+        {
+          "skillName": "CSS",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Tailwind CSS and responsive web development."
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Developed and integrated APIs in MedHub Ethiopia and MyFayda."
+        },
+        {
+          "skillName": "MySQL",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Used in St. Mary Finance Management System."
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Used in Smart Library Management System."
+        },
+        {
+          "skillName": "SQL Server",
+          "myProficiency": 10,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 10,
+          "evidence": "Minimal exposure."
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Daily version control across projects."
+        },
+        {
+          "skillName": "OOP",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Applied in Java, JavaScript, Python and system design."
+        },
+        {
+          "skillName": "SDLC",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Required",
+          "matchScore": 90,
+          "evidence": "Managed requirements, development, testing, deployment and maintenance."
+        },
+        {
+          "skillName": "ERPNext",
+          "myProficiency": 50,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 80,
+          "evidence": "No direct experience."
+        },
+        {
+          "skillName": "Odoo",
+          "myProficiency": 20,
+          "jobRequirementLevel": "Preferred",
+          "matchScore": 20,
+          "evidence": "Functional understanding from job analysis and research but no implementation experience."
+        },
+        {
+          "skillName": "Agile/Scrum",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Applied sprint planning and iterative development in multiple projects."
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "MedHub Ethiopia demonstrates full SDLC, APIs, databases, documentation and maintenance.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "WZSIT WebApp demonstrates stakeholder collaboration, requirements gathering and team coordination.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "St. Mary Finance System demonstrates SQL, reporting, documentation and support.",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-9",
+          "relevance": "Offline-First Smart Library demonstrates PostgreSQL, database design and enterprise architecture.",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "MyFayda eKYC demonstrates REST APIs, security and system integration.",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Founder and Lead Architect responsible for complete SDLC and documentation.",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "exp-5",
+          "relevance": "Lead developer responsible for software architecture, testing and deployment.",
+          "matchScore": 95
+        },
+        {
+          "experienceId": "exp-6",
+          "relevance": "Worked with stakeholders, sprint planning and project delivery.",
+          "matchScore": 90
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 95
+          },
+          {
+            "aspect": "Willingness To Learn",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "Bachelor of Science in Software Engineering."
+      }
+    }
 }
+
 
   
 
