@@ -11779,6 +11779,237 @@
         "evidence": "BSc in Software Engineering"
       }
     }
+},
+
+"mager-201": {
+    "meta": {
+      "jobId": "mager-201",
+      "company": "Mager Software PLC",
+      "role": "Vibe Coder (AI-Assisted Full Stack Developer)",
+      "source": "Ethiojobs",
+      "dateAdded": "2026-06-08",
+      "jobDescription": "AI-assisted Full Stack Developer focused on rapidly building production software using modern AI development tools."
+    },
+    "keyRequirements": [
+      "AI-assisted software development",
+      "Cursor AI",
+      "ChatGPT",
+      "Claude",
+      "Windsurf",
+      "Lovable",
+      "Bolt",
+      "Replit",
+      "JavaScript",
+      "React.js",
+      "Node.js",
+      "REST APIs",
+      "API Integration",
+      "Web Application Development",
+      "Mobile Application Development",
+      "Problem Solving",
+      "Communication Skills",
+      "Independent Work",
+      "Meeting Deadlines",
+      "Portfolio/GitHub",
+      "TypeScript",
+      "Vite",
+      "Cloud Deployment",
+      "VPS Configuration",
+      "MySQL",
+      "PostgreSQL",
+      "MongoDB",
+      "Startup Environment",
+      "Scalable Software Development"
+    ],
+    "narrative": "Natinael aligns strongly with this role because his work history demonstrates exactly the type of AI-assisted product development Mager Software is seeking. He has used AI tools throughout the software lifecycle, from requirements analysis and architecture exploration to implementation, testing, deployment, documentation, and user training. His portfolio includes multiple deployed products including MyFayda eKYC, St. Mary Finance System, Fayda Smart Library Management System, MedHub Ethiopia, WZSIT WebApp, and a RAG-powered Academic Assignment Helper. These projects demonstrate React, Node.js, API integration, mobile development, AI integration, Docker deployment, startup execution, and rapid MVP delivery."
+,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "AI-Assisted Development",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Uses ChatGPT and AI-assisted workflows across planning, coding, testing, debugging, documentation, deployment, and training"
+        },
+        {
+          "skillName": "ChatGPT",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Used extensively throughout development lifecycle across multiple production projects"
+        },
+        {
+          "skillName": "Claude",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 75,
+          "evidence": "Exposure through AI-assisted development workflows"
+        },
+        {
+          "skillName": "Cursor AI",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 70,
+          "evidence": "Familiar with AI-assisted coding environments"
+        },
+        {
+          "skillName": "JavaScript",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary language across full-stack projects"
+        },
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used in MERN-based systems and frontend development"
+        },
+        {
+          "skillName": "React Native",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Built Fayda Smart Library Management mobile application"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Core backend stack across production systems"
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Designed and integrated APIs across multiple projects"
+        },
+        {
+          "skillName": "API Integration",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "MyFayda integration, AI integrations, WebRTC integrations"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Primary database in MERN systems"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Used in RAG and FastAPI projects"
+        },
+        {
+          "skillName": "MySQL",
+          "myProficiency": 70,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 80,
+          "evidence": "Used in relational database projects"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 80,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 90,
+          "evidence": "Containerized RAG systems and backend services"
+        },
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 60,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 65,
+          "evidence": "Limited exposure compared to JavaScript"
+        },
+        {
+          "skillName": "Startup Environment",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Founder of DiguwaSoft and DiguwaStore"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "MyFayda eKYC MERN application with authentication and API integrations",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-style business system demonstrating full-stack ownership",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-5",
+          "relevance": "React Native mobile application development",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-6",
+          "relevance": "AI-powered RAG platform with Dockerized deployment",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "AI and machine learning integrated SaaS platform",
+          "matchScore": 95
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-entrepreneurship",
+          "relevance": "Startup product delivery and independent execution",
+          "matchScore": 100
+        },
+        {
+          "experienceId": "exp-software-engineering",
+          "relevance": "Full software lifecycle execution from requirements to deployment",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Innovation",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Independent Work",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Rapid Learning",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+  }
 }
 
 
