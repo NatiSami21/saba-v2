@@ -11589,10 +11589,199 @@
         "evidence": "Bachelor of Science in Software Engineering."
       }
     }
+},
+
+"fanaye-200": {
+    "meta": {
+      "jobId": "fanaye-200",
+      "company": "Fanaye Technologies",
+      "role": "Full-Stack Engineer (React/Next.js & Node.js)",
+      "source": "Afriwork",
+      "dateAdded": "2026-06-08",
+      "jobDescription": "Full-stack engineer role focused on React, Next.js, Node.js, REST APIs, SQL/NoSQL databases, Express, TypeScript, Docker, cloud deployment, scalable architectures, frontend optimization, backend services, and collaborative software development."
+    },
+    "keyRequirements": [
+      "React.js",
+      "Next.js",
+      "SSR and SSG concepts",
+      "Routing and state management",
+      "Node.js backend development",
+      "SQL databases",
+      "NoSQL databases",
+      "RESTful API development",
+      "Git version control",
+      "Express.js",
+      "NestJS",
+      "TypeScript",
+      "Docker",
+      "Cloud deployment workflows",
+      "Frontend optimization",
+      "Backend architecture",
+      "Database schema design",
+      "Debugging and troubleshooting",
+      "Clean and maintainable code",
+      "Communication skills",
+      "Team collaboration",
+      "Problem solving",
+      "Ownership of features"
+    ],
+    "narrative": "Natinael aligns strongly with Fanaye Technologies' preference for modern JavaScript full-stack development. His strongest matches are Node.js, Express.js, React, REST APIs, MongoDB, PostgreSQL, Git workflows, and end-to-end system ownership. Through projects such as MedHub Ethiopia, MyFayda eKYC, WZSIT WebApp, St. Mary Finance Management System, and the Academic Assignment Helper RAG platform, he has built complete solutions from requirements gathering through deployment. While his production experience with Next.js, NestJS, and TypeScript is more limited than his MERN-stack experience, his proven ability to learn new technologies and deliver production systems positions him as a strong candidate for this role."
+      ,
+    "alignment": {
+      "skills": [
+        {
+          "skillName": "React.js",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Used across MERN projects including MedHub Ethiopia and WZSIT"
+        },
+        {
+          "skillName": "Next.js",
+          "myProficiency": 55,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 60,
+          "evidence": "Internship exposure and personal project experience"
+        },
+        {
+          "skillName": "Node.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary backend technology across multiple production systems"
+        },
+        {
+          "skillName": "Express.js",
+          "myProficiency": 92,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Core backend framework used in MERN applications"
+        },
+        {
+          "skillName": "NestJS",
+          "myProficiency": 25,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 30,
+          "evidence": "No significant production experience"
+        },
+        {
+          "skillName": "TypeScript",
+          "myProficiency": 45,
+          "jobRequirementLevel": "Medium",
+          "matchScore": 50,
+          "evidence": "Limited practical exposure"
+        },
+        {
+          "skillName": "MongoDB",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Primary database in MERN stack projects"
+        },
+        {
+          "skillName": "PostgreSQL",
+          "myProficiency": 85,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 90,
+          "evidence": "Used in RAG backend and analytics-oriented systems"
+        },
+        {
+          "skillName": "REST APIs",
+          "myProficiency": 95,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 100,
+          "evidence": "Developed APIs for MyFayda eKYC, MedHub, WZSIT and Finance System"
+        },
+        {
+          "skillName": "Git",
+          "myProficiency": 90,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 95,
+          "evidence": "Version control used throughout all projects"
+        },
+        {
+          "skillName": "Docker",
+          "myProficiency": 75,
+          "jobRequirementLevel": "Expert",
+          "matchScore": 85,
+          "evidence": "Used in Assignment Helper RAG and containerized backend systems"
+        }
+      ],
+      "projectHighlights": [
+        {
+          "projectId": "project-2",
+          "relevance": "MyFayda eKYC API integration, authentication and backend architecture",
+          "matchScore": 100
+        },
+        {
+          "projectId": "project-3",
+          "relevance": "MedHub Ethiopia full-stack SaaS platform",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-1",
+          "relevance": "ERP-like finance management system with database workflows",
+          "matchScore": 95
+        },
+        {
+          "projectId": "project-4",
+          "relevance": "Dockerized RAG backend architecture and API services",
+          "matchScore": 90
+        },
+        {
+          "projectId": "project-6",
+          "relevance": "MERN web application with stakeholder-focused workflows",
+          "matchScore": 90
+        }
+      ],
+      "experienceHighlights": [
+        {
+          "experienceId": "exp-1",
+          "relevance": "Frontend internship exposure including React and Next.js",
+          "matchScore": 80
+        },
+        {
+          "experienceId": "exp-2",
+          "relevance": "Founder experience delivering systems independently",
+          "matchScore": 95
+        }
+      ],
+      "culturalFit": {
+        "aspects": [
+          {
+            "aspect": "Problem Solving",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Ownership",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 100
+          },
+          {
+            "aspect": "Communication",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          },
+          {
+            "aspect": "Team Collaboration",
+            "myStrength": "High",
+            "jobRequirement": "High",
+            "matchScore": 90
+          }
+        ]
+      },
+      "educationFit": {
+        "relevant": true,
+        "evidence": "BSc in Software Engineering"
+      }
+    }
 }
 
 
-  
 
 
 }
